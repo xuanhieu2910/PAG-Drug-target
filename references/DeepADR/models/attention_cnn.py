@@ -1,3 +1,4 @@
+import torch
 from torch import nn
 
 
@@ -36,7 +37,7 @@ class AttentionCNN(nn.Module):
             nn.ReLU(),
         )
 
-    def forward(self, mol, adr):
+    def forward(self, mol : torch.Tensor, adr: torch.Tensor) -> torch.Tensor:
         Q = self.Q_projector(mol)
         K = self.K_V_projector(adr)
         V = self.K_V_projector(adr)

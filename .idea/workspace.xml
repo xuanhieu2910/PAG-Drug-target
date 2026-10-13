@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a734600a-935b-4ea8-b374-b7b6d5f114f0" name="Changes" comment="init project">
-      <change afterPath="$PROJECT_DIR$/references/DeepADR/features/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/DeepADR/features/adr_semantic_embedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/DeepADR/features/drug_target_embedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/DeepADR/features/mocular_embedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/DeepADR/models/attention_cnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/DeepADR/models/deepadr_implement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/DeepADR/models/kan_implement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/DeepADR/models/variational_autoencoder_implement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/DeepADR/references/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a734600a-935b-4ea8-b374-b7b6d5f114f0" name="Changes" comment="implement layers DeepADR">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/references/DeepADR/models/attention_cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/references/DeepADR/models/attention_cnn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,22 +45,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;hieu&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Research/PAG-DrugTarget/references/DeepADR/data/raw/adr_annotations&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "hieu",
+    "last_opened_file_path": "D:/Research/PAG-DrugTarget",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Research\PAG-DrugTarget" />
+      <recent name="D:\Research\PAG-DrugTarget\references\DeepADR\data\raw\molecular" />
       <recent name="D:\Research\PAG-DrugTarget\references\DeepADR\data\raw\adr_annotations" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -95,7 +94,13 @@
       <workItem from="1789045723485" duration="4403000" />
       <workItem from="1789118127987" duration="2845000" />
       <workItem from="1789121113382" duration="5567000" />
-      <workItem from="1789200186976" duration="3198000" />
+      <workItem from="1789200186976" duration="3241000" />
+      <workItem from="1789370359108" duration="7690000" />
+      <workItem from="1789647537692" duration="1292000" />
+      <workItem from="1789721663331" duration="4291000" />
+      <workItem from="1791519380792" duration="183000" />
+      <workItem from="1791519600699" duration="7950000" />
+      <workItem from="1791772069667" duration="31988000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <option name="closed" value="true" />
@@ -105,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789120865808</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="implement layers DeepADR">
+      <option name="closed" value="true" />
+      <created>1789203442968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789203442968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +137,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+    <MESSAGE value="implement layers DeepADR" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement layers DeepADR" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
