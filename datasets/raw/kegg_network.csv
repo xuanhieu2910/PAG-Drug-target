@@ -1,0 +1,2306 @@
+kegg_hsa,network_id,network_name
+hsa:2162,nt06514,Coagulation cascade
+hsa:4843,nt06460,Alzheimer disease
+hsa:4843,nt06466,Pathways of neurodegeneration
+hsa:3294,nt06019,Steroid hormone biosynthesis
+hsa:5836,nt06017,Glycogen metabolism
+hsa:8911,nt06460,Alzheimer disease
+hsa:8911,nt06461,Huntington disease
+hsa:8911,nt06462,Spinocerebellar ataxia
+hsa:8911,nt06463,Parkinson disease
+hsa:8911,nt06465,Prion disease
+hsa:8911,nt06466,Pathways of neurodegeneration
+hsa:8911,nt06528,Calcium signaling
+hsa:25,nt06180,Pathogenic Escherichia coli
+hsa:25,nt06210,ERK signaling (cancer)
+hsa:25,nt06214,PI3K signaling (cancer)
+hsa:25,nt06219,JAK-STAT signaling (cancer)
+hsa:25,nt06223,TNF signaling (cancer)
+hsa:25,nt06276,Chronic myeloid leukemia
+hsa:25,nt06546,IgSF CAM signaling
+hsa:1812,nt06167,Human cytomegalovirus (HCMV)
+hsa:1812,nt06544,Neuroactive ligand signaling
+hsa:2324,nt06216,NOTCH signaling (cancer)
+hsa:2324,nt06270,Breast cancer
+hsa:2324,nt06526,MAPK signaling
+hsa:2324,nt06528,Calcium signaling
+hsa:2324,nt06530,PI3K signaling
+hsa:81027,nt06180,Pathogenic Escherichia coli
+hsa:81027,nt06181,Salmonella
+hsa:81027,nt06460,Alzheimer disease
+hsa:81027,nt06461,Huntington disease
+hsa:81027,nt06463,Parkinson disease
+hsa:81027,nt06464,Amyotrophic lateral sclerosis
+hsa:81027,nt06465,Prion disease
+hsa:81027,nt06466,Pathways of neurodegeneration
+hsa:81027,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:81027,nt06541,Cytoskeleton in neurons
+hsa:81027,nt06546,IgSF CAM signaling
+hsa:4731,nt06460,Alzheimer disease
+hsa:4731,nt06463,Parkinson disease
+hsa:4731,nt06464,Amyotrophic lateral sclerosis
+hsa:4731,nt06466,Pathways of neurodegeneration
+hsa:2321,nt06240,Transcription (cancer)
+hsa:2321,nt06526,MAPK signaling
+hsa:2321,nt06528,Calcium signaling
+hsa:2321,nt06530,PI3K signaling
+hsa:1717,nt06034,Cholesterol biosynthesis
+hsa:3643,nt06325,Hormone/cytokine signaling
+hsa:3643,nt06526,MAPK signaling
+hsa:3643,nt06530,PI3K signaling
+hsa:5894,nt06162,Hepatitis B virus (HBV)
+hsa:5894,nt06163,Hepatitis C virus (HCV)
+hsa:5894,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:5894,nt06166,Human papillomavirus (HPV)
+hsa:5894,nt06167,Human cytomegalovirus (HCMV)
+hsa:5894,nt06170,Influenza A virus (IAV)
+hsa:5894,nt06181,Salmonella
+hsa:5894,nt06210,ERK signaling (cancer)
+hsa:5894,nt06220,Calcium signaling (cancer)
+hsa:5894,nt06224,CXCR signaling (cancer)
+hsa:5894,nt06230,Cell cycle (cancer)
+hsa:5894,nt06260,Colorectal cancer
+hsa:5894,nt06261,Gastric cancer
+hsa:5894,nt06262,Pancreatic cancer
+hsa:5894,nt06263,Hepatocellular carcinoma
+hsa:5894,nt06264,Renal cell carcinoma
+hsa:5894,nt06265,Bladder cancer
+hsa:5894,nt06266,Non-small cell lung cancer
+hsa:5894,nt06268,Melanoma
+hsa:5894,nt06270,Breast cancer
+hsa:5894,nt06271,Endometrial cancer
+hsa:5894,nt06273,Glioma
+hsa:5894,nt06274,Thyroid cancer
+hsa:5894,nt06275,Acute myeloid leukemia
+hsa:5894,nt06276,Chronic myeloid leukemia
+hsa:5894,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:5894,nt06324,GHRH-GH-IGF signaling
+hsa:5894,nt06460,Alzheimer disease
+hsa:5894,nt06466,Pathways of neurodegeneration
+hsa:5894,nt06526,MAPK signaling
+hsa:5894,nt06543,NRG-ERBB signaling
+hsa:5894,nt06549,Cadherin signaling
+hsa:4728,nt06460,Alzheimer disease
+hsa:4728,nt06463,Parkinson disease
+hsa:4728,nt06464,Amyotrophic lateral sclerosis
+hsa:4728,nt06466,Pathways of neurodegeneration
+hsa:4728,nt06529,Thermogenesis
+hsa:1910,nt06325,Hormone/cytokine signaling
+hsa:1910,nt06528,Calcium signaling
+hsa:1131,nt06460,Alzheimer disease
+hsa:1131,nt06466,Pathways of neurodegeneration
+hsa:1131,nt06528,Calcium signaling
+hsa:1131,nt06544,Neuroactive ligand signaling
+hsa:5313,nt06017,Glycogen metabolism
+hsa:5313,nt06031,Citrate cycle and pyruvate metabolism
+hsa:2147,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:2147,nt06514,Coagulation cascade
+hsa:210,nt06011,Heme biosynthesis
+hsa:3283,nt06019,Steroid hormone biosynthesis
+hsa:4318,nt06162,Hepatitis B virus (HBV)
+hsa:4318,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:4318,nt06240,Transcription (cancer)
+hsa:4318,nt06263,Hepatocellular carcinoma
+hsa:4318,nt06272,Prostate cancer
+hsa:3284,nt06019,Steroid hormone biosynthesis
+hsa:185,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:185,nt06316,Renin-angiotensin-aldosterone signaling
+hsa:185,nt06528,Calcium signaling
+hsa:5731,nt06528,Calcium signaling
+hsa:3945,nt06017,Glycogen metabolism
+hsa:38,nt06020,beta-Oxidation in mitochondria
+hsa:38,nt06034,Cholesterol biosynthesis
+hsa:5465,nt06163,Hepatitis C virus (HCV)
+hsa:5465,nt06263,Hepatocellular carcinoma
+hsa:190,nt06310,CRH-ACTH-cortisol signaling
+hsa:3251,nt06027,Purine salvage pathway
+hsa:6257,nt06240,Transcription (cancer)
+hsa:6257,nt06274,Thyroid cancer
+hsa:6257,nt06322,TRH-TSH-TH signaling
+hsa:121278,nt06028,Dopamine and serotonin metabolism
+hsa:121278,nt06544,Neuroactive ligand signaling
+hsa:4705,nt06460,Alzheimer disease
+hsa:4705,nt06463,Parkinson disease
+hsa:4705,nt06464,Amyotrophic lateral sclerosis
+hsa:4705,nt06466,Pathways of neurodegeneration
+hsa:4705,nt06529,Thermogenesis
+hsa:1152,nt06033,"Glycine, serine and arginine metabolism"
+hsa:3034,nt06037,Histidine metabolism
+hsa:3034,nt06545,Cornified envelope formation
+hsa:5315,nt06017,Glycogen metabolism
+hsa:5315,nt06031,Citrate cycle and pyruvate metabolism
+hsa:5315,nt06166,Human papillomavirus (HPV)
+hsa:4725,nt06460,Alzheimer disease
+hsa:4725,nt06463,Parkinson disease
+hsa:4725,nt06464,Amyotrophic lateral sclerosis
+hsa:4725,nt06466,Pathways of neurodegeneration
+hsa:1128,nt06460,Alzheimer disease
+hsa:1128,nt06466,Pathways of neurodegeneration
+hsa:1128,nt06528,Calcium signaling
+hsa:1128,nt06530,PI3K signaling
+hsa:1128,nt06544,Neuroactive ligand signaling
+hsa:4726,nt06460,Alzheimer disease
+hsa:4726,nt06463,Parkinson disease
+hsa:4726,nt06464,Amyotrophic lateral sclerosis
+hsa:4726,nt06466,Pathways of neurodegeneration
+hsa:4726,nt06529,Thermogenesis
+hsa:57105,nt06528,Calcium signaling
+hsa:6584,nt06020,beta-Oxidation in mitochondria
+hsa:64805,nt06535,Efferocytosis
+hsa:64805,nt06544,Neuroactive ligand signaling
+hsa:5423,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:5423,nt06504,Base excision repair
+hsa:6571,nt06028,Dopamine and serotonin metabolism
+hsa:6571,nt06463,Parkinson disease
+hsa:6571,nt06544,Neuroactive ligand signaling
+hsa:7166,nt06028,Dopamine and serotonin metabolism
+hsa:7166,nt06544,Neuroactive ligand signaling
+hsa:2099,nt06210,ERK signaling (cancer)
+hsa:2099,nt06214,PI3K signaling (cancer)
+hsa:2099,nt06227,Nuclear receptor signaling (cancer)
+hsa:2099,nt06270,Breast cancer
+hsa:2099,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:1645,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:1645,nt06251,CYP-mediated ROS formation (cancer)
+hsa:3291,nt06019,Steroid hormone biosynthesis
+hsa:367,nt06227,Nuclear receptor signaling (cancer)
+hsa:367,nt06272,Prostate cancer
+hsa:3973,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:3973,nt06528,Calcium signaling
+hsa:4729,nt06460,Alzheimer disease
+hsa:4729,nt06463,Parkinson disease
+hsa:4729,nt06464,Amyotrophic lateral sclerosis
+hsa:4729,nt06466,Pathways of neurodegeneration
+hsa:4729,nt06529,Thermogenesis
+hsa:1621,nt06028,Dopamine and serotonin metabolism
+hsa:1621,nt06544,Neuroactive ligand signaling
+hsa:203068,nt06180,Pathogenic Escherichia coli
+hsa:203068,nt06181,Salmonella
+hsa:203068,nt06460,Alzheimer disease
+hsa:203068,nt06461,Huntington disease
+hsa:203068,nt06463,Parkinson disease
+hsa:203068,nt06464,Amyotrophic lateral sclerosis
+hsa:203068,nt06465,Prion disease
+hsa:203068,nt06466,Pathways of neurodegeneration
+hsa:203068,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:203068,nt06541,Cytoskeleton in neurons
+hsa:203068,nt06546,IgSF CAM signaling
+hsa:1816,nt06544,Neuroactive ligand signaling
+hsa:2322,nt06210,ERK signaling (cancer)
+hsa:2322,nt06214,PI3K signaling (cancer)
+hsa:2322,nt06219,JAK-STAT signaling (cancer)
+hsa:2322,nt06240,Transcription (cancer)
+hsa:2322,nt06262,Pancreatic cancer
+hsa:2322,nt06275,Acute myeloid leukemia
+hsa:2322,nt06526,MAPK signaling
+hsa:2322,nt06530,PI3K signaling
+hsa:51284,nt06169,Measles virus (MV)
+hsa:51284,nt06517,TLR signaling
+hsa:10280,nt06464,Amyotrophic lateral sclerosis
+hsa:10280,nt06466,Pathways of neurodegeneration
+hsa:26227,nt06033,"Glycine, serine and arginine metabolism"
+hsa:4967,nt06031,Citrate cycle and pyruvate metabolism
+hsa:4967,nt06032,Lipoic acid metabolism
+hsa:7422,nt06219,JAK-STAT signaling (cancer)
+hsa:7422,nt06225,HIF-1 signaling (cancer)
+hsa:7422,nt06227,Nuclear receptor signaling (cancer)
+hsa:7422,nt06262,Pancreatic cancer
+hsa:7422,nt06264,Renal cell carcinoma
+hsa:7422,nt06360,Cushing syndrome
+hsa:7422,nt06526,MAPK signaling
+hsa:7422,nt06528,Calcium signaling
+hsa:7422,nt06530,PI3K signaling
+hsa:7422,nt06542,HIF signaling
+hsa:552,nt06528,Calcium signaling
+hsa:2729,nt06026,Glutathione biosynthesis
+hsa:2729,nt06525,Ferroptosis
+hsa:4697,nt06460,Alzheimer disease
+hsa:4697,nt06463,Parkinson disease
+hsa:4697,nt06464,Amyotrophic lateral sclerosis
+hsa:4697,nt06466,Pathways of neurodegeneration
+hsa:4697,nt06529,Thermogenesis
+hsa:153,nt06544,Neuroactive ligand signaling
+hsa:4718,nt06460,Alzheimer disease
+hsa:4718,nt06463,Parkinson disease
+hsa:4718,nt06464,Amyotrophic lateral sclerosis
+hsa:4718,nt06466,Pathways of neurodegeneration
+hsa:4718,nt06529,Thermogenesis
+hsa:6389,nt06031,Citrate cycle and pyruvate metabolism
+hsa:6389,nt06252,Mitochondrial ROS formation (cancer)
+hsa:6389,nt06460,Alzheimer disease
+hsa:6389,nt06461,Huntington disease
+hsa:6389,nt06463,Parkinson disease
+hsa:6389,nt06466,Pathways of neurodegeneration
+hsa:6389,nt06529,Thermogenesis
+hsa:1376,nt06020,beta-Oxidation in mitochondria
+hsa:51478,nt06034,Cholesterol biosynthesis
+hsa:4722,nt06460,Alzheimer disease
+hsa:4722,nt06463,Parkinson disease
+hsa:4722,nt06464,Amyotrophic lateral sclerosis
+hsa:4722,nt06466,Pathways of neurodegeneration
+hsa:4722,nt06529,Thermogenesis
+hsa:4537,nt06460,Alzheimer disease
+hsa:4537,nt06463,Parkinson disease
+hsa:4537,nt06464,Amyotrophic lateral sclerosis
+hsa:4537,nt06466,Pathways of neurodegeneration
+hsa:3978,nt06502,Nucleotide excision repair
+hsa:3978,nt06503,Mismatch repair
+hsa:3978,nt06504,Base excision repair
+hsa:3978,nt06506,Double-strand break repair
+hsa:3978,nt06509,DNA replication
+hsa:2798,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:5159,nt06166,Human papillomavirus (HPV)
+hsa:5159,nt06167,Human cytomegalovirus (HCMV)
+hsa:5159,nt06210,ERK signaling (cancer)
+hsa:5159,nt06214,PI3K signaling (cancer)
+hsa:5159,nt06220,Calcium signaling (cancer)
+hsa:5159,nt06273,Glioma
+hsa:5159,nt06526,MAPK signaling
+hsa:5159,nt06528,Calcium signaling
+hsa:5159,nt06530,PI3K signaling
+hsa:866,nt06019,Steroid hormone biosynthesis
+hsa:5340,nt06507,TGFB signaling
+hsa:5340,nt06514,Coagulation cascade
+hsa:4700,nt06460,Alzheimer disease
+hsa:4700,nt06463,Parkinson disease
+hsa:4700,nt06464,Amyotrophic lateral sclerosis
+hsa:4700,nt06466,Pathways of neurodegeneration
+hsa:4700,nt06529,Thermogenesis
+hsa:5468,nt06240,Transcription (cancer)
+hsa:5468,nt06274,Thyroid cancer
+hsa:5468,nt06529,Thermogenesis
+hsa:5468,nt06535,Efferocytosis
+hsa:2159,nt06514,Coagulation cascade
+hsa:2550,nt06544,Neuroactive ligand signaling
+hsa:1636,nt06316,Renin-angiotensin-aldosterone signaling
+hsa:4694,nt06460,Alzheimer disease
+hsa:4694,nt06463,Parkinson disease
+hsa:4694,nt06464,Amyotrophic lateral sclerosis
+hsa:4694,nt06466,Pathways of neurodegeneration
+hsa:4694,nt06529,Thermogenesis
+hsa:5054,nt06514,Coagulation cascade
+hsa:4711,nt06460,Alzheimer disease
+hsa:4711,nt06463,Parkinson disease
+hsa:4711,nt06464,Amyotrophic lateral sclerosis
+hsa:4711,nt06466,Pathways of neurodegeneration
+hsa:8659,nt06033,"Glycine, serine and arginine metabolism"
+hsa:4716,nt06460,Alzheimer disease
+hsa:4716,nt06463,Parkinson disease
+hsa:4716,nt06464,Amyotrophic lateral sclerosis
+hsa:4716,nt06466,Pathways of neurodegeneration
+hsa:4716,nt06529,Thermogenesis
+hsa:596,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:596,nt06165,Epstein-Barr virus (EBV)
+hsa:596,nt06166,Human papillomavirus (HPV)
+hsa:596,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:596,nt06170,Influenza A virus (IAV)
+hsa:596,nt06210,ERK signaling (cancer)
+hsa:596,nt06227,Nuclear receptor signaling (cancer)
+hsa:596,nt06231,Apoptosis (cancer)
+hsa:596,nt06260,Colorectal cancer
+hsa:596,nt06267,Small cell lung cancer
+hsa:596,nt06270,Breast cancer
+hsa:596,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:596,nt06463,Parkinson disease
+hsa:596,nt06464,Amyotrophic lateral sclerosis
+hsa:596,nt06466,Pathways of neurodegeneration
+hsa:596,nt06524,Apoptosis
+hsa:1133,nt06460,Alzheimer disease
+hsa:1133,nt06466,Pathways of neurodegeneration
+hsa:1133,nt06528,Calcium signaling
+hsa:1133,nt06544,Neuroactive ligand signaling
+hsa:240,nt06535,Efferocytosis
+hsa:4860,nt06027,Purine salvage pathway
+hsa:7299,nt06028,Dopamine and serotonin metabolism
+hsa:18,nt06544,Neuroactive ligand signaling
+hsa:2683,nt06015,N-Glycan biosynthesis
+hsa:2683,nt06035,Blood group carbohydrate antigen biosynthesis
+hsa:22978,nt06027,Purine salvage pathway
+hsa:5743,nt06227,Nuclear receptor signaling (cancer)
+hsa:5743,nt06360,Cushing syndrome
+hsa:5743,nt06535,Efferocytosis
+hsa:90,nt06507,TGFB signaling
+hsa:4311,nt06460,Alzheimer disease
+hsa:107,nt06167,Human cytomegalovirus (HCMV)
+hsa:107,nt06234,cAMP signaling (cancer)
+hsa:107,nt06310,CRH-ACTH-cortisol signaling
+hsa:107,nt06318,CaSR-PTH signaling
+hsa:107,nt06322,TRH-TSH-TH signaling
+hsa:107,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:107,nt06324,GHRH-GH-IGF signaling
+hsa:107,nt06360,Cushing syndrome
+hsa:107,nt06529,Thermogenesis
+hsa:107,nt06533,Chemokine signaling
+hsa:107,nt06544,Neuroactive ligand signaling
+hsa:5972,nt06316,Renin-angiotensin-aldosterone signaling
+hsa:462,nt06514,Coagulation cascade
+hsa:4709,nt06460,Alzheimer disease
+hsa:4709,nt06463,Parkinson disease
+hsa:4709,nt06464,Amyotrophic lateral sclerosis
+hsa:4709,nt06466,Pathways of neurodegeneration
+hsa:4709,nt06529,Thermogenesis
+hsa:383,nt06010,Urea cycle
+hsa:383,nt06535,Efferocytosis
+hsa:150,nt06544,Neuroactive ligand signaling
+hsa:3350,nt06544,Neuroactive ligand signaling
+hsa:554,nt06325,Hormone/cytokine signaling
+hsa:4710,nt06460,Alzheimer disease
+hsa:4710,nt06463,Parkinson disease
+hsa:4710,nt06464,Amyotrophic lateral sclerosis
+hsa:4710,nt06466,Pathways of neurodegeneration
+hsa:782,nt06528,Calcium signaling
+hsa:4144,nt06030,Methionine metabolism
+hsa:4704,nt06460,Alzheimer disease
+hsa:4704,nt06463,Parkinson disease
+hsa:4704,nt06464,Amyotrophic lateral sclerosis
+hsa:4704,nt06466,Pathways of neurodegeneration
+hsa:4704,nt06529,Thermogenesis
+hsa:5009,nt06010,Urea cycle
+hsa:374291,nt06460,Alzheimer disease
+hsa:374291,nt06463,Parkinson disease
+hsa:374291,nt06464,Amyotrophic lateral sclerosis
+hsa:374291,nt06466,Pathways of neurodegeneration
+hsa:374291,nt06529,Thermogenesis
+hsa:246,nt06525,Ferroptosis
+hsa:246,nt06535,Efferocytosis
+hsa:317,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:317,nt06162,Hepatitis B virus (HBV)
+hsa:317,nt06163,Hepatitis C virus (HCV)
+hsa:317,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:317,nt06165,Epstein-Barr virus (EBV)
+hsa:317,nt06166,Human papillomavirus (HPV)
+hsa:317,nt06167,Human cytomegalovirus (HCMV)
+hsa:317,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:317,nt06170,Influenza A virus (IAV)
+hsa:317,nt06231,Apoptosis (cancer)
+hsa:317,nt06260,Colorectal cancer
+hsa:317,nt06263,Hepatocellular carcinoma
+hsa:317,nt06267,Small cell lung cancer
+hsa:317,nt06460,Alzheimer disease
+hsa:317,nt06461,Huntington disease
+hsa:317,nt06462,Spinocerebellar ataxia
+hsa:317,nt06463,Parkinson disease
+hsa:317,nt06464,Amyotrophic lateral sclerosis
+hsa:317,nt06465,Prion disease
+hsa:317,nt06466,Pathways of neurodegeneration
+hsa:317,nt06524,Apoptosis
+hsa:317,nt06528,Calcium signaling
+hsa:4717,nt06460,Alzheimer disease
+hsa:4717,nt06463,Parkinson disease
+hsa:4717,nt06464,Amyotrophic lateral sclerosis
+hsa:4717,nt06466,Pathways of neurodegeneration
+hsa:7068,nt06322,TRH-TSH-TH signaling
+hsa:3028,nt06024,"Valine, leucine and isoleucine degradation"
+hsa:102724560,nt06030,Methionine metabolism
+hsa:875,nt06030,Methionine metabolism
+hsa:2249,nt06210,ERK signaling (cancer)
+hsa:2249,nt06214,PI3K signaling (cancer)
+hsa:2249,nt06261,Gastric cancer
+hsa:2249,nt06265,Bladder cancer
+hsa:2249,nt06270,Breast cancer
+hsa:2249,nt06526,MAPK signaling
+hsa:2249,nt06528,Calcium signaling
+hsa:2249,nt06530,PI3K signaling
+hsa:3290,nt06019,Steroid hormone biosynthesis
+hsa:3290,nt06250,DNA adduct formation (cancer)
+hsa:1719,nt06038,Folate metabolism
+hsa:6470,nt06030,Methionine metabolism
+hsa:6470,nt06033,"Glycine, serine and arginine metabolism"
+hsa:6470,nt06038,Folate metabolism
+hsa:2155,nt06514,Coagulation cascade
+hsa:4512,nt06252,Mitochondrial ROS formation (cancer)
+hsa:4512,nt06460,Alzheimer disease
+hsa:4512,nt06466,Pathways of neurodegeneration
+hsa:3293,nt06019,Steroid hormone biosynthesis
+hsa:4707,nt06460,Alzheimer disease
+hsa:4707,nt06463,Parkinson disease
+hsa:4707,nt06464,Amyotrophic lateral sclerosis
+hsa:4707,nt06466,Pathways of neurodegeneration
+hsa:152,nt06544,Neuroactive ligand signaling
+hsa:1586,nt06019,Steroid hormone biosynthesis
+hsa:1586,nt06310,CRH-ACTH-cortisol signaling
+hsa:2897,nt06544,Neuroactive ligand signaling
+hsa:4541,nt06460,Alzheimer disease
+hsa:4541,nt06463,Parkinson disease
+hsa:4541,nt06464,Amyotrophic lateral sclerosis
+hsa:4541,nt06466,Pathways of neurodegeneration
+hsa:773,nt06460,Alzheimer disease
+hsa:773,nt06461,Huntington disease
+hsa:773,nt06462,Spinocerebellar ataxia
+hsa:773,nt06463,Parkinson disease
+hsa:773,nt06465,Prion disease
+hsa:773,nt06466,Pathways of neurodegeneration
+hsa:773,nt06528,Calcium signaling
+hsa:773,nt06544,Neuroactive ligand signaling
+hsa:238,nt06210,ERK signaling (cancer)
+hsa:238,nt06214,PI3K signaling (cancer)
+hsa:238,nt06219,JAK-STAT signaling (cancer)
+hsa:238,nt06220,Calcium signaling (cancer)
+hsa:238,nt06266,Non-small cell lung cancer
+hsa:2158,nt06514,Coagulation cascade
+hsa:2902,nt06460,Alzheimer disease
+hsa:2902,nt06461,Huntington disease
+hsa:2902,nt06462,Spinocerebellar ataxia
+hsa:2902,nt06465,Prion disease
+hsa:2902,nt06466,Pathways of neurodegeneration
+hsa:2902,nt06528,Calcium signaling
+hsa:2902,nt06544,Neuroactive ligand signaling
+hsa:4702,nt06460,Alzheimer disease
+hsa:4702,nt06463,Parkinson disease
+hsa:4702,nt06464,Amyotrophic lateral sclerosis
+hsa:4702,nt06466,Pathways of neurodegeneration
+hsa:4702,nt06529,Thermogenesis
+hsa:5732,nt06535,Efferocytosis
+hsa:3791,nt06526,MAPK signaling
+hsa:3791,nt06528,Calcium signaling
+hsa:3791,nt06530,PI3K signaling
+hsa:3791,nt06546,IgSF CAM signaling
+hsa:4712,nt06460,Alzheimer disease
+hsa:4712,nt06463,Parkinson disease
+hsa:4712,nt06464,Amyotrophic lateral sclerosis
+hsa:4712,nt06466,Pathways of neurodegeneration
+hsa:2571,nt06544,Neuroactive ligand signaling
+hsa:5624,nt06514,Coagulation cascade
+hsa:2555,nt06544,Neuroactive ligand signaling
+hsa:6869,nt06528,Calcium signaling
+hsa:6869,nt06544,Neuroactive ligand signaling
+hsa:2492,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:1815,nt06544,Neuroactive ligand signaling
+hsa:8942,nt06036,Lysine degradation
+hsa:3357,nt06528,Calcium signaling
+hsa:3357,nt06544,Neuroactive ligand signaling
+hsa:1991,nt06240,Transcription (cancer)
+hsa:2906,nt06460,Alzheimer disease
+hsa:2906,nt06461,Huntington disease
+hsa:2906,nt06462,Spinocerebellar ataxia
+hsa:2906,nt06465,Prion disease
+hsa:2906,nt06466,Pathways of neurodegeneration
+hsa:2906,nt06528,Calcium signaling
+hsa:2906,nt06544,Neuroactive ligand signaling
+hsa:4701,nt06460,Alzheimer disease
+hsa:4701,nt06463,Parkinson disease
+hsa:4701,nt06464,Amyotrophic lateral sclerosis
+hsa:4701,nt06466,Pathways of neurodegeneration
+hsa:886,nt06528,Calcium signaling
+hsa:4953,nt06033,"Glycine, serine and arginine metabolism"
+hsa:4953,nt06535,Efferocytosis
+hsa:1374,nt06020,beta-Oxidation in mitochondria
+hsa:1374,nt06535,Efferocytosis
+hsa:3295,nt06021,beta-Oxidation in peroxisome
+hsa:3295,nt06022,Bile acid biosynthesis
+hsa:6256,nt06163,Hepatitis C virus (HCV)
+hsa:6256,nt06240,Transcription (cancer)
+hsa:6256,nt06263,Hepatocellular carcinoma
+hsa:6256,nt06274,Thyroid cancer
+hsa:6256,nt06322,TRH-TSH-TH signaling
+hsa:6256,nt06535,Efferocytosis
+hsa:8001,nt06544,Neuroactive ligand signaling
+hsa:2904,nt06460,Alzheimer disease
+hsa:2904,nt06461,Huntington disease
+hsa:2904,nt06462,Spinocerebellar ataxia
+hsa:2904,nt06465,Prion disease
+hsa:2904,nt06466,Pathways of neurodegeneration
+hsa:2904,nt06544,Neuroactive ligand signaling
+hsa:4942,nt06033,"Glycine, serine and arginine metabolism"
+hsa:3939,nt06017,Glycogen metabolism
+hsa:43,nt06544,Neuroactive ligand signaling
+hsa:4708,nt06460,Alzheimer disease
+hsa:4708,nt06463,Parkinson disease
+hsa:4708,nt06464,Amyotrophic lateral sclerosis
+hsa:4708,nt06466,Pathways of neurodegeneration
+hsa:207,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:207,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:207,nt06162,Hepatitis B virus (HBV)
+hsa:207,nt06163,Hepatitis C virus (HCV)
+hsa:207,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:207,nt06165,Epstein-Barr virus (EBV)
+hsa:207,nt06166,Human papillomavirus (HPV)
+hsa:207,nt06167,Human cytomegalovirus (HCMV)
+hsa:207,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:207,nt06169,Measles virus (MV)
+hsa:207,nt06170,Influenza A virus (IAV)
+hsa:207,nt06214,PI3K signaling (cancer)
+hsa:207,nt06224,CXCR signaling (cancer)
+hsa:207,nt06260,Colorectal cancer
+hsa:207,nt06261,Gastric cancer
+hsa:207,nt06262,Pancreatic cancer
+hsa:207,nt06263,Hepatocellular carcinoma
+hsa:207,nt06264,Renal cell carcinoma
+hsa:207,nt06266,Non-small cell lung cancer
+hsa:207,nt06267,Small cell lung cancer
+hsa:207,nt06268,Melanoma
+hsa:207,nt06270,Breast cancer
+hsa:207,nt06271,Endometrial cancer
+hsa:207,nt06272,Prostate cancer
+hsa:207,nt06273,Glioma
+hsa:207,nt06275,Acute myeloid leukemia
+hsa:207,nt06276,Chronic myeloid leukemia
+hsa:207,nt06462,Spinocerebellar ataxia
+hsa:207,nt06464,Amyotrophic lateral sclerosis
+hsa:207,nt06530,PI3K signaling
+hsa:207,nt06537,TCR/BCR signaling
+hsa:207,nt06541,Cytoskeleton in neurons
+hsa:207,nt06543,NRG-ERBB signaling
+hsa:207,nt06546,IgSF CAM signaling
+hsa:775,nt06460,Alzheimer disease
+hsa:775,nt06461,Huntington disease
+hsa:775,nt06462,Spinocerebellar ataxia
+hsa:775,nt06463,Parkinson disease
+hsa:775,nt06465,Prion disease
+hsa:775,nt06466,Pathways of neurodegeneration
+hsa:775,nt06528,Calcium signaling
+hsa:2741,nt06544,Neuroactive ligand signaling
+hsa:369,nt06162,Hepatitis B virus (HBV)
+hsa:369,nt06163,Hepatitis C virus (HCV)
+hsa:369,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:369,nt06166,Human papillomavirus (HPV)
+hsa:369,nt06167,Human cytomegalovirus (HCMV)
+hsa:369,nt06170,Influenza A virus (IAV)
+hsa:369,nt06181,Salmonella
+hsa:369,nt06210,ERK signaling (cancer)
+hsa:369,nt06220,Calcium signaling (cancer)
+hsa:369,nt06260,Colorectal cancer
+hsa:369,nt06261,Gastric cancer
+hsa:369,nt06262,Pancreatic cancer
+hsa:369,nt06263,Hepatocellular carcinoma
+hsa:369,nt06264,Renal cell carcinoma
+hsa:369,nt06265,Bladder cancer
+hsa:369,nt06266,Non-small cell lung cancer
+hsa:369,nt06268,Melanoma
+hsa:369,nt06270,Breast cancer
+hsa:369,nt06271,Endometrial cancer
+hsa:369,nt06273,Glioma
+hsa:369,nt06274,Thyroid cancer
+hsa:369,nt06275,Acute myeloid leukemia
+hsa:369,nt06276,Chronic myeloid leukemia
+hsa:369,nt06324,GHRH-GH-IGF signaling
+hsa:369,nt06460,Alzheimer disease
+hsa:369,nt06466,Pathways of neurodegeneration
+hsa:369,nt06526,MAPK signaling
+hsa:369,nt06543,NRG-ERBB signaling
+hsa:369,nt06549,Cadherin signaling
+hsa:27,nt06223,TNF signaling (cancer)
+hsa:1109,nt06019,Steroid hormone biosynthesis
+hsa:1109,nt06022,Bile acid biosynthesis
+hsa:1109,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:1109,nt06251,CYP-mediated ROS formation (cancer)
+hsa:3674,nt06167,Human cytomegalovirus (HCMV)
+hsa:3674,nt06180,Pathogenic Escherichia coli
+hsa:3674,nt06181,Salmonella
+hsa:3674,nt06182,Shigella
+hsa:3674,nt06183,Yersinia
+hsa:3674,nt06548,Integrin signaling
+hsa:10558,nt06545,Cornified envelope formation
+hsa:3269,nt06528,Calcium signaling
+hsa:1594,nt06034,Cholesterol biosynthesis
+hsa:834,nt06170,Influenza A virus (IAV)
+hsa:834,nt06180,Pathogenic Escherichia coli
+hsa:834,nt06181,Salmonella
+hsa:834,nt06182,Shigella
+hsa:834,nt06183,Yersinia
+hsa:834,nt06521,NLR signaling
+hsa:834,nt06535,Efferocytosis
+hsa:3356,nt06528,Calcium signaling
+hsa:3356,nt06544,Neuroactive ligand signaling
+hsa:3815,nt06210,ERK signaling (cancer)
+hsa:3815,nt06214,PI3K signaling (cancer)
+hsa:3815,nt06275,Acute myeloid leukemia
+hsa:3815,nt06526,MAPK signaling
+hsa:3815,nt06530,PI3K signaling
+hsa:2905,nt06460,Alzheimer disease
+hsa:2905,nt06461,Huntington disease
+hsa:2905,nt06462,Spinocerebellar ataxia
+hsa:2905,nt06465,Prion disease
+hsa:2905,nt06466,Pathways of neurodegeneration
+hsa:2905,nt06528,Calcium signaling
+hsa:2905,nt06544,Neuroactive ligand signaling
+hsa:3242,nt06016,Phenylalanine and tyrosine metabolism
+hsa:94,nt06507,TGFB signaling
+hsa:3355,nt06544,Neuroactive ligand signaling
+hsa:2558,nt06544,Neuroactive ligand signaling
+hsa:4698,nt06460,Alzheimer disease
+hsa:4698,nt06463,Parkinson disease
+hsa:4698,nt06464,Amyotrophic lateral sclerosis
+hsa:4698,nt06466,Pathways of neurodegeneration
+hsa:3354,nt06544,Neuroactive ligand signaling
+hsa:7357,nt06014,Sphingolipid degradation
+hsa:7357,nt06545,Cornified envelope formation
+hsa:2557,nt06544,Neuroactive ligand signaling
+hsa:8913,nt06460,Alzheimer disease
+hsa:8913,nt06461,Huntington disease
+hsa:8913,nt06462,Spinocerebellar ataxia
+hsa:8913,nt06463,Parkinson disease
+hsa:8913,nt06465,Prion disease
+hsa:8913,nt06466,Pathways of neurodegeneration
+hsa:8913,nt06528,Calcium signaling
+hsa:4723,nt06460,Alzheimer disease
+hsa:4723,nt06463,Parkinson disease
+hsa:4723,nt06464,Amyotrophic lateral sclerosis
+hsa:4723,nt06466,Pathways of neurodegeneration
+hsa:4723,nt06529,Thermogenesis
+hsa:6530,nt06544,Neuroactive ligand signaling
+hsa:4719,nt06460,Alzheimer disease
+hsa:4719,nt06463,Parkinson disease
+hsa:4719,nt06464,Amyotrophic lateral sclerosis
+hsa:4719,nt06466,Pathways of neurodegeneration
+hsa:4719,nt06529,Thermogenesis
+hsa:4724,nt06460,Alzheimer disease
+hsa:4724,nt06463,Parkinson disease
+hsa:4724,nt06464,Amyotrophic lateral sclerosis
+hsa:4724,nt06466,Pathways of neurodegeneration
+hsa:4724,nt06529,Thermogenesis
+hsa:148,nt06528,Calcium signaling
+hsa:4535,nt06460,Alzheimer disease
+hsa:4535,nt06463,Parkinson disease
+hsa:4535,nt06464,Amyotrophic lateral sclerosis
+hsa:4535,nt06466,Pathways of neurodegeneration
+hsa:7173,nt06322,TRH-TSH-TH signaling
+hsa:846,nt06318,CaSR-PTH signaling
+hsa:7018,nt06525,Ferroptosis
+hsa:2064,nt06210,ERK signaling (cancer)
+hsa:2064,nt06214,PI3K signaling (cancer)
+hsa:2064,nt06216,NOTCH signaling (cancer)
+hsa:2064,nt06219,JAK-STAT signaling (cancer)
+hsa:2064,nt06261,Gastric cancer
+hsa:2064,nt06262,Pancreatic cancer
+hsa:2064,nt06265,Bladder cancer
+hsa:2064,nt06266,Non-small cell lung cancer
+hsa:2064,nt06270,Breast cancer
+hsa:2064,nt06526,MAPK signaling
+hsa:2064,nt06528,Calcium signaling
+hsa:2064,nt06530,PI3K signaling
+hsa:2064,nt06543,NRG-ERBB signaling
+hsa:4713,nt06460,Alzheimer disease
+hsa:4713,nt06463,Parkinson disease
+hsa:4713,nt06464,Amyotrophic lateral sclerosis
+hsa:4713,nt06466,Pathways of neurodegeneration
+hsa:4713,nt06529,Thermogenesis
+hsa:3683,nt06546,IgSF CAM signaling
+hsa:3683,nt06548,Integrin signaling
+hsa:586,nt06024,"Valine, leucine and isoleucine degradation"
+hsa:1103,nt06544,Neuroactive ligand signaling
+hsa:1909,nt06325,Hormone/cytokine signaling
+hsa:1909,nt06528,Calcium signaling
+hsa:2556,nt06544,Neuroactive ligand signaling
+hsa:51079,nt06460,Alzheimer disease
+hsa:51079,nt06463,Parkinson disease
+hsa:51079,nt06464,Amyotrophic lateral sclerosis
+hsa:51079,nt06466,Pathways of neurodegeneration
+hsa:51079,nt06529,Thermogenesis
+hsa:3358,nt06528,Calcium signaling
+hsa:3358,nt06544,Neuroactive ligand signaling
+hsa:116444,nt06460,Alzheimer disease
+hsa:116444,nt06461,Huntington disease
+hsa:116444,nt06462,Spinocerebellar ataxia
+hsa:116444,nt06465,Prion disease
+hsa:116444,nt06466,Pathways of neurodegeneration
+hsa:116444,nt06544,Neuroactive ligand signaling
+hsa:6715,nt06019,Steroid hormone biosynthesis
+hsa:5860,nt06016,Phenylalanine and tyrosine metabolism
+hsa:126328,nt06460,Alzheimer disease
+hsa:126328,nt06463,Parkinson disease
+hsa:126328,nt06464,Amyotrophic lateral sclerosis
+hsa:126328,nt06466,Pathways of neurodegeneration
+hsa:126328,nt06529,Thermogenesis
+hsa:2597,nt06017,Glycogen metabolism
+hsa:2597,nt06180,Pathogenic Escherichia coli
+hsa:2597,nt06516,TNF signaling
+hsa:4706,nt06460,Alzheimer disease
+hsa:4706,nt06463,Parkinson disease
+hsa:4706,nt06464,Amyotrophic lateral sclerosis
+hsa:4706,nt06466,Pathways of neurodegeneration
+hsa:5422,nt06509,DNA replication
+hsa:4695,nt06460,Alzheimer disease
+hsa:4695,nt06463,Parkinson disease
+hsa:4695,nt06464,Amyotrophic lateral sclerosis
+hsa:4695,nt06466,Pathways of neurodegeneration
+hsa:4695,nt06529,Thermogenesis
+hsa:4538,nt06460,Alzheimer disease
+hsa:4538,nt06463,Parkinson disease
+hsa:4538,nt06464,Amyotrophic lateral sclerosis
+hsa:4538,nt06466,Pathways of neurodegeneration
+hsa:3248,nt06240,Transcription (cancer)
+hsa:4881,nt06325,Hormone/cytokine signaling
+hsa:5241,nt06210,ERK signaling (cancer)
+hsa:5241,nt06214,PI3K signaling (cancer)
+hsa:5241,nt06227,Nuclear receptor signaling (cancer)
+hsa:5241,nt06270,Breast cancer
+hsa:5241,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:1129,nt06528,Calcium signaling
+hsa:1129,nt06530,PI3K signaling
+hsa:151,nt06544,Neuroactive ligand signaling
+hsa:3156,nt06034,Cholesterol biosynthesis
+hsa:147,nt06528,Calcium signaling
+hsa:6713,nt06034,Cholesterol biosynthesis
+hsa:788,nt06020,beta-Oxidation in mitochondria
+hsa:4540,nt06460,Alzheimer disease
+hsa:4540,nt06463,Parkinson disease
+hsa:4540,nt06464,Amyotrophic lateral sclerosis
+hsa:4540,nt06466,Pathways of neurodegeneration
+hsa:1814,nt06544,Neuroactive ligand signaling
+hsa:6716,nt06019,Steroid hormone biosynthesis
+hsa:4190,nt06031,Citrate cycle and pyruvate metabolism
+hsa:8644,nt06019,Steroid hormone biosynthesis
+hsa:8644,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:8644,nt06251,CYP-mediated ROS formation (cancer)
+hsa:4715,nt06460,Alzheimer disease
+hsa:4715,nt06463,Parkinson disease
+hsa:4715,nt06464,Amyotrophic lateral sclerosis
+hsa:4715,nt06466,Pathways of neurodegeneration
+hsa:4715,nt06529,Thermogenesis
+hsa:2572,nt06544,Neuroactive ligand signaling
+hsa:5737,nt06528,Calcium signaling
+hsa:7054,nt06028,Dopamine and serotonin metabolism
+hsa:7054,nt06463,Parkinson disease
+hsa:7054,nt06544,Neuroactive ligand signaling
+hsa:4522,nt06038,Folate metabolism
+hsa:1646,nt06019,Steroid hormone biosynthesis
+hsa:1646,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:1646,nt06250,DNA adduct formation (cancer)
+hsa:1646,nt06251,CYP-mediated ROS formation (cancer)
+hsa:2692,nt06324,GHRH-GH-IGF signaling
+hsa:673,nt06162,Hepatitis B virus (HBV)
+hsa:673,nt06163,Hepatitis C virus (HCV)
+hsa:673,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:673,nt06166,Human papillomavirus (HPV)
+hsa:673,nt06167,Human cytomegalovirus (HCMV)
+hsa:673,nt06170,Influenza A virus (IAV)
+hsa:673,nt06181,Salmonella
+hsa:673,nt06210,ERK signaling (cancer)
+hsa:673,nt06220,Calcium signaling (cancer)
+hsa:673,nt06260,Colorectal cancer
+hsa:673,nt06261,Gastric cancer
+hsa:673,nt06262,Pancreatic cancer
+hsa:673,nt06263,Hepatocellular carcinoma
+hsa:673,nt06264,Renal cell carcinoma
+hsa:673,nt06265,Bladder cancer
+hsa:673,nt06266,Non-small cell lung cancer
+hsa:673,nt06268,Melanoma
+hsa:673,nt06270,Breast cancer
+hsa:673,nt06271,Endometrial cancer
+hsa:673,nt06273,Glioma
+hsa:673,nt06274,Thyroid cancer
+hsa:673,nt06275,Acute myeloid leukemia
+hsa:673,nt06276,Chronic myeloid leukemia
+hsa:673,nt06324,GHRH-GH-IGF signaling
+hsa:673,nt06460,Alzheimer disease
+hsa:673,nt06466,Pathways of neurodegeneration
+hsa:673,nt06526,MAPK signaling
+hsa:673,nt06543,NRG-ERBB signaling
+hsa:673,nt06549,Cadherin signaling
+hsa:2890,nt06541,Cytoskeleton in neurons
+hsa:2890,nt06544,Neuroactive ligand signaling
+hsa:116443,nt06460,Alzheimer disease
+hsa:116443,nt06461,Huntington disease
+hsa:116443,nt06462,Spinocerebellar ataxia
+hsa:116443,nt06465,Prion disease
+hsa:116443,nt06466,Pathways of neurodegeneration
+hsa:116443,nt06544,Neuroactive ligand signaling
+hsa:4313,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:6531,nt06028,Dopamine and serotonin metabolism
+hsa:6531,nt06544,Neuroactive ligand signaling
+hsa:2936,nt06026,Glutathione biosynthesis
+hsa:2057,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:2057,nt06162,Hepatitis B virus (HBV)
+hsa:2057,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:2057,nt06165,Epstein-Barr virus (EBV)
+hsa:2057,nt06219,JAK-STAT signaling (cancer)
+hsa:2057,nt06263,Hepatocellular carcinoma
+hsa:2057,nt06266,Non-small cell lung cancer
+hsa:2057,nt06276,Chronic myeloid leukemia
+hsa:2057,nt06518,JAK-STAT signaling
+hsa:2057,nt06535,Efferocytosis
+hsa:4536,nt06460,Alzheimer disease
+hsa:4536,nt06463,Parkinson disease
+hsa:4536,nt06464,Amyotrophic lateral sclerosis
+hsa:4536,nt06466,Pathways of neurodegeneration
+hsa:5321,nt06544,Neuroactive ligand signaling
+hsa:3352,nt06544,Neuroactive ligand signaling
+hsa:9517,nt06545,Cornified envelope formation
+hsa:91,nt06507,TGFB signaling
+hsa:6566,nt06535,Efferocytosis
+hsa:4714,nt06460,Alzheimer disease
+hsa:4714,nt06463,Parkinson disease
+hsa:4714,nt06464,Amyotrophic lateral sclerosis
+hsa:4714,nt06466,Pathways of neurodegeneration
+hsa:4714,nt06529,Thermogenesis
+hsa:5562,nt06522,mTOR signaling
+hsa:786,nt06528,Calcium signaling
+hsa:4696,nt06460,Alzheimer disease
+hsa:4696,nt06463,Parkinson disease
+hsa:4696,nt06464,Amyotrophic lateral sclerosis
+hsa:4696,nt06466,Pathways of neurodegeneration
+hsa:7067,nt06322,TRH-TSH-TH signaling
+hsa:2246,nt06210,ERK signaling (cancer)
+hsa:2246,nt06214,PI3K signaling (cancer)
+hsa:2246,nt06261,Gastric cancer
+hsa:2246,nt06265,Bladder cancer
+hsa:2246,nt06270,Breast cancer
+hsa:2246,nt06526,MAPK signaling
+hsa:2246,nt06528,Calcium signaling
+hsa:2246,nt06530,PI3K signaling
+hsa:781,nt06528,Calcium signaling
+hsa:6898,nt06016,Phenylalanine and tyrosine metabolism
+hsa:3620,nt06036,Lysine degradation
+hsa:154,nt06214,PI3K signaling (cancer)
+hsa:154,nt06234,cAMP signaling (cancer)
+hsa:154,nt06544,Neuroactive ligand signaling
+hsa:7124,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:7124,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:7124,nt06162,Hepatitis B virus (HBV)
+hsa:7124,nt06163,Hepatitis C virus (HCV)
+hsa:7124,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:7124,nt06165,Epstein-Barr virus (EBV)
+hsa:7124,nt06166,Human papillomavirus (HPV)
+hsa:7124,nt06167,Human cytomegalovirus (HCMV)
+hsa:7124,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:7124,nt06169,Measles virus (MV)
+hsa:7124,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:7124,nt06180,Pathogenic Escherichia coli
+hsa:7124,nt06181,Salmonella
+hsa:7124,nt06182,Shigella
+hsa:7124,nt06183,Yersinia
+hsa:7124,nt06223,TNF signaling (cancer)
+hsa:7124,nt06231,Apoptosis (cancer)
+hsa:7124,nt06263,Hepatocellular carcinoma
+hsa:7124,nt06460,Alzheimer disease
+hsa:7124,nt06461,Huntington disease
+hsa:7124,nt06466,Pathways of neurodegeneration
+hsa:7124,nt06516,TNF signaling
+hsa:7124,nt06517,TLR signaling
+hsa:7124,nt06524,Apoptosis
+hsa:7124,nt06527,Necroptosis
+hsa:10800,nt06528,Calcium signaling
+hsa:6258,nt06240,Transcription (cancer)
+hsa:6258,nt06274,Thyroid cancer
+hsa:6258,nt06322,TRH-TSH-TH signaling
+hsa:292,nt06460,Alzheimer disease
+hsa:292,nt06461,Huntington disease
+hsa:292,nt06462,Spinocerebellar ataxia
+hsa:292,nt06463,Parkinson disease
+hsa:292,nt06464,Amyotrophic lateral sclerosis
+hsa:292,nt06465,Prion disease
+hsa:292,nt06466,Pathways of neurodegeneration
+hsa:292,nt06528,Calcium signaling
+hsa:2209,nt06180,Pathogenic Escherichia coli
+hsa:2209,nt06240,Transcription (cancer)
+hsa:2209,nt06275,Acute myeloid leukemia
+hsa:1158,nt06033,"Glycine, serine and arginine metabolism"
+hsa:146,nt06528,Calcium signaling
+hsa:218,nt06544,Neuroactive ligand signaling
+hsa:587,nt06024,"Valine, leucine and isoleucine degradation"
+hsa:51166,nt06036,Lysine degradation
+hsa:4720,nt06460,Alzheimer disease
+hsa:4720,nt06463,Parkinson disease
+hsa:4720,nt06464,Amyotrophic lateral sclerosis
+hsa:4720,nt06466,Pathways of neurodegeneration
+hsa:4720,nt06529,Thermogenesis
+hsa:1584,nt06019,Steroid hormone biosynthesis
+hsa:1584,nt06310,CRH-ACTH-cortisol signaling
+hsa:1584,nt06360,Cushing syndrome
+hsa:476,nt06316,Renin-angiotensin-aldosterone signaling
+hsa:4548,nt06030,Methionine metabolism
+hsa:4548,nt06038,Folate metabolism
+hsa:4548,nt06538,Cobalamin transport and metabolism
+hsa:3162,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:3162,nt06263,Hepatocellular carcinoma
+hsa:3162,nt06463,Parkinson disease
+hsa:6261,nt06465,Prion disease
+hsa:6261,nt06466,Pathways of neurodegeneration
+hsa:6261,nt06528,Calcium signaling
+hsa:7153,nt06512,Chromosome cohesion and segregation
+hsa:2263,nt06210,ERK signaling (cancer)
+hsa:2263,nt06214,PI3K signaling (cancer)
+hsa:2263,nt06261,Gastric cancer
+hsa:2263,nt06265,Bladder cancer
+hsa:2263,nt06270,Breast cancer
+hsa:2263,nt06526,MAPK signaling
+hsa:2263,nt06528,Calcium signaling
+hsa:2263,nt06530,PI3K signaling
+hsa:2263,nt06546,IgSF CAM signaling
+hsa:6532,nt06544,Neuroactive ligand signaling
+hsa:5053,nt06016,Phenylalanine and tyrosine metabolism
+hsa:55967,nt06460,Alzheimer disease
+hsa:55967,nt06463,Parkinson disease
+hsa:55967,nt06464,Amyotrophic lateral sclerosis
+hsa:55967,nt06466,Pathways of neurodegeneration
+hsa:55967,nt06529,Thermogenesis
+hsa:1813,nt06544,Neuroactive ligand signaling
+hsa:384,nt06010,Urea cycle
+hsa:6915,nt06528,Calcium signaling
+hsa:2903,nt06460,Alzheimer disease
+hsa:2903,nt06461,Huntington disease
+hsa:2903,nt06462,Spinocerebellar ataxia
+hsa:2903,nt06465,Prion disease
+hsa:2903,nt06466,Pathways of neurodegeneration
+hsa:2903,nt06528,Calcium signaling
+hsa:2903,nt06544,Neuroactive ligand signaling
+hsa:2559,nt06544,Neuroactive ligand signaling
+hsa:1956,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:1956,nt06162,Hepatitis B virus (HBV)
+hsa:1956,nt06163,Hepatitis C virus (HCV)
+hsa:1956,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:1956,nt06165,Epstein-Barr virus (EBV)
+hsa:1956,nt06166,Human papillomavirus (HPV)
+hsa:1956,nt06167,Human cytomegalovirus (HCMV)
+hsa:1956,nt06170,Influenza A virus (IAV)
+hsa:1956,nt06180,Pathogenic Escherichia coli
+hsa:1956,nt06182,Shigella
+hsa:1956,nt06210,ERK signaling (cancer)
+hsa:1956,nt06213,Other RAS signaling (cancer)
+hsa:1956,nt06214,PI3K signaling (cancer)
+hsa:1956,nt06219,JAK-STAT signaling (cancer)
+hsa:1956,nt06220,Calcium signaling (cancer)
+hsa:1956,nt06260,Colorectal cancer
+hsa:1956,nt06261,Gastric cancer
+hsa:1956,nt06262,Pancreatic cancer
+hsa:1956,nt06263,Hepatocellular carcinoma
+hsa:1956,nt06265,Bladder cancer
+hsa:1956,nt06266,Non-small cell lung cancer
+hsa:1956,nt06268,Melanoma
+hsa:1956,nt06270,Breast cancer
+hsa:1956,nt06271,Endometrial cancer
+hsa:1956,nt06273,Glioma
+hsa:1956,nt06274,Thyroid cancer
+hsa:1956,nt06276,Chronic myeloid leukemia
+hsa:1956,nt06310,CRH-ACTH-cortisol signaling
+hsa:1956,nt06360,Cushing syndrome
+hsa:1956,nt06526,MAPK signaling
+hsa:1956,nt06528,Calcium signaling
+hsa:1956,nt06530,PI3K signaling
+hsa:553,nt06528,Calcium signaling
+hsa:2224,nt06034,Cholesterol biosynthesis
+hsa:4191,nt06031,Citrate cycle and pyruvate metabolism
+hsa:3736,nt06546,IgSF CAM signaling
+hsa:4363,nt06538,Cobalamin transport and metabolism
+hsa:2100,nt06210,ERK signaling (cancer)
+hsa:2100,nt06214,PI3K signaling (cancer)
+hsa:2100,nt06227,Nuclear receptor signaling (cancer)
+hsa:2100,nt06270,Breast cancer
+hsa:2100,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:2908,nt06310,CRH-ACTH-cortisol signaling
+hsa:2554,nt06544,Neuroactive ligand signaling
+hsa:2554,nt06549,Cadherin signaling
+hsa:3351,nt06544,Neuroactive ligand signaling
+hsa:2944,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:2944,nt06227,Nuclear receptor signaling (cancer)
+hsa:2944,nt06250,DNA adduct formation (cancer)
+hsa:2944,nt06263,Hepatocellular carcinoma
+hsa:2944,nt06463,Parkinson disease
+hsa:2940,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:2940,nt06227,Nuclear receptor signaling (cancer)
+hsa:2940,nt06250,DNA adduct formation (cancer)
+hsa:2940,nt06263,Hepatocellular carcinoma
+hsa:2940,nt06463,Parkinson disease
+hsa:2947,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:2947,nt06227,Nuclear receptor signaling (cancer)
+hsa:2947,nt06250,DNA adduct formation (cancer)
+hsa:2947,nt06263,Hepatocellular carcinoma
+hsa:2947,nt06463,Parkinson disease
+hsa:2941,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:2941,nt06227,Nuclear receptor signaling (cancer)
+hsa:2941,nt06250,DNA adduct formation (cancer)
+hsa:2941,nt06263,Hepatocellular carcinoma
+hsa:2941,nt06463,Parkinson disease
+hsa:2948,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:2948,nt06227,Nuclear receptor signaling (cancer)
+hsa:2948,nt06250,DNA adduct formation (cancer)
+hsa:2948,nt06263,Hepatocellular carcinoma
+hsa:2948,nt06463,Parkinson disease
+hsa:2950,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:2950,nt06227,Nuclear receptor signaling (cancer)
+hsa:2950,nt06250,DNA adduct formation (cancer)
+hsa:2950,nt06263,Hepatocellular carcinoma
+hsa:2950,nt06463,Parkinson disease
+hsa:9446,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:9446,nt06227,Nuclear receptor signaling (cancer)
+hsa:9446,nt06250,DNA adduct formation (cancer)
+hsa:9446,nt06252,Mitochondrial ROS formation (cancer)
+hsa:9446,nt06263,Hepatocellular carcinoma
+hsa:9446,nt06463,Parkinson disease
+hsa:2876,nt06026,Glutathione biosynthesis
+hsa:2876,nt06525,Ferroptosis
+hsa:2952,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:2952,nt06227,Nuclear receptor signaling (cancer)
+hsa:2952,nt06250,DNA adduct formation (cancer)
+hsa:2952,nt06263,Hepatocellular carcinoma
+hsa:2952,nt06463,Parkinson disease
+hsa:2954,nt06016,Phenylalanine and tyrosine metabolism
+hsa:2911,nt06462,Spinocerebellar ataxia
+hsa:2911,nt06463,Parkinson disease
+hsa:2911,nt06466,Pathways of neurodegeneration
+hsa:2911,nt06528,Calcium signaling
+hsa:2911,nt06544,Neuroactive ligand signaling
+hsa:2744,nt06544,Neuroactive ligand signaling
+hsa:2898,nt06544,Neuroactive ligand signaling
+hsa:2900,nt06544,Neuroactive ligand signaling
+hsa:2901,nt06544,Neuroactive ligand signaling
+hsa:2891,nt06544,Neuroactive ligand signaling
+hsa:2893,nt06544,Neuroactive ligand signaling
+hsa:2892,nt06240,Transcription (cancer)
+hsa:2892,nt06544,Neuroactive ligand signaling
+hsa:2899,nt06544,Neuroactive ligand signaling
+hsa:2914,nt06544,Neuroactive ligand signaling
+hsa:2917,nt06544,Neuroactive ligand signaling
+hsa:2918,nt06544,Neuroactive ligand signaling
+hsa:8972,nt06017,Glycogen metabolism
+hsa:6714,nt06162,Hepatitis B virus (HBV)
+hsa:6714,nt06167,Human cytomegalovirus (HCMV)
+hsa:6714,nt06180,Pathogenic Escherichia coli
+hsa:6714,nt06181,Salmonella
+hsa:6714,nt06182,Shigella
+hsa:6714,nt06183,Yersinia
+hsa:6714,nt06210,ERK signaling (cancer)
+hsa:6714,nt06214,PI3K signaling (cancer)
+hsa:6714,nt06223,TNF signaling (cancer)
+hsa:6714,nt06230,Cell cycle (cancer)
+hsa:6714,nt06263,Hepatocellular carcinoma
+hsa:6714,nt06533,Chemokine signaling
+hsa:6714,nt06541,Cytoskeleton in neurons
+hsa:6714,nt06548,Integrin signaling
+hsa:2534,nt06180,Pathogenic Escherichia coli
+hsa:2534,nt06183,Yersinia
+hsa:2534,nt06465,Prion disease
+hsa:2534,nt06537,TCR/BCR signaling
+hsa:2534,nt06541,Cytoskeleton in neurons
+hsa:2534,nt06546,IgSF CAM signaling
+hsa:1969,nt06526,MAPK signaling
+hsa:1969,nt06530,PI3K signaling
+hsa:3932,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:3932,nt06183,Yersinia
+hsa:3932,nt06537,TCR/BCR signaling
+hsa:3932,nt06546,IgSF CAM signaling
+hsa:5021,nt06528,Calcium signaling
+hsa:635,nt06030,Methionine metabolism
+hsa:635,nt06033,"Glycine, serine and arginine metabolism"
+hsa:635,nt06038,Folate metabolism
+hsa:4158,nt06310,CRH-ACTH-cortisol signaling
+hsa:4158,nt06360,Cushing syndrome
+hsa:1137,nt06210,ERK signaling (cancer)
+hsa:1137,nt06219,JAK-STAT signaling (cancer)
+hsa:1137,nt06544,Neuroactive ligand signaling
+hsa:1141,nt06210,ERK signaling (cancer)
+hsa:1141,nt06219,JAK-STAT signaling (cancer)
+hsa:1141,nt06544,Neuroactive ligand signaling
+hsa:5156,nt06166,Human papillomavirus (HPV)
+hsa:5156,nt06167,Human cytomegalovirus (HCMV)
+hsa:5156,nt06210,ERK signaling (cancer)
+hsa:5156,nt06214,PI3K signaling (cancer)
+hsa:5156,nt06220,Calcium signaling (cancer)
+hsa:5156,nt06273,Glioma
+hsa:5156,nt06526,MAPK signaling
+hsa:5156,nt06528,Calcium signaling
+hsa:5156,nt06530,PI3K signaling
+hsa:1436,nt06240,Transcription (cancer)
+hsa:1436,nt06275,Acute myeloid leukemia
+hsa:1436,nt06526,MAPK signaling
+hsa:1436,nt06530,PI3K signaling
+hsa:3480,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3480,nt06166,Human papillomavirus (HPV)
+hsa:3480,nt06167,Human cytomegalovirus (HCMV)
+hsa:3480,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:3480,nt06210,ERK signaling (cancer)
+hsa:3480,nt06214,PI3K signaling (cancer)
+hsa:3480,nt06240,Transcription (cancer)
+hsa:3480,nt06263,Hepatocellular carcinoma
+hsa:3480,nt06324,GHRH-GH-IGF signaling
+hsa:3480,nt06526,MAPK signaling
+hsa:3480,nt06530,PI3K signaling
+hsa:8912,nt06316,Renin-angiotensin-aldosterone signaling
+hsa:8912,nt06460,Alzheimer disease
+hsa:8912,nt06461,Huntington disease
+hsa:8912,nt06462,Spinocerebellar ataxia
+hsa:8912,nt06463,Parkinson disease
+hsa:8912,nt06465,Prion disease
+hsa:8912,nt06466,Pathways of neurodegeneration
+hsa:8912,nt06528,Calcium signaling
+hsa:5409,nt06028,Dopamine and serotonin metabolism
+hsa:5409,nt06544,Neuroactive ligand signaling
+hsa:5604,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:5604,nt06162,Hepatitis B virus (HBV)
+hsa:5604,nt06163,Hepatitis C virus (HCV)
+hsa:5604,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:5604,nt06166,Human papillomavirus (HPV)
+hsa:5604,nt06167,Human cytomegalovirus (HCMV)
+hsa:5604,nt06170,Influenza A virus (IAV)
+hsa:5604,nt06180,Pathogenic Escherichia coli
+hsa:5604,nt06181,Salmonella
+hsa:5604,nt06182,Shigella
+hsa:5604,nt06183,Yersinia
+hsa:5604,nt06210,ERK signaling (cancer)
+hsa:5604,nt06220,Calcium signaling (cancer)
+hsa:5604,nt06224,CXCR signaling (cancer)
+hsa:5604,nt06260,Colorectal cancer
+hsa:5604,nt06261,Gastric cancer
+hsa:5604,nt06262,Pancreatic cancer
+hsa:5604,nt06263,Hepatocellular carcinoma
+hsa:5604,nt06264,Renal cell carcinoma
+hsa:5604,nt06265,Bladder cancer
+hsa:5604,nt06266,Non-small cell lung cancer
+hsa:5604,nt06268,Melanoma
+hsa:5604,nt06270,Breast cancer
+hsa:5604,nt06271,Endometrial cancer
+hsa:5604,nt06273,Glioma
+hsa:5604,nt06274,Thyroid cancer
+hsa:5604,nt06275,Acute myeloid leukemia
+hsa:5604,nt06276,Chronic myeloid leukemia
+hsa:5604,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:5604,nt06324,GHRH-GH-IGF signaling
+hsa:5604,nt06460,Alzheimer disease
+hsa:5604,nt06466,Pathways of neurodegeneration
+hsa:5604,nt06517,TLR signaling
+hsa:5604,nt06526,MAPK signaling
+hsa:5604,nt06535,Efferocytosis
+hsa:5604,nt06543,NRG-ERBB signaling
+hsa:5604,nt06549,Cadherin signaling
+hsa:2185,nt06162,Hepatitis B virus (HBV)
+hsa:2185,nt06167,Human cytomegalovirus (HCMV)
+hsa:2185,nt06263,Hepatocellular carcinoma
+hsa:5579,nt06162,Hepatitis B virus (HBV)
+hsa:5579,nt06167,Human cytomegalovirus (HCMV)
+hsa:5579,nt06220,Calcium signaling (cancer)
+hsa:5579,nt06263,Hepatocellular carcinoma
+hsa:5579,nt06266,Non-small cell lung cancer
+hsa:5579,nt06322,TRH-TSH-TH signaling
+hsa:5579,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:5579,nt06462,Spinocerebellar ataxia
+hsa:5579,nt06463,Parkinson disease
+hsa:5579,nt06466,Pathways of neurodegeneration
+hsa:5579,nt06528,Calcium signaling
+hsa:1595,nt06034,Cholesterol biosynthesis
+hsa:2548,nt06017,Glycogen metabolism
+hsa:2548,nt06551,Lysosome
+hsa:6622,nt06028,Dopamine and serotonin metabolism
+hsa:6622,nt06463,Parkinson disease
+hsa:6622,nt06466,Pathways of neurodegeneration
+hsa:6622,nt06534,Unfolded protein response
+hsa:6506,nt06544,Neuroactive ligand signaling
+hsa:1020,nt06460,Alzheimer disease
+hsa:1020,nt06466,Pathways of neurodegeneration
+hsa:1020,nt06541,Cytoskeleton in neurons
+hsa:6777,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:6777,nt06162,Hepatitis B virus (HBV)
+hsa:6777,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:6777,nt06165,Epstein-Barr virus (EBV)
+hsa:6777,nt06219,JAK-STAT signaling (cancer)
+hsa:6777,nt06262,Pancreatic cancer
+hsa:6777,nt06263,Hepatocellular carcinoma
+hsa:6777,nt06266,Non-small cell lung cancer
+hsa:6777,nt06275,Acute myeloid leukemia
+hsa:6777,nt06276,Chronic myeloid leukemia
+hsa:6777,nt06324,GHRH-GH-IGF signaling
+hsa:6777,nt06325,Hormone/cytokine signaling
+hsa:6777,nt06518,JAK-STAT signaling
+hsa:1786,nt06030,Methionine metabolism
+hsa:5328,nt06240,Transcription (cancer)
+hsa:5328,nt06272,Prostate cancer
+hsa:5328,nt06513,Complement cascade
+hsa:5328,nt06514,Coagulation cascade
+hsa:3785,nt06541,Cytoskeleton in neurons
+hsa:3785,nt06546,IgSF CAM signaling
+hsa:5105,nt06031,Citrate cycle and pyruvate metabolism
+hsa:6697,nt06016,Phenylalanine and tyrosine metabolism
+hsa:6697,nt06028,Dopamine and serotonin metabolism
+hsa:1234,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:1234,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:1234,nt06167,Human cytomegalovirus (HCMV)
+hsa:1234,nt06533,Chemokine signaling
+hsa:4758,nt06014,Sphingolipid degradation
+hsa:4758,nt06551,Lysosome
+hsa:4233,nt06162,Hepatitis B virus (HBV)
+hsa:4233,nt06163,Hepatitis C virus (HCV)
+hsa:4233,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:4233,nt06210,ERK signaling (cancer)
+hsa:4233,nt06214,PI3K signaling (cancer)
+hsa:4233,nt06240,Transcription (cancer)
+hsa:4233,nt06261,Gastric cancer
+hsa:4233,nt06262,Pancreatic cancer
+hsa:4233,nt06263,Hepatocellular carcinoma
+hsa:4233,nt06264,Renal cell carcinoma
+hsa:4233,nt06266,Non-small cell lung cancer
+hsa:4233,nt06526,MAPK signaling
+hsa:4233,nt06528,Calcium signaling
+hsa:4233,nt06530,PI3K signaling
+hsa:5837,nt06017,Glycogen metabolism
+hsa:2885,nt06162,Hepatitis B virus (HBV)
+hsa:2885,nt06163,Hepatitis C virus (HCV)
+hsa:2885,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:2885,nt06166,Human papillomavirus (HPV)
+hsa:2885,nt06167,Human cytomegalovirus (HCMV)
+hsa:2885,nt06170,Influenza A virus (IAV)
+hsa:2885,nt06210,ERK signaling (cancer)
+hsa:2885,nt06213,Other RAS signaling (cancer)
+hsa:2885,nt06214,PI3K signaling (cancer)
+hsa:2885,nt06260,Colorectal cancer
+hsa:2885,nt06261,Gastric cancer
+hsa:2885,nt06262,Pancreatic cancer
+hsa:2885,nt06263,Hepatocellular carcinoma
+hsa:2885,nt06264,Renal cell carcinoma
+hsa:2885,nt06265,Bladder cancer
+hsa:2885,nt06266,Non-small cell lung cancer
+hsa:2885,nt06268,Melanoma
+hsa:2885,nt06270,Breast cancer
+hsa:2885,nt06271,Endometrial cancer
+hsa:2885,nt06273,Glioma
+hsa:2885,nt06274,Thyroid cancer
+hsa:2885,nt06275,Acute myeloid leukemia
+hsa:2885,nt06276,Chronic myeloid leukemia
+hsa:2885,nt06324,GHRH-GH-IGF signaling
+hsa:2885,nt06526,MAPK signaling
+hsa:2885,nt06530,PI3K signaling
+hsa:2885,nt06543,NRG-ERBB signaling
+hsa:3569,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:3569,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:3569,nt06162,Hepatitis B virus (HBV)
+hsa:3569,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3569,nt06165,Epstein-Barr virus (EBV)
+hsa:3569,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:3569,nt06169,Measles virus (MV)
+hsa:3569,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:3569,nt06183,Yersinia
+hsa:3569,nt06219,JAK-STAT signaling (cancer)
+hsa:3569,nt06227,Nuclear receptor signaling (cancer)
+hsa:3569,nt06240,Transcription (cancer)
+hsa:3569,nt06263,Hepatocellular carcinoma
+hsa:3569,nt06266,Non-small cell lung cancer
+hsa:3569,nt06276,Chronic myeloid leukemia
+hsa:3569,nt06360,Cushing syndrome
+hsa:3569,nt06460,Alzheimer disease
+hsa:3569,nt06466,Pathways of neurodegeneration
+hsa:3569,nt06517,TLR signaling
+hsa:3569,nt06518,JAK-STAT signaling
+hsa:7852,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:7852,nt06162,Hepatitis B virus (HBV)
+hsa:7852,nt06167,Human cytomegalovirus (HCMV)
+hsa:7852,nt06263,Hepatocellular carcinoma
+hsa:7852,nt06528,Calcium signaling
+hsa:7852,nt06533,Chemokine signaling
+hsa:4312,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:5594,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:5594,nt06162,Hepatitis B virus (HBV)
+hsa:5594,nt06163,Hepatitis C virus (HCV)
+hsa:5594,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:5594,nt06166,Human papillomavirus (HPV)
+hsa:5594,nt06167,Human cytomegalovirus (HCMV)
+hsa:5594,nt06170,Influenza A virus (IAV)
+hsa:5594,nt06180,Pathogenic Escherichia coli
+hsa:5594,nt06181,Salmonella
+hsa:5594,nt06182,Shigella
+hsa:5594,nt06183,Yersinia
+hsa:5594,nt06210,ERK signaling (cancer)
+hsa:5594,nt06220,Calcium signaling (cancer)
+hsa:5594,nt06224,CXCR signaling (cancer)
+hsa:5594,nt06260,Colorectal cancer
+hsa:5594,nt06261,Gastric cancer
+hsa:5594,nt06262,Pancreatic cancer
+hsa:5594,nt06263,Hepatocellular carcinoma
+hsa:5594,nt06264,Renal cell carcinoma
+hsa:5594,nt06265,Bladder cancer
+hsa:5594,nt06266,Non-small cell lung cancer
+hsa:5594,nt06268,Melanoma
+hsa:5594,nt06270,Breast cancer
+hsa:5594,nt06271,Endometrial cancer
+hsa:5594,nt06273,Glioma
+hsa:5594,nt06274,Thyroid cancer
+hsa:5594,nt06275,Acute myeloid leukemia
+hsa:5594,nt06276,Chronic myeloid leukemia
+hsa:5594,nt06310,CRH-ACTH-cortisol signaling
+hsa:5594,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:5594,nt06324,GHRH-GH-IGF signaling
+hsa:5594,nt06325,Hormone/cytokine signaling
+hsa:5594,nt06360,Cushing syndrome
+hsa:5594,nt06460,Alzheimer disease
+hsa:5594,nt06465,Prion disease
+hsa:5594,nt06466,Pathways of neurodegeneration
+hsa:5594,nt06517,TLR signaling
+hsa:5594,nt06526,MAPK signaling
+hsa:5594,nt06535,Efferocytosis
+hsa:5594,nt06543,NRG-ERBB signaling
+hsa:5594,nt06549,Cadherin signaling
+hsa:6817,nt06250,DNA adduct formation (cancer)
+hsa:2149,nt06528,Calcium signaling
+hsa:2149,nt06530,PI3K signaling
+hsa:1508,nt06551,Lysosome
+hsa:6536,nt06544,Neuroactive ligand signaling
+hsa:1509,nt06227,Nuclear receptor signaling (cancer)
+hsa:1509,nt06270,Breast cancer
+hsa:1509,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:1509,nt06551,Lysosome
+hsa:4036,nt06501,HH signaling
+hsa:3458,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:3458,nt06162,Hepatitis B virus (HBV)
+hsa:3458,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3458,nt06165,Epstein-Barr virus (EBV)
+hsa:3458,nt06219,JAK-STAT signaling (cancer)
+hsa:3458,nt06263,Hepatocellular carcinoma
+hsa:3458,nt06266,Non-small cell lung cancer
+hsa:3458,nt06276,Chronic myeloid leukemia
+hsa:3458,nt06518,JAK-STAT signaling
+hsa:3458,nt06527,Necroptosis
+hsa:2053,nt06251,CYP-mediated ROS formation (cancer)
+hsa:2053,nt06545,Cornified envelope formation
+hsa:1950,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:1950,nt06162,Hepatitis B virus (HBV)
+hsa:1950,nt06163,Hepatitis C virus (HCV)
+hsa:1950,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:1950,nt06165,Epstein-Barr virus (EBV)
+hsa:1950,nt06166,Human papillomavirus (HPV)
+hsa:1950,nt06167,Human cytomegalovirus (HCMV)
+hsa:1950,nt06170,Influenza A virus (IAV)
+hsa:1950,nt06180,Pathogenic Escherichia coli
+hsa:1950,nt06182,Shigella
+hsa:1950,nt06210,ERK signaling (cancer)
+hsa:1950,nt06213,Other RAS signaling (cancer)
+hsa:1950,nt06214,PI3K signaling (cancer)
+hsa:1950,nt06219,JAK-STAT signaling (cancer)
+hsa:1950,nt06220,Calcium signaling (cancer)
+hsa:1950,nt06227,Nuclear receptor signaling (cancer)
+hsa:1950,nt06260,Colorectal cancer
+hsa:1950,nt06261,Gastric cancer
+hsa:1950,nt06262,Pancreatic cancer
+hsa:1950,nt06263,Hepatocellular carcinoma
+hsa:1950,nt06265,Bladder cancer
+hsa:1950,nt06266,Non-small cell lung cancer
+hsa:1950,nt06268,Melanoma
+hsa:1950,nt06270,Breast cancer
+hsa:1950,nt06271,Endometrial cancer
+hsa:1950,nt06273,Glioma
+hsa:1950,nt06274,Thyroid cancer
+hsa:1950,nt06276,Chronic myeloid leukemia
+hsa:1950,nt06526,MAPK signaling
+hsa:1950,nt06528,Calcium signaling
+hsa:1950,nt06530,PI3K signaling
+hsa:5295,nt06325,Hormone/cytokine signaling
+hsa:5295,nt06530,PI3K signaling
+hsa:5295,nt06537,TCR/BCR signaling
+hsa:1385,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:1385,nt06162,Hepatitis B virus (HBV)
+hsa:1385,nt06167,Human cytomegalovirus (HCMV)
+hsa:1385,nt06180,Pathogenic Escherichia coli
+hsa:1385,nt06210,ERK signaling (cancer)
+hsa:1385,nt06263,Hepatocellular carcinoma
+hsa:1385,nt06310,CRH-ACTH-cortisol signaling
+hsa:1385,nt06316,Renin-angiotensin-aldosterone signaling
+hsa:1385,nt06322,TRH-TSH-TH signaling
+hsa:1385,nt06324,GHRH-GH-IGF signaling
+hsa:1385,nt06360,Cushing syndrome
+hsa:1385,nt06461,Huntington disease
+hsa:1385,nt06465,Prion disease
+hsa:1385,nt06516,TNF signaling
+hsa:1385,nt06535,Efferocytosis
+hsa:3576,nt06162,Hepatitis B virus (HBV)
+hsa:3576,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3576,nt06167,Human cytomegalovirus (HCMV)
+hsa:3576,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:3576,nt06224,CXCR signaling (cancer)
+hsa:3576,nt06240,Transcription (cancer)
+hsa:3576,nt06263,Hepatocellular carcinoma
+hsa:3576,nt06533,Chemokine signaling
+hsa:3576,nt06542,HIF signaling
+hsa:6611,nt06033,"Glycine, serine and arginine metabolism"
+hsa:3486,nt06240,Transcription (cancer)
+hsa:6609,nt06014,Sphingolipid degradation
+hsa:6609,nt06551,Lysosome
+hsa:6352,nt06167,Human cytomegalovirus (HCMV)
+hsa:6352,nt06533,Chemokine signaling
+hsa:2629,nt06014,Sphingolipid degradation
+hsa:2629,nt06545,Cornified envelope formation
+hsa:2629,nt06550,Lysosome biogenesis
+hsa:2629,nt06551,Lysosome
+hsa:59272,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:7040,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:7040,nt06162,Hepatitis B virus (HBV)
+hsa:7040,nt06218,TGFB signaling (cancer)
+hsa:7040,nt06225,HIF-1 signaling (cancer)
+hsa:7040,nt06260,Colorectal cancer
+hsa:7040,nt06261,Gastric cancer
+hsa:7040,nt06263,Hepatocellular carcinoma
+hsa:7040,nt06264,Renal cell carcinoma
+hsa:7040,nt06276,Chronic myeloid leukemia
+hsa:7040,nt06507,TGFB signaling
+hsa:7040,nt06535,Efferocytosis
+hsa:7040,nt06542,HIF signaling
+hsa:7040,nt06548,Integrin signaling
+hsa:1499,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:1499,nt06181,Salmonella
+hsa:1499,nt06215,WNT signaling (cancer)
+hsa:1499,nt06260,Colorectal cancer
+hsa:1499,nt06261,Gastric cancer
+hsa:1499,nt06263,Hepatocellular carcinoma
+hsa:1499,nt06270,Breast cancer
+hsa:1499,nt06271,Endometrial cancer
+hsa:1499,nt06274,Thyroid cancer
+hsa:1499,nt06505,WNT signaling
+hsa:1499,nt06549,Cadherin signaling
+hsa:6790,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:4882,nt06325,Hormone/cytokine signaling
+hsa:4193,nt06162,Hepatitis B virus (HBV)
+hsa:4193,nt06163,Hepatitis C virus (HCV)
+hsa:4193,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:4193,nt06165,Epstein-Barr virus (EBV)
+hsa:4193,nt06167,Human cytomegalovirus (HCMV)
+hsa:4193,nt06170,Influenza A virus (IAV)
+hsa:4193,nt06230,Cell cycle (cancer)
+hsa:4193,nt06240,Transcription (cancer)
+hsa:4193,nt06263,Hepatocellular carcinoma
+hsa:4193,nt06265,Bladder cancer
+hsa:4193,nt06266,Non-small cell lung cancer
+hsa:4193,nt06268,Melanoma
+hsa:4193,nt06270,Breast cancer
+hsa:4193,nt06273,Glioma
+hsa:4193,nt06276,Chronic myeloid leukemia
+hsa:54205,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:54205,nt06162,Hepatitis B virus (HBV)
+hsa:54205,nt06163,Hepatitis C virus (HCV)
+hsa:54205,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:54205,nt06165,Epstein-Barr virus (EBV)
+hsa:54205,nt06166,Human papillomavirus (HPV)
+hsa:54205,nt06167,Human cytomegalovirus (HCMV)
+hsa:54205,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:54205,nt06170,Influenza A virus (IAV)
+hsa:54205,nt06231,Apoptosis (cancer)
+hsa:54205,nt06260,Colorectal cancer
+hsa:54205,nt06263,Hepatocellular carcinoma
+hsa:54205,nt06267,Small cell lung cancer
+hsa:54205,nt06460,Alzheimer disease
+hsa:54205,nt06461,Huntington disease
+hsa:54205,nt06462,Spinocerebellar ataxia
+hsa:54205,nt06463,Parkinson disease
+hsa:54205,nt06464,Amyotrophic lateral sclerosis
+hsa:54205,nt06465,Prion disease
+hsa:54205,nt06466,Pathways of neurodegeneration
+hsa:54205,nt06524,Apoptosis
+hsa:54205,nt06528,Calcium signaling
+hsa:1511,nt06551,Lysosome
+hsa:821,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:821,nt06220,Calcium signaling (cancer)
+hsa:821,nt06537,TCR/BCR signaling
+hsa:155,nt06529,Thermogenesis
+hsa:2247,nt06210,ERK signaling (cancer)
+hsa:2247,nt06214,PI3K signaling (cancer)
+hsa:2247,nt06261,Gastric cancer
+hsa:2247,nt06265,Bladder cancer
+hsa:2247,nt06270,Breast cancer
+hsa:2247,nt06526,MAPK signaling
+hsa:2247,nt06528,Calcium signaling
+hsa:2247,nt06530,PI3K signaling
+hsa:6093,nt06167,Human cytomegalovirus (HCMV)
+hsa:6093,nt06180,Pathogenic Escherichia coli
+hsa:6093,nt06182,Shigella
+hsa:6093,nt06505,WNT signaling
+hsa:6093,nt06549,Cadherin signaling
+hsa:3827,nt06514,Coagulation cascade
+hsa:1432,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:1432,nt06162,Hepatitis B virus (HBV)
+hsa:1432,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:1432,nt06180,Pathogenic Escherichia coli
+hsa:1432,nt06182,Shigella
+hsa:1432,nt06183,Yersinia
+hsa:1432,nt06211,Other MAPK signaling (cancer)
+hsa:1432,nt06263,Hepatocellular carcinoma
+hsa:1432,nt06516,TNF signaling
+hsa:1432,nt06517,TLR signaling
+hsa:1432,nt06526,MAPK signaling
+hsa:1432,nt06535,Efferocytosis
+hsa:2160,nt06514,Coagulation cascade
+hsa:595,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:595,nt06162,Hepatitis B virus (HBV)
+hsa:595,nt06163,Hepatitis C virus (HCV)
+hsa:595,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:595,nt06165,Epstein-Barr virus (EBV)
+hsa:595,nt06166,Human papillomavirus (HPV)
+hsa:595,nt06167,Human cytomegalovirus (HCMV)
+hsa:595,nt06170,Influenza A virus (IAV)
+hsa:595,nt06181,Salmonella
+hsa:595,nt06210,ERK signaling (cancer)
+hsa:595,nt06215,WNT signaling (cancer)
+hsa:595,nt06219,JAK-STAT signaling (cancer)
+hsa:595,nt06220,Calcium signaling (cancer)
+hsa:595,nt06227,Nuclear receptor signaling (cancer)
+hsa:595,nt06230,Cell cycle (cancer)
+hsa:595,nt06260,Colorectal cancer
+hsa:595,nt06261,Gastric cancer
+hsa:595,nt06262,Pancreatic cancer
+hsa:595,nt06263,Hepatocellular carcinoma
+hsa:595,nt06264,Renal cell carcinoma
+hsa:595,nt06265,Bladder cancer
+hsa:595,nt06266,Non-small cell lung cancer
+hsa:595,nt06267,Small cell lung cancer
+hsa:595,nt06268,Melanoma
+hsa:595,nt06270,Breast cancer
+hsa:595,nt06271,Endometrial cancer
+hsa:595,nt06273,Glioma
+hsa:595,nt06274,Thyroid cancer
+hsa:595,nt06275,Acute myeloid leukemia
+hsa:595,nt06276,Chronic myeloid leukemia
+hsa:595,nt06505,WNT signaling
+hsa:3760,nt06544,Neuroactive ligand signaling
+hsa:3558,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:3558,nt06162,Hepatitis B virus (HBV)
+hsa:3558,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3558,nt06165,Epstein-Barr virus (EBV)
+hsa:3558,nt06219,JAK-STAT signaling (cancer)
+hsa:3558,nt06263,Hepatocellular carcinoma
+hsa:3558,nt06266,Non-small cell lung cancer
+hsa:3558,nt06276,Chronic myeloid leukemia
+hsa:3558,nt06518,JAK-STAT signaling
+hsa:3763,nt06544,Neuroactive ligand signaling
+hsa:5243,nt06240,Transcription (cancer)
+hsa:5243,nt06261,Gastric cancer
+hsa:2235,nt06011,Heme biosynthesis
+hsa:4914,nt06210,ERK signaling (cancer)
+hsa:4914,nt06240,Transcription (cancer)
+hsa:4914,nt06274,Thyroid cancer
+hsa:4914,nt06526,MAPK signaling
+hsa:4914,nt06528,Calcium signaling
+hsa:4914,nt06530,PI3K signaling
+hsa:3725,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:3725,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:3725,nt06162,Hepatitis B virus (HBV)
+hsa:3725,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3725,nt06180,Pathogenic Escherichia coli
+hsa:3725,nt06181,Salmonella
+hsa:3725,nt06182,Shigella
+hsa:3725,nt06183,Yersinia
+hsa:3725,nt06210,ERK signaling (cancer)
+hsa:3725,nt06211,Other MAPK signaling (cancer)
+hsa:3725,nt06214,PI3K signaling (cancer)
+hsa:3725,nt06223,TNF signaling (cancer)
+hsa:3725,nt06263,Hepatocellular carcinoma
+hsa:3725,nt06461,Huntington disease
+hsa:3725,nt06516,TNF signaling
+hsa:3725,nt06517,TLR signaling
+hsa:3725,nt06526,MAPK signaling
+hsa:6514,nt06017,Glycogen metabolism
+hsa:6347,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:6347,nt06167,Human cytomegalovirus (HCMV)
+hsa:6347,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:6347,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:6347,nt06224,CXCR signaling (cancer)
+hsa:6347,nt06516,TNF signaling
+hsa:6347,nt06533,Chemokine signaling
+hsa:3553,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3553,nt06170,Influenza A virus (IAV)
+hsa:3553,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:3553,nt06180,Pathogenic Escherichia coli
+hsa:3553,nt06181,Salmonella
+hsa:3553,nt06182,Shigella
+hsa:3553,nt06183,Yersinia
+hsa:3553,nt06211,Other MAPK signaling (cancer)
+hsa:3553,nt06521,NLR signaling
+hsa:3553,nt06526,MAPK signaling
+hsa:6505,nt06544,Neuroactive ligand signaling
+hsa:6513,nt06225,HIF-1 signaling (cancer)
+hsa:6513,nt06264,Renal cell carcinoma
+hsa:6513,nt06535,Efferocytosis
+hsa:6513,nt06542,HIF signaling
+hsa:183,nt06316,Renin-angiotensin-aldosterone signaling
+hsa:5595,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:5595,nt06162,Hepatitis B virus (HBV)
+hsa:5595,nt06163,Hepatitis C virus (HCV)
+hsa:5595,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:5595,nt06166,Human papillomavirus (HPV)
+hsa:5595,nt06167,Human cytomegalovirus (HCMV)
+hsa:5595,nt06170,Influenza A virus (IAV)
+hsa:5595,nt06180,Pathogenic Escherichia coli
+hsa:5595,nt06181,Salmonella
+hsa:5595,nt06182,Shigella
+hsa:5595,nt06183,Yersinia
+hsa:5595,nt06210,ERK signaling (cancer)
+hsa:5595,nt06220,Calcium signaling (cancer)
+hsa:5595,nt06224,CXCR signaling (cancer)
+hsa:5595,nt06260,Colorectal cancer
+hsa:5595,nt06261,Gastric cancer
+hsa:5595,nt06262,Pancreatic cancer
+hsa:5595,nt06263,Hepatocellular carcinoma
+hsa:5595,nt06264,Renal cell carcinoma
+hsa:5595,nt06265,Bladder cancer
+hsa:5595,nt06266,Non-small cell lung cancer
+hsa:5595,nt06268,Melanoma
+hsa:5595,nt06270,Breast cancer
+hsa:5595,nt06271,Endometrial cancer
+hsa:5595,nt06273,Glioma
+hsa:5595,nt06274,Thyroid cancer
+hsa:5595,nt06275,Acute myeloid leukemia
+hsa:5595,nt06276,Chronic myeloid leukemia
+hsa:5595,nt06310,CRH-ACTH-cortisol signaling
+hsa:5595,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:5595,nt06324,GHRH-GH-IGF signaling
+hsa:5595,nt06325,Hormone/cytokine signaling
+hsa:5595,nt06360,Cushing syndrome
+hsa:5595,nt06460,Alzheimer disease
+hsa:5595,nt06465,Prion disease
+hsa:5595,nt06466,Pathways of neurodegeneration
+hsa:5595,nt06517,TLR signaling
+hsa:5595,nt06526,MAPK signaling
+hsa:5595,nt06535,Efferocytosis
+hsa:5595,nt06543,NRG-ERBB signaling
+hsa:5595,nt06549,Cadherin signaling
+hsa:2932,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:2932,nt06169,Measles virus (MV)
+hsa:2932,nt06181,Salmonella
+hsa:2932,nt06215,WNT signaling (cancer)
+hsa:2932,nt06260,Colorectal cancer
+hsa:2932,nt06261,Gastric cancer
+hsa:2932,nt06263,Hepatocellular carcinoma
+hsa:2932,nt06270,Breast cancer
+hsa:2932,nt06271,Endometrial cancer
+hsa:2932,nt06274,Thyroid cancer
+hsa:2932,nt06460,Alzheimer disease
+hsa:2932,nt06465,Prion disease
+hsa:2932,nt06466,Pathways of neurodegeneration
+hsa:2932,nt06505,WNT signaling
+hsa:2932,nt06537,TCR/BCR signaling
+hsa:2932,nt06541,Cytoskeleton in neurons
+hsa:2932,nt06549,Cadherin signaling
+hsa:7448,nt06513,Complement cascade
+hsa:7448,nt06548,Integrin signaling
+hsa:5781,nt06180,Pathogenic Escherichia coli
+hsa:5781,nt06223,TNF signaling (cancer)
+hsa:5781,nt06517,TLR signaling
+hsa:5781,nt06526,MAPK signaling
+hsa:5781,nt06535,Efferocytosis
+hsa:5781,nt06537,TCR/BCR signaling
+hsa:5781,nt06546,IgSF CAM signaling
+hsa:1017,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:1017,nt06162,Hepatitis B virus (HBV)
+hsa:1017,nt06165,Epstein-Barr virus (EBV)
+hsa:1017,nt06166,Human papillomavirus (HPV)
+hsa:1017,nt06230,Cell cycle (cancer)
+hsa:1017,nt06261,Gastric cancer
+hsa:1017,nt06263,Hepatocellular carcinoma
+hsa:1017,nt06267,Small cell lung cancer
+hsa:1017,nt06272,Prostate cancer
+hsa:1017,nt06360,Cushing syndrome
+hsa:1017,nt06509,DNA replication
+hsa:4353,nt06240,Transcription (cancer)
+hsa:4353,nt06275,Acute myeloid leukemia
+hsa:3265,nt06162,Hepatitis B virus (HBV)
+hsa:3265,nt06163,Hepatitis C virus (HCV)
+hsa:3265,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3265,nt06166,Human papillomavirus (HPV)
+hsa:3265,nt06167,Human cytomegalovirus (HCMV)
+hsa:3265,nt06170,Influenza A virus (IAV)
+hsa:3265,nt06210,ERK signaling (cancer)
+hsa:3265,nt06213,Other RAS signaling (cancer)
+hsa:3265,nt06214,PI3K signaling (cancer)
+hsa:3265,nt06224,CXCR signaling (cancer)
+hsa:3265,nt06260,Colorectal cancer
+hsa:3265,nt06261,Gastric cancer
+hsa:3265,nt06262,Pancreatic cancer
+hsa:3265,nt06263,Hepatocellular carcinoma
+hsa:3265,nt06264,Renal cell carcinoma
+hsa:3265,nt06265,Bladder cancer
+hsa:3265,nt06266,Non-small cell lung cancer
+hsa:3265,nt06268,Melanoma
+hsa:3265,nt06270,Breast cancer
+hsa:3265,nt06271,Endometrial cancer
+hsa:3265,nt06273,Glioma
+hsa:3265,nt06274,Thyroid cancer
+hsa:3265,nt06275,Acute myeloid leukemia
+hsa:3265,nt06276,Chronic myeloid leukemia
+hsa:3265,nt06324,GHRH-GH-IGF signaling
+hsa:3265,nt06460,Alzheimer disease
+hsa:3265,nt06466,Pathways of neurodegeneration
+hsa:3265,nt06526,MAPK signaling
+hsa:3265,nt06530,PI3K signaling
+hsa:3265,nt06543,NRG-ERBB signaling
+hsa:3265,nt06549,Cadherin signaling
+hsa:8398,nt06535,Efferocytosis
+hsa:54331,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:54331,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:54331,nt06167,Human cytomegalovirus (HCMV)
+hsa:54331,nt06224,CXCR signaling (cancer)
+hsa:54331,nt06530,PI3K signaling
+hsa:54331,nt06533,Chemokine signaling
+hsa:54331,nt06544,Neuroactive ligand signaling
+hsa:983,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:983,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:983,nt06230,Cell cycle (cancer)
+hsa:983,nt06512,Chromosome cohesion and segregation
+hsa:3383,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3383,nt06229,MHC presentation (cancer)
+hsa:3383,nt06546,IgSF CAM signaling
+hsa:3383,nt06548,Integrin signaling
+hsa:4790,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:4790,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:4790,nt06162,Hepatitis B virus (HBV)
+hsa:4790,nt06163,Hepatitis C virus (HCV)
+hsa:4790,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:4790,nt06165,Epstein-Barr virus (EBV)
+hsa:4790,nt06167,Human cytomegalovirus (HCMV)
+hsa:4790,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:4790,nt06169,Measles virus (MV)
+hsa:4790,nt06170,Influenza A virus (IAV)
+hsa:4790,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:4790,nt06180,Pathogenic Escherichia coli
+hsa:4790,nt06181,Salmonella
+hsa:4790,nt06182,Shigella
+hsa:4790,nt06183,Yersinia
+hsa:4790,nt06214,PI3K signaling (cancer)
+hsa:4790,nt06223,TNF signaling (cancer)
+hsa:4790,nt06240,Transcription (cancer)
+hsa:4790,nt06263,Hepatocellular carcinoma
+hsa:4790,nt06460,Alzheimer disease
+hsa:4790,nt06466,Pathways of neurodegeneration
+hsa:4790,nt06516,TNF signaling
+hsa:4790,nt06517,TLR signaling
+hsa:4790,nt06519,RLR signaling
+hsa:4790,nt06521,NLR signaling
+hsa:5327,nt06240,Transcription (cancer)
+hsa:5327,nt06272,Prostate cancer
+hsa:5327,nt06514,Coagulation cascade
+hsa:2539,nt06026,Glutathione biosynthesis
+hsa:4803,nt06526,MAPK signaling
+hsa:4803,nt06528,Calcium signaling
+hsa:4803,nt06530,PI3K signaling
+hsa:4907,nt06027,Purine salvage pathway
+hsa:4907,nt06544,Neuroactive ligand signaling
+hsa:5602,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:5602,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:5602,nt06162,Hepatitis B virus (HBV)
+hsa:5602,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:5602,nt06180,Pathogenic Escherichia coli
+hsa:5602,nt06181,Salmonella
+hsa:5602,nt06182,Shigella
+hsa:5602,nt06183,Yersinia
+hsa:5602,nt06211,Other MAPK signaling (cancer)
+hsa:5602,nt06223,TNF signaling (cancer)
+hsa:5602,nt06263,Hepatocellular carcinoma
+hsa:5602,nt06460,Alzheimer disease
+hsa:5602,nt06461,Huntington disease
+hsa:5602,nt06463,Parkinson disease
+hsa:5602,nt06466,Pathways of neurodegeneration
+hsa:5602,nt06516,TNF signaling
+hsa:5602,nt06517,TLR signaling
+hsa:5602,nt06524,Apoptosis
+hsa:5602,nt06526,MAPK signaling
+hsa:5602,nt06534,Unfolded protein response
+hsa:3309,nt06460,Alzheimer disease
+hsa:3309,nt06463,Parkinson disease
+hsa:3309,nt06464,Amyotrophic lateral sclerosis
+hsa:3309,nt06465,Prion disease
+hsa:3309,nt06466,Pathways of neurodegeneration
+hsa:3309,nt06534,Unfolded protein response
+hsa:4133,nt06546,IgSF CAM signaling
+hsa:5621,nt06465,Prion disease
+hsa:5621,nt06466,Pathways of neurodegeneration
+hsa:5621,nt06534,Unfolded protein response
+hsa:3098,nt06464,Amyotrophic lateral sclerosis
+hsa:3098,nt06466,Pathways of neurodegeneration
+hsa:3098,nt06524,Apoptosis
+hsa:3098,nt06536,Mitophagy
+hsa:5879,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:5879,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:5879,nt06167,Human cytomegalovirus (HCMV)
+hsa:5879,nt06180,Pathogenic Escherichia coli
+hsa:5879,nt06181,Salmonella
+hsa:5879,nt06182,Shigella
+hsa:5879,nt06183,Yersinia
+hsa:5879,nt06224,CXCR signaling (cancer)
+hsa:5879,nt06465,Prion disease
+hsa:5879,nt06505,WNT signaling
+hsa:5879,nt06521,NLR signaling
+hsa:5879,nt06535,Efferocytosis
+hsa:5879,nt06541,Cytoskeleton in neurons
+hsa:5879,nt06546,IgSF CAM signaling
+hsa:5879,nt06549,Cadherin signaling
+hsa:1545,nt06227,Nuclear receptor signaling (cancer)
+hsa:1545,nt06250,DNA adduct formation (cancer)
+hsa:1545,nt06251,CYP-mediated ROS formation (cancer)
+hsa:1545,nt06360,Cushing syndrome
+hsa:7412,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:7412,nt06548,Integrin signaling
+hsa:6507,nt06544,Neuroactive ligand signaling
+hsa:4314,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:4314,nt06240,Transcription (cancer)
+hsa:4314,nt06272,Prostate cancer
+hsa:3082,nt06162,Hepatitis B virus (HBV)
+hsa:3082,nt06163,Hepatitis C virus (HCV)
+hsa:3082,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3082,nt06210,ERK signaling (cancer)
+hsa:3082,nt06214,PI3K signaling (cancer)
+hsa:3082,nt06261,Gastric cancer
+hsa:3082,nt06262,Pancreatic cancer
+hsa:3082,nt06263,Hepatocellular carcinoma
+hsa:3082,nt06264,Renal cell carcinoma
+hsa:3082,nt06266,Non-small cell lung cancer
+hsa:3082,nt06526,MAPK signaling
+hsa:3082,nt06528,Calcium signaling
+hsa:3082,nt06530,PI3K signaling
+hsa:5578,nt06162,Hepatitis B virus (HBV)
+hsa:5578,nt06167,Human cytomegalovirus (HCMV)
+hsa:5578,nt06170,Influenza A virus (IAV)
+hsa:5578,nt06220,Calcium signaling (cancer)
+hsa:5578,nt06263,Hepatocellular carcinoma
+hsa:5578,nt06266,Non-small cell lung cancer
+hsa:5578,nt06322,TRH-TSH-TH signaling
+hsa:5578,nt06323,KISS1-GnRH-LH/FSH-E2 signaling
+hsa:5578,nt06462,Spinocerebellar ataxia
+hsa:5578,nt06463,Parkinson disease
+hsa:5578,nt06466,Pathways of neurodegeneration
+hsa:5578,nt06528,Calcium signaling
+hsa:7132,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:7132,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:7132,nt06163,Hepatitis C virus (HCV)
+hsa:7132,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:7132,nt06165,Epstein-Barr virus (EBV)
+hsa:7132,nt06166,Human papillomavirus (HPV)
+hsa:7132,nt06167,Human cytomegalovirus (HCMV)
+hsa:7132,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:7132,nt06180,Pathogenic Escherichia coli
+hsa:7132,nt06181,Salmonella
+hsa:7132,nt06182,Shigella
+hsa:7132,nt06223,TNF signaling (cancer)
+hsa:7132,nt06231,Apoptosis (cancer)
+hsa:7132,nt06263,Hepatocellular carcinoma
+hsa:7132,nt06461,Huntington disease
+hsa:7132,nt06516,TNF signaling
+hsa:7132,nt06524,Apoptosis
+hsa:7132,nt06527,Necroptosis
+hsa:3074,nt06012,Glycosaminoglycan degradation
+hsa:3074,nt06014,Sphingolipid degradation
+hsa:3074,nt06551,Lysosome
+hsa:3551,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:3551,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:3551,nt06162,Hepatitis B virus (HBV)
+hsa:3551,nt06163,Hepatitis C virus (HCV)
+hsa:3551,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3551,nt06165,Epstein-Barr virus (EBV)
+hsa:3551,nt06167,Human cytomegalovirus (HCMV)
+hsa:3551,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:3551,nt06169,Measles virus (MV)
+hsa:3551,nt06170,Influenza A virus (IAV)
+hsa:3551,nt06180,Pathogenic Escherichia coli
+hsa:3551,nt06181,Salmonella
+hsa:3551,nt06182,Shigella
+hsa:3551,nt06183,Yersinia
+hsa:3551,nt06214,PI3K signaling (cancer)
+hsa:3551,nt06223,TNF signaling (cancer)
+hsa:3551,nt06263,Hepatocellular carcinoma
+hsa:3551,nt06516,TNF signaling
+hsa:3551,nt06517,TLR signaling
+hsa:3551,nt06519,RLR signaling
+hsa:3551,nt06521,NLR signaling
+hsa:3690,nt06167,Human cytomegalovirus (HCMV)
+hsa:3690,nt06180,Pathogenic Escherichia coli
+hsa:3690,nt06181,Salmonella
+hsa:3690,nt06182,Shigella
+hsa:3690,nt06183,Yersinia
+hsa:3690,nt06535,Efferocytosis
+hsa:3690,nt06546,IgSF CAM signaling
+hsa:3690,nt06548,Integrin signaling
+hsa:331,nt06230,Cell cycle (cancer)
+hsa:331,nt06516,TNF signaling
+hsa:331,nt06527,Necroptosis
+hsa:887,nt06528,Calcium signaling
+hsa:836,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:836,nt06162,Hepatitis B virus (HBV)
+hsa:836,nt06163,Hepatitis C virus (HCV)
+hsa:836,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:836,nt06165,Epstein-Barr virus (EBV)
+hsa:836,nt06166,Human papillomavirus (HPV)
+hsa:836,nt06167,Human cytomegalovirus (HCMV)
+hsa:836,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:836,nt06170,Influenza A virus (IAV)
+hsa:836,nt06231,Apoptosis (cancer)
+hsa:836,nt06260,Colorectal cancer
+hsa:836,nt06263,Hepatocellular carcinoma
+hsa:836,nt06267,Small cell lung cancer
+hsa:836,nt06460,Alzheimer disease
+hsa:836,nt06461,Huntington disease
+hsa:836,nt06462,Spinocerebellar ataxia
+hsa:836,nt06463,Parkinson disease
+hsa:836,nt06464,Amyotrophic lateral sclerosis
+hsa:836,nt06465,Prion disease
+hsa:836,nt06466,Pathways of neurodegeneration
+hsa:836,nt06516,TNF signaling
+hsa:836,nt06524,Apoptosis
+hsa:836,nt06528,Calcium signaling
+hsa:836,nt06535,Efferocytosis
+hsa:7097,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:7097,nt06162,Hepatitis B virus (HBV)
+hsa:7097,nt06165,Epstein-Barr virus (EBV)
+hsa:7097,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:7097,nt06169,Measles virus (MV)
+hsa:7097,nt06180,Pathogenic Escherichia coli
+hsa:7097,nt06182,Shigella
+hsa:7097,nt06183,Yersinia
+hsa:7097,nt06263,Hepatocellular carcinoma
+hsa:7097,nt06517,TLR signaling
+hsa:302,nt06181,Salmonella
+hsa:54106,nt06169,Measles virus (MV)
+hsa:54106,nt06517,TLR signaling
+hsa:208,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:208,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:208,nt06162,Hepatitis B virus (HBV)
+hsa:208,nt06163,Hepatitis C virus (HCV)
+hsa:208,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:208,nt06165,Epstein-Barr virus (EBV)
+hsa:208,nt06166,Human papillomavirus (HPV)
+hsa:208,nt06167,Human cytomegalovirus (HCMV)
+hsa:208,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:208,nt06169,Measles virus (MV)
+hsa:208,nt06170,Influenza A virus (IAV)
+hsa:208,nt06214,PI3K signaling (cancer)
+hsa:208,nt06224,CXCR signaling (cancer)
+hsa:208,nt06260,Colorectal cancer
+hsa:208,nt06261,Gastric cancer
+hsa:208,nt06262,Pancreatic cancer
+hsa:208,nt06263,Hepatocellular carcinoma
+hsa:208,nt06264,Renal cell carcinoma
+hsa:208,nt06266,Non-small cell lung cancer
+hsa:208,nt06267,Small cell lung cancer
+hsa:208,nt06268,Melanoma
+hsa:208,nt06270,Breast cancer
+hsa:208,nt06271,Endometrial cancer
+hsa:208,nt06272,Prostate cancer
+hsa:208,nt06273,Glioma
+hsa:208,nt06275,Acute myeloid leukemia
+hsa:208,nt06276,Chronic myeloid leukemia
+hsa:208,nt06462,Spinocerebellar ataxia
+hsa:208,nt06464,Amyotrophic lateral sclerosis
+hsa:208,nt06530,PI3K signaling
+hsa:208,nt06537,TCR/BCR signaling
+hsa:208,nt06541,Cytoskeleton in neurons
+hsa:208,nt06543,NRG-ERBB signaling
+hsa:208,nt06546,IgSF CAM signaling
+hsa:5660,nt06014,Sphingolipid degradation
+hsa:5660,nt06551,Lysosome
+hsa:2152,nt06514,Coagulation cascade
+hsa:2335,nt06167,Human cytomegalovirus (HCMV)
+hsa:2335,nt06180,Pathogenic Escherichia coli
+hsa:2335,nt06181,Salmonella
+hsa:2335,nt06182,Shigella
+hsa:2335,nt06183,Yersinia
+hsa:2335,nt06539,Cytoskeleton in muscle cells
+hsa:2335,nt06548,Integrin signaling
+hsa:1728,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:1728,nt06263,Hepatocellular carcinoma
+hsa:1728,nt06463,Parkinson disease
+hsa:2946,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:2946,nt06227,Nuclear receptor signaling (cancer)
+hsa:2946,nt06250,DNA adduct formation (cancer)
+hsa:2946,nt06263,Hepatocellular carcinoma
+hsa:2946,nt06463,Parkinson disease
+hsa:387,nt06167,Human cytomegalovirus (HCMV)
+hsa:387,nt06180,Pathogenic Escherichia coli
+hsa:387,nt06181,Salmonella
+hsa:387,nt06182,Shigella
+hsa:387,nt06183,Yersinia
+hsa:387,nt06505,WNT signaling
+hsa:387,nt06546,IgSF CAM signaling
+hsa:387,nt06549,Cadherin signaling
+hsa:2915,nt06460,Alzheimer disease
+hsa:2915,nt06461,Huntington disease
+hsa:2915,nt06462,Spinocerebellar ataxia
+hsa:2915,nt06464,Amyotrophic lateral sclerosis
+hsa:2915,nt06465,Prion disease
+hsa:2915,nt06466,Pathways of neurodegeneration
+hsa:2915,nt06528,Calcium signaling
+hsa:2915,nt06544,Neuroactive ligand signaling
+hsa:2264,nt06210,ERK signaling (cancer)
+hsa:2264,nt06214,PI3K signaling (cancer)
+hsa:2264,nt06261,Gastric cancer
+hsa:2264,nt06265,Bladder cancer
+hsa:2264,nt06270,Breast cancer
+hsa:2264,nt06526,MAPK signaling
+hsa:2264,nt06528,Calcium signaling
+hsa:2264,nt06530,PI3K signaling
+hsa:847,nt06253,Antioxidant system (cancer)
+hsa:3567,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:3567,nt06162,Hepatitis B virus (HBV)
+hsa:3567,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:3567,nt06165,Epstein-Barr virus (EBV)
+hsa:3567,nt06219,JAK-STAT signaling (cancer)
+hsa:3567,nt06263,Hepatocellular carcinoma
+hsa:3567,nt06266,Non-small cell lung cancer
+hsa:3567,nt06276,Chronic myeloid leukemia
+hsa:3567,nt06518,JAK-STAT signaling
+hsa:1457,nt06465,Prion disease
+hsa:1457,nt06466,Pathways of neurodegeneration
+hsa:1457,nt06512,Chromosome cohesion and segregation
+hsa:1457,nt06523,Epigenetic regulation by Polycomb complexes
+hsa:3417,nt06026,Glutathione biosynthesis
+hsa:3417,nt06031,Citrate cycle and pyruvate metabolism
+hsa:7053,nt06545,Cornified envelope formation
+hsa:10376,nt06180,Pathogenic Escherichia coli
+hsa:10376,nt06181,Salmonella
+hsa:10376,nt06460,Alzheimer disease
+hsa:10376,nt06461,Huntington disease
+hsa:10376,nt06463,Parkinson disease
+hsa:10376,nt06464,Amyotrophic lateral sclerosis
+hsa:10376,nt06465,Prion disease
+hsa:10376,nt06466,Pathways of neurodegeneration
+hsa:10376,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:10376,nt06541,Cytoskeleton in neurons
+hsa:10376,nt06546,IgSF CAM signaling
+hsa:5292,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:5292,nt06162,Hepatitis B virus (HBV)
+hsa:5292,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:5292,nt06165,Epstein-Barr virus (EBV)
+hsa:5292,nt06219,JAK-STAT signaling (cancer)
+hsa:5292,nt06263,Hepatocellular carcinoma
+hsa:5292,nt06266,Non-small cell lung cancer
+hsa:5292,nt06275,Acute myeloid leukemia
+hsa:5292,nt06276,Chronic myeloid leukemia
+hsa:695,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:695,nt06165,Epstein-Barr virus (EBV)
+hsa:695,nt06220,Calcium signaling (cancer)
+hsa:695,nt06537,TCR/BCR signaling
+hsa:7535,nt06183,Yersinia
+hsa:7535,nt06537,TCR/BCR signaling
+hsa:5294,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:5294,nt06167,Human cytomegalovirus (HCMV)
+hsa:5294,nt06181,Salmonella
+hsa:5294,nt06224,CXCR signaling (cancer)
+hsa:5294,nt06530,PI3K signaling
+hsa:5294,nt06533,Chemokine signaling
+hsa:6850,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:6850,nt06165,Epstein-Barr virus (EBV)
+hsa:6850,nt06220,Calcium signaling (cancer)
+hsa:6850,nt06537,TCR/BCR signaling
+hsa:7846,nt06180,Pathogenic Escherichia coli
+hsa:7846,nt06181,Salmonella
+hsa:7846,nt06460,Alzheimer disease
+hsa:7846,nt06461,Huntington disease
+hsa:7846,nt06463,Parkinson disease
+hsa:7846,nt06464,Amyotrophic lateral sclerosis
+hsa:7846,nt06465,Prion disease
+hsa:7846,nt06466,Pathways of neurodegeneration
+hsa:7846,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:7846,nt06541,Cytoskeleton in neurons
+hsa:7846,nt06546,IgSF CAM signaling
+hsa:51807,nt06180,Pathogenic Escherichia coli
+hsa:51807,nt06181,Salmonella
+hsa:51807,nt06460,Alzheimer disease
+hsa:51807,nt06461,Huntington disease
+hsa:51807,nt06463,Parkinson disease
+hsa:51807,nt06464,Amyotrophic lateral sclerosis
+hsa:51807,nt06465,Prion disease
+hsa:51807,nt06466,Pathways of neurodegeneration
+hsa:51807,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:51807,nt06541,Cytoskeleton in neurons
+hsa:51807,nt06546,IgSF CAM signaling
+hsa:10383,nt06180,Pathogenic Escherichia coli
+hsa:10383,nt06181,Salmonella
+hsa:10383,nt06460,Alzheimer disease
+hsa:10383,nt06461,Huntington disease
+hsa:10383,nt06463,Parkinson disease
+hsa:10383,nt06464,Amyotrophic lateral sclerosis
+hsa:10383,nt06465,Prion disease
+hsa:10383,nt06466,Pathways of neurodegeneration
+hsa:10383,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:10383,nt06541,Cytoskeleton in neurons
+hsa:10383,nt06546,IgSF CAM signaling
+hsa:9261,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:9261,nt06211,Other MAPK signaling (cancer)
+hsa:9261,nt06526,MAPK signaling
+hsa:9261,nt06535,Efferocytosis
+hsa:84790,nt06180,Pathogenic Escherichia coli
+hsa:84790,nt06181,Salmonella
+hsa:84790,nt06460,Alzheimer disease
+hsa:84790,nt06461,Huntington disease
+hsa:84790,nt06463,Parkinson disease
+hsa:84790,nt06464,Amyotrophic lateral sclerosis
+hsa:84790,nt06465,Prion disease
+hsa:84790,nt06466,Pathways of neurodegeneration
+hsa:84790,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:84790,nt06541,Cytoskeleton in neurons
+hsa:84790,nt06546,IgSF CAM signaling
+hsa:7277,nt06180,Pathogenic Escherichia coli
+hsa:7277,nt06181,Salmonella
+hsa:7277,nt06460,Alzheimer disease
+hsa:7277,nt06461,Huntington disease
+hsa:7277,nt06463,Parkinson disease
+hsa:7277,nt06464,Amyotrophic lateral sclerosis
+hsa:7277,nt06465,Prion disease
+hsa:7277,nt06466,Pathways of neurodegeneration
+hsa:7277,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:7277,nt06541,Cytoskeleton in neurons
+hsa:7277,nt06546,IgSF CAM signaling
+hsa:10382,nt06180,Pathogenic Escherichia coli
+hsa:10382,nt06181,Salmonella
+hsa:10382,nt06460,Alzheimer disease
+hsa:10382,nt06461,Huntington disease
+hsa:10382,nt06463,Parkinson disease
+hsa:10382,nt06464,Amyotrophic lateral sclerosis
+hsa:10382,nt06465,Prion disease
+hsa:10382,nt06466,Pathways of neurodegeneration
+hsa:10382,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:10382,nt06541,Cytoskeleton in neurons
+hsa:10382,nt06546,IgSF CAM signaling
+hsa:11253,nt06015,N-Glycan biosynthesis
+hsa:10381,nt06180,Pathogenic Escherichia coli
+hsa:10381,nt06181,Salmonella
+hsa:10381,nt06460,Alzheimer disease
+hsa:10381,nt06461,Huntington disease
+hsa:10381,nt06463,Parkinson disease
+hsa:10381,nt06464,Amyotrophic lateral sclerosis
+hsa:10381,nt06465,Prion disease
+hsa:10381,nt06466,Pathways of neurodegeneration
+hsa:10381,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:10381,nt06541,Cytoskeleton in neurons
+hsa:10381,nt06546,IgSF CAM signaling
+hsa:3055,nt06533,Chemokine signaling
+hsa:5501,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:5501,nt06515,Regulation of kinetochore-microtubule interactions
+hsa:5501,nt06526,MAPK signaling
+hsa:5501,nt06544,Neuroactive ligand signaling
+hsa:5501,nt06552,Integrated stress response (ISR) signaling pathway
+hsa:4047,nt06034,Cholesterol biosynthesis
+hsa:56953,nt06027,Purine salvage pathway
+hsa:2582,nt06023,Galactose degradation
+hsa:716,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:716,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:716,nt06513,Complement cascade
+hsa:716,nt06514,Coagulation cascade
+hsa:55869,nt06512,Chromosome cohesion and segregation
+hsa:7389,nt06011,Heme biosynthesis
+hsa:1520,nt06551,Lysosome
+hsa:6768,nt06545,Cornified envelope formation
+hsa:226,nt06017,Glycogen metabolism
+hsa:191,nt06030,Methionine metabolism
+hsa:629,nt06513,Complement cascade
+hsa:994,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:142,nt06504,Base excision repair
+hsa:840,nt06161,Human immunodeficiency virus 1 (HIV-1)
+hsa:840,nt06162,Hepatitis B virus (HBV)
+hsa:840,nt06163,Hepatitis C virus (HCV)
+hsa:840,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:840,nt06165,Epstein-Barr virus (EBV)
+hsa:840,nt06166,Human papillomavirus (HPV)
+hsa:840,nt06167,Human cytomegalovirus (HCMV)
+hsa:840,nt06168,Herpes simplex virus 1 (HSV-1)
+hsa:840,nt06170,Influenza A virus (IAV)
+hsa:840,nt06231,Apoptosis (cancer)
+hsa:840,nt06260,Colorectal cancer
+hsa:840,nt06263,Hepatocellular carcinoma
+hsa:840,nt06267,Small cell lung cancer
+hsa:840,nt06460,Alzheimer disease
+hsa:840,nt06461,Huntington disease
+hsa:840,nt06462,Spinocerebellar ataxia
+hsa:840,nt06463,Parkinson disease
+hsa:840,nt06464,Amyotrophic lateral sclerosis
+hsa:840,nt06465,Prion disease
+hsa:840,nt06466,Pathways of neurodegeneration
+hsa:840,nt06516,TNF signaling
+hsa:840,nt06524,Apoptosis
+hsa:840,nt06528,Calcium signaling
+hsa:840,nt06535,Efferocytosis
+hsa:1675,nt06513,Complement cascade
+hsa:7048,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:7048,nt06162,Hepatitis B virus (HBV)
+hsa:7048,nt06218,TGFB signaling (cancer)
+hsa:7048,nt06240,Transcription (cancer)
+hsa:7048,nt06260,Colorectal cancer
+hsa:7048,nt06261,Gastric cancer
+hsa:7048,nt06263,Hepatocellular carcinoma
+hsa:7048,nt06276,Chronic myeloid leukemia
+hsa:7048,nt06507,TGFB signaling
+hsa:1515,nt06551,Lysosome
+hsa:1022,nt06502,Nucleotide excision repair
+hsa:2639,nt06036,Lysine degradation
+hsa:7296,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:7296,nt06263,Hepatocellular carcinoma
+hsa:7296,nt06463,Parkinson disease
+hsa:6334,nt06541,Cytoskeleton in neurons
+hsa:6334,nt06546,IgSF CAM signaling
+hsa:1312,nt06544,Neuroactive ligand signaling
+hsa:1588,nt06019,Steroid hormone biosynthesis
+hsa:715,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:715,nt06171,SARS coronavirus 2 (SARS-CoV-2)
+hsa:715,nt06513,Complement cascade
+hsa:715,nt06514,Coagulation cascade
+hsa:2260,nt06210,ERK signaling (cancer)
+hsa:2260,nt06214,PI3K signaling (cancer)
+hsa:2260,nt06261,Gastric cancer
+hsa:2260,nt06265,Bladder cancer
+hsa:2260,nt06270,Breast cancer
+hsa:2260,nt06325,Hormone/cytokine signaling
+hsa:2260,nt06526,MAPK signaling
+hsa:2260,nt06528,Calcium signaling
+hsa:2260,nt06530,PI3K signaling
+hsa:2261,nt06210,ERK signaling (cancer)
+hsa:2261,nt06214,PI3K signaling (cancer)
+hsa:2261,nt06261,Gastric cancer
+hsa:2261,nt06265,Bladder cancer
+hsa:2261,nt06270,Breast cancer
+hsa:2261,nt06526,MAPK signaling
+hsa:2261,nt06528,Calcium signaling
+hsa:2261,nt06530,PI3K signaling
+hsa:1514,nt06551,Lysosome
+hsa:5834,nt06017,Glycogen metabolism
+hsa:1644,nt06028,Dopamine and serotonin metabolism
+hsa:1644,nt06463,Parkinson disease
+hsa:1644,nt06544,Neuroactive ligand signaling
+hsa:2939,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:2939,nt06227,Nuclear receptor signaling (cancer)
+hsa:2939,nt06250,DNA adduct formation (cancer)
+hsa:2939,nt06263,Hepatocellular carcinoma
+hsa:2939,nt06463,Parkinson disease
+hsa:4129,nt06028,Dopamine and serotonin metabolism
+hsa:4129,nt06463,Parkinson disease
+hsa:4129,nt06544,Neuroactive ligand signaling
+hsa:4128,nt06028,Dopamine and serotonin metabolism
+hsa:4128,nt06463,Parkinson disease
+hsa:4128,nt06544,Neuroactive ligand signaling
+hsa:7498,nt06025,Molybdenum cofactor biosynthesis
+hsa:7498,nt06027,Purine salvage pathway
+hsa:1025,nt06240,Transcription (cancer)
+hsa:112398,nt06542,HIF signaling
+hsa:1021,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:1021,nt06163,Hepatitis C virus (HCV)
+hsa:1021,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:1021,nt06165,Epstein-Barr virus (EBV)
+hsa:1021,nt06166,Human papillomavirus (HPV)
+hsa:1021,nt06167,Human cytomegalovirus (HCMV)
+hsa:1021,nt06170,Influenza A virus (IAV)
+hsa:1021,nt06230,Cell cycle (cancer)
+hsa:1021,nt06262,Pancreatic cancer
+hsa:1021,nt06263,Hepatocellular carcinoma
+hsa:1021,nt06265,Bladder cancer
+hsa:1021,nt06266,Non-small cell lung cancer
+hsa:1021,nt06267,Small cell lung cancer
+hsa:1021,nt06268,Melanoma
+hsa:1021,nt06270,Breast cancer
+hsa:1021,nt06273,Glioma
+hsa:1021,nt06276,Chronic myeloid leukemia
+hsa:1019,nt06160,Human T-cell leukemia virus 1 (HTLV-1)
+hsa:1019,nt06163,Hepatitis C virus (HCV)
+hsa:1019,nt06164,Kaposi sarcoma-associated herpesvirus (KSHV)
+hsa:1019,nt06165,Epstein-Barr virus (EBV)
+hsa:1019,nt06166,Human papillomavirus (HPV)
+hsa:1019,nt06167,Human cytomegalovirus (HCMV)
+hsa:1019,nt06170,Influenza A virus (IAV)
+hsa:1019,nt06230,Cell cycle (cancer)
+hsa:1019,nt06262,Pancreatic cancer
+hsa:1019,nt06263,Hepatocellular carcinoma
+hsa:1019,nt06265,Bladder cancer
+hsa:1019,nt06266,Non-small cell lung cancer
+hsa:1019,nt06267,Small cell lung cancer
+hsa:1019,nt06268,Melanoma
+hsa:1019,nt06270,Breast cancer
+hsa:1019,nt06273,Glioma
+hsa:1019,nt06276,Chronic myeloid leukemia
+hsa:54583,nt06542,HIF signaling
+hsa:3762,nt06316,Renin-angiotensin-aldosterone signaling
+hsa:3762,nt06544,Neuroactive ligand signaling
+hsa:112399,nt06542,HIF signaling
+hsa:774,nt06460,Alzheimer disease
+hsa:774,nt06461,Huntington disease
+hsa:774,nt06462,Spinocerebellar ataxia
+hsa:774,nt06463,Parkinson disease
+hsa:774,nt06465,Prion disease
+hsa:774,nt06466,Pathways of neurodegeneration
+hsa:774,nt06528,Calcium signaling
+hsa:774,nt06544,Neuroactive ligand signaling
+hsa:2752,nt06544,Neuroactive ligand signaling
+hsa:23743,nt06030,Methionine metabolism
+hsa:23743,nt06038,Folate metabolism
+hsa:51172,nt06550,Lysosome biogenesis
+hsa:4259,nt06226,KEAP1-NRF2 signaling (cancer)
+hsa:4259,nt06227,Nuclear receptor signaling (cancer)
+hsa:4259,nt06250,DNA adduct formation (cancer)
+hsa:4259,nt06263,Hepatocellular carcinoma
+hsa:4259,nt06463,Parkinson disease

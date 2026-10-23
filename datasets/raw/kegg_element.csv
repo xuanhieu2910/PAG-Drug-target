@@ -1,0 +1,3355 @@
+kegg_hsa,element_id,element_name
+hsa:2162,N01514,"Common pathway of coagulation cascade, F13 activation"
+hsa:4843,N00994,AGE-RAGE signaling pathway
+hsa:4843,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:3294,N01541,Testosterone biosynthesis
+hsa:5836,N00718,Glycogen degradation
+hsa:8911,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:8911,N01637,"Ca2+ entry, Voltage-gated Ca2+ channel"
+hsa:25,N00002,BCR-ABL fusion kinase to RAS-ERK signaling pathway
+hsa:25,N00048,BCR-ABL fusion kinase to PI3K signaling pathway
+hsa:25,N00055,BCR-ABL fusion kinase to Jak-STAT signaling pathway
+hsa:25,N01093,Escherichia EspJ/Tir to Actin signaling pathway
+hsa:25,N01411,Metals to NFKB signaling pathway
+hsa:25,N01942,SLIT-ROBO signaling in neuron
+hsa:1812,N00410,DRD1-GNAS-AC-PKA signaling pathway
+hsa:1812,N01897,Dopamine-DRD-GNAQ/S signaling pathway
+hsa:2324,N00087,NOTCH-overexpression to Notch signaling pathway
+hsa:2324,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2324,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:2324,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2324,N01656,GF-RTK-PI3K signaling pathway
+hsa:2324,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:81027,N00976,Retrograde axonal transport
+hsa:81027,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:81027,N00978,Anterograde axonal transport
+hsa:81027,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:81027,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:81027,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:81027,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:81027,N01285,Microtubule-RHOA signaling pathway
+hsa:81027,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:81027,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:81027,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:81027,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:81027,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:81027,N01403,Zn to anterograde axonal transport
+hsa:81027,N01414,Iron to anterograde axonal transport
+hsa:81027,N01535,Kinetochore microtubule attachment
+hsa:81027,N01544,Microtubule nucleation
+hsa:81027,N01547,Kinetochore fiber organization
+hsa:81027,N01549,Branching microtubule nucleation
+hsa:81027,N01553,Promotion of microtubule growth
+hsa:81027,N01561,Microtubule depolymerization
+hsa:81027,N01562,Microtubule depolymerization at the minus ends
+hsa:81027,N01832,NTN1-MAP1B axon guidance signaling
+hsa:81027,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:81027,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:81027,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:81027,N01836,Microtubule plus end regulation network
+hsa:81027,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:81027,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:81027,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:81027,N01840,"Severing of microtubule, KIF2A"
+hsa:81027,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:81027,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:81027,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:81027,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:81027,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:81027,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:81027,N01857,SEMA3A-DCX axon guidance signaling
+hsa:81027,N01858,EFNB1-MAPT axon guidance signaling
+hsa:81027,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:81027,N01934,L1CAM interactions
+hsa:81027,N01939,Ganglioside-MAG signaling
+hsa:4731,N00995,Electron transfer in Complex I
+hsa:4731,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4731,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4731,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4731,N01044,MPP+ to electron transfer in Complex I
+hsa:4731,N01045,Rotenone to electron transfer in Complex I
+hsa:4731,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:2321,N00141,PAX3-FOXO1 fusion to transcriptional activation
+hsa:2321,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2321,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:2321,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2321,N01656,GF-RTK-PI3K signaling pathway
+hsa:2321,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:1717,N01624,Cholesterol biosynthesis
+hsa:3643,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:3643,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:3643,N01656,GF-RTK-PI3K signaling pathway
+hsa:3643,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:3643,N01708,INS-AKT signaling pathway
+hsa:5894,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:5894,N00002,BCR-ABL fusion kinase to RAS-ERK signaling pathway
+hsa:5894,N00003,Mutation-activated KIT to RAS-ERK signaling pathway
+hsa:5894,N00004,Duplication or mutation-activated FLT3 to RAS-ERK signaling pathway
+hsa:5894,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:5894,N00006,Amplified EGFR to RAS-ERK signaling pathway
+hsa:5894,N00007,EML4-ALK fusion kinase to RAS-ERK signaling pathway
+hsa:5894,N00008,RET fusion kinase to RAS-ERK signaling pathway
+hsa:5894,N00009,TRK fusion kinase to RAS-ERK signaling pathway
+hsa:5894,N00011,Mutation-activated FGFR3 to RAS-ERK signaling pathway
+hsa:5894,N00012,Mutation-activated KRAS/NRAS to ERK signaling pathway
+hsa:5894,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:5894,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:5894,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00018,Amplified PDGFR to RAS-ERK signaling pathway
+hsa:5894,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:5894,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:5894,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:5894,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:5894,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:5894,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:5894,N00041,EGFR-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00077,HRAS-overexpression to ERK signaling pathway
+hsa:5894,N00078,Mutation-activated HRAS to ERK signaling pathway
+hsa:5894,N00152,CXCR-GNB/G-ERK signaling pathway
+hsa:5894,N00215,KITLG-KIT-RAS-ERK signaling pathway
+hsa:5894,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:5894,N00217,FLT3LG-FLT3-RAS-ERK signaling pathway
+hsa:5894,N00229,TGFA-EGFR-RAS-ERK signaling pathway
+hsa:5894,N00230,TGFA-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00233,IGF-IGF1R-RAS-ERK signaling pathway
+hsa:5894,N00235,IGF2-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00237,IGF1R-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00248,MET-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:5894,N00259,Amplified MET to RAS-ERK signaling pathway
+hsa:5894,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00277,EREG-EGFR-RAS-ERK signaling pathway
+hsa:5894,N00278,EREG-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00279,AREG-EGFR-RAS-ERK signaling pathway
+hsa:5894,N00280,AREG-overexpression to RAS-ERK signaling pathway
+hsa:5894,N00367,HPV E5 to EGFR-RAS-ERK signaling pathway
+hsa:5894,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:5894,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:5894,N00518,HCV Core to ERK signaling pathway
+hsa:5894,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:5894,N00540,HBV HBx to RAS-ERK signaling pathway
+hsa:5894,N00546,CXCL12-CXCR4-PKC-ERK signaling pathaway
+hsa:5894,N00744,IAV HA to ERK signaling pathway
+hsa:5894,N00873,GnRH-GnRHR-PLCB-PKC signaling pathway
+hsa:5894,N00994,AGE-RAGE signaling pathway
+hsa:5894,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:5894,N01062,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:5894,N01064,Mutation-activated RET to RAS-ERK signaling pathway
+hsa:5894,N01119,RAC/CDC42-PAK-ERK signaling pathway
+hsa:5894,N01336,CHRNA7-E2F signaling pathway
+hsa:5894,N01337,NNK/NNN to CHRNA7-E2F signaling pathway
+hsa:5894,N01343,ACH-CHRN-RAS-ERK signaling pathway
+hsa:5894,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:5894,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:5894,N01352,BPA to RAS-ERK signaling pathway
+hsa:5894,N01353,E2 to RAS-ERK signaling pathway
+hsa:5894,N01354,BPA to RAS-ERK signaling pathway
+hsa:5894,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:5894,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:5894,N01408,Metals to RAS-ERK signaling pathway
+hsa:5894,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:5894,N01598,"Regulation of GF-RTK-RAS-ERK signaling, MRAS-SHOC2-PP1 holophosphatase"
+hsa:5894,N01874,NRG-ERBB2/ERBB3 pathway (RAS-ERK signaling)
+hsa:5894,N02023,DSG1 to Raf/MEK/ERK pathway
+hsa:4728,N00995,Electron transfer in Complex I
+hsa:4728,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4728,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4728,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4728,N01044,MPP+ to electron transfer in Complex I
+hsa:4728,N01045,Rotenone to electron transfer in Complex I
+hsa:4728,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4728,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:1910,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:1910,N01792,EDN-EDNR signaling pathway
+hsa:1131,N01000,mAChR-Ca2+ -apoptotic pathway
+hsa:1131,N01001,Mutation-caused aberrant Abeta to mAchR-Ca2+ -apoptotic pathway
+hsa:1131,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:1131,N01894,Acetylcholine-CHRM-GNAQ/11 signaling pathway
+hsa:5313,N00731,Glycolysis
+hsa:5313,N01606,Glycolysis
+hsa:2147,N01315,"Lectin pathway of coagulation cascade, prothrombin to thrombin"
+hsa:2147,N01512,"Common pathway of coagulation cascade, prothrombin activation"
+hsa:210,N00601,Heme biosynthesis
+hsa:3283,N00759,"Steroid hormone biosynthesis, cholesterol to pregnenolone/progesterone"
+hsa:3283,N01541,Testosterone biosynthesis
+hsa:3283,N01802,Dihydrotestosterone biosynthesis
+hsa:4318,N00128,TMPRSS2-ERG fusion to transcriptional activation
+hsa:4318,N00130,TMPRSS2-ETV5 fusion to transcriptional activation
+hsa:4318,N00545,HBV HBx to ERK signaling pathway
+hsa:4318,N01306,AngII-AT1R-NOX2 signaling pathway
+hsa:3284,N00759,"Steroid hormone biosynthesis, cholesterol to pregnenolone/progesterone"
+hsa:3284,N01541,Testosterone biosynthesis
+hsa:3284,N01802,Dihydrotestosterone biosynthesis
+hsa:185,N00301,Angiotensin-aldosterone signaling pathway
+hsa:185,N01306,AngII-AT1R-NOX2 signaling pathway
+hsa:185,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:185,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:185,N01743,Renin-angiotensin signaling pathway
+hsa:5731,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:3945,N00731,Glycolysis
+hsa:38,N00804,beta-Oxidation
+hsa:38,N01635,Mevalonate pathway
+hsa:5465,N00529,HCV core to RXRA/PPARA-mediated transcription
+hsa:190,N00306,SF-1-mediated transcription
+hsa:3251,N01421,"Purine salvage pathway, hypoxanthine/guanine to IMP/GMP"
+hsa:3251,N01422,HPRT1 deficiency in purine salvage pathway
+hsa:6257,N00126,PAX8-PPARG fusion to PPARG-mediated transcription
+hsa:6257,N00798,Thyroid hormone signaling pathway
+hsa:121278,N01551,Serotonin metabolism
+hsa:4705,N00995,Electron transfer in Complex I
+hsa:4705,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4705,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4705,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4705,N01044,MPP+ to electron transfer in Complex I
+hsa:4705,N01045,Rotenone to electron transfer in Complex I
+hsa:4705,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4705,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:1152,N01612,Creatine pathway
+hsa:3034,N01727,Histidine degradation
+hsa:3034,N01932,Histidine conversion to urocanic acid
+hsa:5315,N00370,Pyruvate generation
+hsa:5315,N00371,HPV E7 to pyruvate generation
+hsa:5315,N00731,Glycolysis
+hsa:5315,N01606,Glycolysis
+hsa:4725,N00995,Electron transfer in Complex I
+hsa:4725,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4725,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4725,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4725,N01044,MPP+ to electron transfer in Complex I
+hsa:4725,N01045,Rotenone to electron transfer in Complex I
+hsa:4725,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:1128,N01000,mAChR-Ca2+ -apoptotic pathway
+hsa:1128,N01001,Mutation-caused aberrant Abeta to mAchR-Ca2+ -apoptotic pathway
+hsa:1128,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:1128,N01657,GPCR-PI3K signaling pathway
+hsa:1128,N01894,Acetylcholine-CHRM-GNAQ/11 signaling pathway
+hsa:4726,N00995,Electron transfer in Complex I
+hsa:4726,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4726,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4726,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4726,N01044,MPP+ to electron transfer in Complex I
+hsa:4726,N01045,Rotenone to electron transfer in Complex I
+hsa:4726,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4726,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:57105,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:6584,N00812,Transport of carnitine
+hsa:64805,N01747,Find-me signal (nucleotide)
+hsa:64805,N01908,ADP/UDP-glucose-P2RY-GNAI/O signaling pathway
+hsa:5423,N00511,HTLV-1 Tax to E47-mediated transcription
+hsa:5423,N01433,Base excision and strand cleavage by monofunctional glycosylase
+hsa:5423,N01434,Base excision and strand cleavage by bifunctional glycosylase
+hsa:5423,N01435,Base excision and strand cleavage by NEIL glycosylase
+hsa:5423,N01436,Long patch BER
+hsa:5423,N01437,Short patch BER
+hsa:6571,N01040,Transport of dopamine to synaptic vesicle
+hsa:6571,N01041,Mutation-caused aberrant SNCA to transport of dopamine
+hsa:6571,N01912,Histamine metabolism and transport in neuron
+hsa:7166,N01551,Serotonin metabolism
+hsa:2099,N00286,Nuclear-initiated estrogen signaling pathway
+hsa:2099,N00287,ESR1-positive to nuclear-initiated estrogen signaling pathway
+hsa:2099,N01350,NNK/NNN to PI3K signaling pathway
+hsa:2099,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:2099,N01352,BPA to RAS-ERK signaling pathway
+hsa:2099,N01353,E2 to RAS-ERK signaling pathway
+hsa:2099,N01364,E2 to nuclear-initiated estrogen signaling pathway
+hsa:1645,N01401,Benzo[a]pyrenre to CYP-mediated metabolism
+hsa:1645,N01413,Metals to KEAP1-NRF2 signalig pathway
+hsa:3291,N00338,"Steroid hormone biosynthesis, progesterone to cortisol/cortisone"
+hsa:367,N00083,Androgen receptor signaling pathway
+hsa:367,N00084,Amplified AR to androgen receptor signaling pathway
+hsa:367,N00085,Mutation-activated AR to androgen receptor signaling pathway
+hsa:3973,N00885,LHCGR-GNAS-PKA signaling pathway
+hsa:3973,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:4729,N00995,Electron transfer in Complex I
+hsa:4729,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4729,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4729,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4729,N01044,MPP+ to electron transfer in Complex I
+hsa:4729,N01045,Rotenone to electron transfer in Complex I
+hsa:4729,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4729,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:1621,N01550,Adrenaline metabolism
+hsa:1621,N01919,Dopamine/Adrenaline metabolism in presynaptic neuron
+hsa:203068,N00976,Retrograde axonal transport
+hsa:203068,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:203068,N00978,Anterograde axonal transport
+hsa:203068,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:203068,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:203068,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:203068,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:203068,N01285,Microtubule-RHOA signaling pathway
+hsa:203068,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:203068,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:203068,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:203068,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:203068,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:203068,N01403,Zn to anterograde axonal transport
+hsa:203068,N01414,Iron to anterograde axonal transport
+hsa:203068,N01535,Kinetochore microtubule attachment
+hsa:203068,N01544,Microtubule nucleation
+hsa:203068,N01547,Kinetochore fiber organization
+hsa:203068,N01549,Branching microtubule nucleation
+hsa:203068,N01553,Promotion of microtubule growth
+hsa:203068,N01561,Microtubule depolymerization
+hsa:203068,N01562,Microtubule depolymerization at the minus ends
+hsa:203068,N01832,NTN1-MAP1B axon guidance signaling
+hsa:203068,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:203068,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:203068,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:203068,N01836,Microtubule plus end regulation network
+hsa:203068,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:203068,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:203068,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:203068,N01840,"Severing of microtubule, KIF2A"
+hsa:203068,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:203068,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:203068,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:203068,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:203068,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:203068,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:203068,N01857,SEMA3A-DCX axon guidance signaling
+hsa:203068,N01858,EFNB1-MAPT axon guidance signaling
+hsa:203068,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:203068,N01934,L1CAM interactions
+hsa:203068,N01939,Ganglioside-MAG signaling
+hsa:1816,N01897,Dopamine-DRD-GNAQ/S signaling pathway
+hsa:2322,N00004,Duplication or mutation-activated FLT3 to RAS-ERK signaling pathway
+hsa:2322,N00031,Duplication or mutation-activated FLT3 to RAS-PI3K signaling pathway
+hsa:2322,N00054,Duplication or mutation-activated FLT3 to Jak-STAT signaling pathway
+hsa:2322,N00119,MLL-AF4 fusion to transcriptional activation
+hsa:2322,N00217,FLT3LG-FLT3-RAS-ERK signaling pathway
+hsa:2322,N00218,FLT3LG-FLT3-RAS-PI3K signaling pathway
+hsa:2322,N00219,FLT3LG-FLT3-STAT5 signaling pathway
+hsa:2322,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2322,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:2322,N01656,GF-RTK-PI3K signaling pathway
+hsa:2322,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:51284,N00690,TLR7/9-IRF7 signaling pathway
+hsa:51284,N01543,TLR7/8/9-IRF5 signaling pathway
+hsa:10280,N01151,Mutation-inactivated SIGMAR1 to Ca2+ -apoptotic pathway
+hsa:26227,N01608,Serine biosynthesis
+hsa:4967,N01609,"Citrate cycle, second carbon oxidation 1"
+hsa:7422,N00079,HIF-1 signaling pathway
+hsa:7422,N00080,Loss of VHL to HIF-1 signaling pathway
+hsa:7422,N00081,Mutation-inactivated VHL to HIF-1 signaling pathway
+hsa:7422,N00095,ERBB2-overexpression to EGF-Jak-STAT signaling pathway
+hsa:7422,N00317,AhR signaling pathway
+hsa:7422,N01412,Metals to HTF-1 signaling pathway
+hsa:7422,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:7422,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:7422,N01656,GF-RTK-PI3K signaling pathway
+hsa:7422,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:7422,N01870,HIF-2A signaling pathway
+hsa:7422,N01873,VHL mutation to HIF-2 signaling pathway
+hsa:552,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:2729,N01589,Glutathione biosynthesis
+hsa:4697,N00995,Electron transfer in Complex I
+hsa:4697,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4697,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4697,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4697,N01044,MPP+ to electron transfer in Complex I
+hsa:4697,N01045,Rotenone to electron transfer in Complex I
+hsa:4697,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4697,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:153,N01904,Norepinephrine-ADRB-GNAS signaling pathway
+hsa:4718,N00995,Electron transfer in Complex I
+hsa:4718,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4718,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4718,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4718,N01044,MPP+ to electron transfer in Complex I
+hsa:4718,N01045,Rotenone to electron transfer in Complex I
+hsa:4718,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4718,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:6389,N00988,Electron transfer in Complex II
+hsa:6389,N00989,Mutation-caused aberrant Htt to electron transfer in Complex II
+hsa:6389,N01392,Arsenic to electron transfer in complex II
+hsa:6389,N01393,Arsenic to electron transfer in complex II
+hsa:6389,N01402,Manganese to electron transfer in Complex II
+hsa:6389,N01617,"Citrate cycle, second carbon oxidation 2"
+hsa:6389,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:1376,N00765,"beta-Oxidation, acyl-CoA synthesis"
+hsa:51478,N01624,Cholesterol biosynthesis
+hsa:4722,N00995,Electron transfer in Complex I
+hsa:4722,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4722,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4722,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4722,N01044,MPP+ to electron transfer in Complex I
+hsa:4722,N01045,Rotenone to electron transfer in Complex I
+hsa:4722,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4722,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:4537,N00995,Electron transfer in Complex I
+hsa:4537,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4537,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4537,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4537,N01044,MPP+ to electron transfer in Complex I
+hsa:4537,N01045,Rotenone to electron transfer in Complex I
+hsa:4537,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:3978,N01431,Core NER reaction
+hsa:3978,N01432,Mismatch repair
+hsa:3978,N01436,Long patch BER
+hsa:3978,N01449,Synthesis-dependent strand annealing
+hsa:3978,N01472,Okazaki fragment maturation
+hsa:2798,N00873,GnRH-GnRHR-PLCB-PKC signaling pathway
+hsa:5159,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:5159,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:5159,N00028,PDGF-PDGFR-PLCG-CAMK signaling pathway
+hsa:5159,N00039,PDGF-PDGFR-PI3K signaling pathway
+hsa:5159,N00368,HPV E5 to PDGFR-PI3K signaling pathway
+hsa:5159,N00369,HPV E5 to PDGFR-RAS-ERK signaling pathway
+hsa:5159,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:5159,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:5159,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:5159,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:5159,N01656,GF-RTK-PI3K signaling pathway
+hsa:5159,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:866,N00313,Transport of cortisol
+hsa:5340,N01460,Plasmin mediated activation of latent TGF-beta
+hsa:5340,N01518,Fibrinolytic system
+hsa:4700,N00995,Electron transfer in Complex I
+hsa:4700,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4700,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4700,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4700,N01044,MPP+ to electron transfer in Complex I
+hsa:4700,N01045,Rotenone to electron transfer in Complex I
+hsa:4700,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4700,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:5468,N00126,PAX8-PPARG fusion to PPARG-mediated transcription
+hsa:5468,N00138,EWSR1-NR4A3
+hsa:5468,N01688,ADRB3-UCP1 signaling pathway
+hsa:5468,N01751,Macrophage EPO signaling
+hsa:2159,N01510,"Common pathway of coagulation cascade, F10 activation"
+hsa:2550,N01888,GABA-GABBR-GNAI/O signaling pathway
+hsa:1636,N01743,Renin-angiotensin signaling pathway
+hsa:4694,N00995,Electron transfer in Complex I
+hsa:4694,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4694,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4694,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4694,N01044,MPP+ to electron transfer in Complex I
+hsa:4694,N01045,Rotenone to electron transfer in Complex I
+hsa:4694,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4694,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:5054,N01524,"Regulation of fibrinolytic system, PAI"
+hsa:4711,N00995,Electron transfer in Complex I
+hsa:4711,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4711,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4711,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4711,N01044,MPP+ to electron transfer in Complex I
+hsa:4711,N01045,Rotenone to electron transfer in Complex I
+hsa:4711,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:8659,N01622,Proline degradation
+hsa:4716,N00995,Electron transfer in Complex I
+hsa:4716,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4716,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4716,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4716,N01044,MPP+ to electron transfer in Complex I
+hsa:4716,N01045,Rotenone to electron transfer in Complex I
+hsa:4716,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4716,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:596,N00098,Intrinsic apoptotic pathway
+hsa:596,N00100,BCL2-overexpression to intrinsic apoptotic pathway
+hsa:596,N00286,Nuclear-initiated estrogen signaling pathway
+hsa:596,N00451,HIV Tat to intrinsic apoptotic pathway
+hsa:596,N00453,HIV Vpr to intrinsic apoptotic pathway
+hsa:596,N00475,EBV BHRF1 to intrinsic apoptotic pathway
+hsa:596,N00478,EBV BARF1 to intrinsic apoptotic pathway
+hsa:596,N01135,Mutation-caused aberrant SOD1 to intrinsic apoptotic pathway
+hsa:596,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:1133,N01000,mAChR-Ca2+ -apoptotic pathway
+hsa:1133,N01001,Mutation-caused aberrant Abeta to mAchR-Ca2+ -apoptotic pathway
+hsa:1133,N01894,Acetylcholine-CHRM-GNAQ/11 signaling pathway
+hsa:240,N01776,CaMK2-p38-MK2-ALOX5 pathway
+hsa:4860,N01418,"Purine salvage pathway, adenine to AMP"
+hsa:4860,N01421,"Purine salvage pathway, hypoxanthine/guanine to IMP/GMP"
+hsa:7299,N01552,Eumelanin biosynthesis
+hsa:18,N01892,GABA metabolism and transport in glia
+hsa:2683,N00820,N-Glycan biosynthesis
+hsa:2683,N01666,Blood group H (O) antigen type 2 biosynthesis
+hsa:2683,N01678,Ii blood group antigen biosynthesis
+hsa:22978,N01418,"Purine salvage pathway, adenine to AMP"
+hsa:22978,N01421,"Purine salvage pathway, hypoxanthine/guanine to IMP/GMP"
+hsa:5743,N00317,AhR signaling pathway
+hsa:5743,N01772,Induction of the PTGS2
+hsa:5743,N01773,PTGS2-PGE2-TGFB1 pathway
+hsa:90,N01453,BMP signaling pathway
+hsa:90,N01454,AMH signaling pathway
+hsa:90,N01458,BMP-HAMP signaling pathway
+hsa:90,N01461,"BMP-HAMP signaling pathway, auxiliary factor"
+hsa:4311,N01415,NEP-mediated Abeta degradation
+hsa:4311,N01416,Mercury to NEP-mediated Abeta degradation
+hsa:107,N00288,PTH-PTH1R-PKA signaling pathway
+hsa:107,N00297,ACTH-cortisol signaling pathway
+hsa:107,N00298,CYP11B1-CYP11B2 fusion to ACTH-cortisol signaling pathway
+hsa:107,N00321,Mutation-activated GNAS to ACTH-cortisol signaling pathway
+hsa:107,N00324,CRHR-PKA-ACTH signaling pathway
+hsa:107,N00325,Mutation-inactivated RASD1 to CRHR-PKA-ACTH signaling pathway
+hsa:107,N00326,Mutation-activated GNAS to CRHR-PKA-ACTH signaling pathway
+hsa:107,N00327,Mutation-inactivated PRKAR1A to CRHR-PKA-ACTH signaling pathway
+hsa:107,N00403,CX3CR1-GNAI-AC-PKA signaling pathway
+hsa:107,N00782,TSH-TG signaling pathway
+hsa:107,N00885,LHCGR-GNAS-PKA signaling pathway
+hsa:107,N00910,GHRHR-PKA-GH signaling pathway
+hsa:107,N00922,FSHR-GNAS-PKA signaling pathway
+hsa:107,N01345,EP/NE-ADRB-cAMP signaling pathway
+hsa:107,N01346,Nicotine/NNK to cAMP signaling pathway
+hsa:107,N01688,ADRB3-UCP1 signaling pathway
+hsa:107,N01766,CX3CR1-GNAI-AC signaling pathway
+hsa:107,N01878,Glutamate-GRM-GNAQ/S signaling pathway
+hsa:107,N01879,Glutamate-GRM-GNAI/O signaling pathway
+hsa:107,N01888,GABA-GABBR-GNAI/O signaling pathway
+hsa:107,N01901,Serotonin-HTR1/5-GNAI/O signaling pathway
+hsa:107,N01903,Norepinephrine-ADRA2-GNAI/O signaling pathway
+hsa:107,N01904,Norepinephrine-ADRB-GNAS signaling pathway
+hsa:107,N01905,AC-PKA-HCN signaling
+hsa:107,N01908,ADP/UDP-glucose-P2RY-GNAI/O signaling pathway
+hsa:107,N01913,"Melanocortin receptor signaling, MSH"
+hsa:107,N01914,"Melanocortin receptor signaling, AgRP"
+hsa:5972,N01743,Renin-angiotensin signaling pathway
+hsa:462,N01519,"Regulation of coagulation cascade, AT3"
+hsa:4709,N00995,Electron transfer in Complex I
+hsa:4709,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4709,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4709,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4709,N01044,MPP+ to electron transfer in Complex I
+hsa:4709,N01045,Rotenone to electron transfer in Complex I
+hsa:4709,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4709,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:383,N00593,Urea cycle
+hsa:383,N01779,Continual efferocytosis enhanced by the AC-derived arginine and ornithine
+hsa:150,N01903,Norepinephrine-ADRA2-GNAI/O signaling pathway
+hsa:3350,N01901,Serotonin-HTR1/5-GNAI/O signaling pathway
+hsa:554,N00915,AVP-V2R-PKA signaling pathway
+hsa:4710,N00995,Electron transfer in Complex I
+hsa:4710,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4710,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4710,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4710,N01044,MPP+ to electron transfer in Complex I
+hsa:4710,N01045,Rotenone to electron transfer in Complex I
+hsa:4710,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:782,N01637,"Ca2+ entry, Voltage-gated Ca2+ channel"
+hsa:782,N01638,Skeletal-type VGCC-RYR signaling
+hsa:782,N01639,Cardiac-type VGCC-RYR signaling
+hsa:4144,N01607,Methionine degradation
+hsa:4704,N00995,Electron transfer in Complex I
+hsa:4704,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4704,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4704,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4704,N01044,MPP+ to electron transfer in Complex I
+hsa:4704,N01045,Rotenone to electron transfer in Complex I
+hsa:4704,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4704,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:5009,N00593,Urea cycle
+hsa:374291,N00995,Electron transfer in Complex I
+hsa:374291,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:374291,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:374291,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:374291,N01044,MPP+ to electron transfer in Complex I
+hsa:374291,N01045,Rotenone to electron transfer in Complex I
+hsa:374291,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:374291,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:246,N01590,Arachidonate/Adrenic acid metabolism
+hsa:246,N01781,Activation of LXRs by oxysterols
+hsa:317,N00098,Intrinsic apoptotic pathway
+hsa:317,N00100,BCL2-overexpression to intrinsic apoptotic pathway
+hsa:317,N00146,Crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:317,N00449,HIV Tat/Nef to crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:317,N00478,EBV BARF1 to intrinsic apoptotic pathway
+hsa:317,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:317,N00984,mGluR5-Ca2+ -apoptotic pathway
+hsa:317,N00985,Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway
+hsa:317,N00987,Mutation-caused aberrant Htt to transport of calcium
+hsa:317,N01002,Mutation-caused aberrant Abeta to mGluR5-Ca2+ -apoptotic pathway
+hsa:317,N01005,Mutation-caused aberrant Abeta to crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:317,N01007,Mutation-caused aberrant PSEN to mGluR5-Ca2+ -apoptotic pathway
+hsa:317,N01031,Mutation-caused aberrant SNCA to VGCC-Ca2+ -apoptotic pathway
+hsa:317,N01047,Mutation-activated LRRK2 to intrinsic apoptotic pathway
+hsa:317,N01048,Mutation-inactivated PINK1 to intrinsic apoptotic pathway
+hsa:317,N01049,Mutation-inactivated PRKN to intrinsic apoptotic pathway
+hsa:317,N01050,Mutation-inactivated PINK1 to intrinsic apoptotic pathway
+hsa:317,N01135,Mutation-caused aberrant SOD1 to intrinsic apoptotic pathway
+hsa:317,N01199,Scrapie conformation PrPSc to mGluR5-Ca2+ -apoptotic pathway
+hsa:317,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:4717,N00995,Electron transfer in Complex I
+hsa:4717,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4717,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4717,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4717,N01044,MPP+ to electron transfer in Complex I
+hsa:4717,N01045,Rotenone to electron transfer in Complex I
+hsa:4717,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:7068,N00798,Thyroid hormone signaling pathway
+hsa:3028,N00856,Isoleucine degradation
+hsa:102724560,N01628,Cysteine biosynthesis
+hsa:875,N01628,Cysteine biosynthesis
+hsa:2249,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:2249,N00037,FGF-FGFR-PI3K signaling pathway
+hsa:2249,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2249,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2249,N01656,GF-RTK-PI3K signaling pathway
+hsa:2249,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:3290,N00309,Cortisone reduction
+hsa:3290,N01381,NNK to DNA adducts
+hsa:3290,N01382,NNK to DNA adducts
+hsa:1719,N01725,Tetrahydrofolate biosynthesis
+hsa:6470,N01629,"Remethylation, THF to 5-MTHF"
+hsa:6470,N01791,"Glycine metabolism, Ser to Gly"
+hsa:2155,N01503,"Extrinsic pathway of coagulation cascade, F7 activation"
+hsa:4512,N00998,Electron transfer in Complex IV
+hsa:4512,N00999,Mutation-caused aberrant Abeta to electron transfer in Complex IV
+hsa:4512,N01394,Arsenic to electron transfer in complex IV
+hsa:3293,N01541,Testosterone biosynthesis
+hsa:3293,N01802,Dihydrotestosterone biosynthesis
+hsa:4707,N00995,Electron transfer in Complex I
+hsa:4707,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4707,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4707,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4707,N01044,MPP+ to electron transfer in Complex I
+hsa:4707,N01045,Rotenone to electron transfer in Complex I
+hsa:4707,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:152,N01903,Norepinephrine-ADRA2-GNAI/O signaling pathway
+hsa:1586,N00306,SF-1-mediated transcription
+hsa:1586,N00338,"Steroid hormone biosynthesis, progesterone to cortisol/cortisone"
+hsa:1586,N01541,Testosterone biosynthesis
+hsa:1586,N01802,Dihydrotestosterone biosynthesis
+hsa:2897,N01882,"Transport of natrium, KA receptor"
+hsa:4541,N00995,Electron transfer in Complex I
+hsa:4541,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4541,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4541,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4541,N01044,MPP+ to electron transfer in Complex I
+hsa:4541,N01045,Rotenone to electron transfer in Complex I
+hsa:4541,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:773,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:773,N00968,Mutation-activated CACNA1A to VGCC-Ca2+ -apoptotic pathway
+hsa:773,N00969,Mutation-inactivated CACNA1A to VGCC-Ca2- -apoptotic pathway
+hsa:773,N01637,"Ca2+ entry, Voltage-gated Ca2+ channel"
+hsa:773,N01649,Ca2+/CAM-VGCC/RYR signaling pathway
+hsa:773,N01899,Gbeta/gamma-CACNA signaling
+hsa:238,N00007,EML4-ALK fusion kinase to RAS-ERK signaling pathway
+hsa:238,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:238,N00047,EML4-ALK fusion kinase to PI3K signaling pathway
+hsa:238,N00105,EML4-ALK fusion kinase to Jak-STAT signaling pathway
+hsa:2158,N01508,"Intrinsic pathway of coagulation cascade, F9 activation"
+hsa:2902,N00970,Transport of calcium
+hsa:2902,N00971,Mutation-caused aberrant PDYN to transport of calcium
+hsa:2902,N00987,Mutation-caused aberrant Htt to transport of calcium
+hsa:2902,N01003,Mutation-caused aberrant Abeta to transport of calcium
+hsa:2902,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:2902,N01642,"Ca2+ entry, Ligand-gated Ca2+ channel"
+hsa:2902,N01880,GRM1/5-interacting scaffold proteins
+hsa:4702,N00995,Electron transfer in Complex I
+hsa:4702,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4702,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4702,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4702,N01044,MPP+ to electron transfer in Complex I
+hsa:4702,N01045,Rotenone to electron transfer in Complex I
+hsa:4702,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4702,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:5732,N01773,PTGS2-PGE2-TGFB1 pathway
+hsa:3791,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:3791,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:3791,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:3791,N01656,GF-RTK-PI3K signaling pathway
+hsa:3791,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:3791,N01934,L1CAM interactions
+hsa:4712,N00995,Electron transfer in Complex I
+hsa:4712,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4712,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4712,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4712,N01044,MPP+ to electron transfer in Complex I
+hsa:4712,N01045,Rotenone to electron transfer in Complex I
+hsa:4712,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:2571,N01893,Glutamine metabolism and transport in neuron
+hsa:5624,N01515,"Regulation of coagulation cascade, protein C system"
+hsa:2555,N01887,"Transport of chloride, GABAA receptor"
+hsa:2555,N01891,GABAA receptor trafficking
+hsa:6869,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:6869,N01915,Tachykinin receptor signaling
+hsa:2492,N00922,FSHR-GNAS-PKA signaling pathway
+hsa:1815,N01898,Dopamine-DRD-GNAI/O signaling pathway
+hsa:8942,N01723,NAD biosynthesis
+hsa:3357,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:3357,N01900,Serotonin-HTR2-GNAQ/11 signaling pathway
+hsa:1991,N00118,TEL-AML1 fusion to transcriptional repression
+hsa:2906,N00970,Transport of calcium
+hsa:2906,N00971,Mutation-caused aberrant PDYN to transport of calcium
+hsa:2906,N00987,Mutation-caused aberrant Htt to transport of calcium
+hsa:2906,N01003,Mutation-caused aberrant Abeta to transport of calcium
+hsa:2906,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:2906,N01642,"Ca2+ entry, Ligand-gated Ca2+ channel"
+hsa:2906,N01880,GRM1/5-interacting scaffold proteins
+hsa:4701,N00995,Electron transfer in Complex I
+hsa:4701,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4701,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4701,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4701,N01044,MPP+ to electron transfer in Complex I
+hsa:4701,N01045,Rotenone to electron transfer in Complex I
+hsa:4701,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:886,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:4953,N01623,Spermine biosynthesis
+hsa:4953,N01779,Continual efferocytosis enhanced by the AC-derived arginine and ornithine
+hsa:1374,N00765,"beta-Oxidation, acyl-CoA synthesis"
+hsa:1374,N01777,Efferocytosis-induced NAD production
+hsa:3295,N00776,"beta-Oxidation, peroxisome, VLCFA"
+hsa:3295,N00779,"beta-Oxidation, peroxisome, bile acid"
+hsa:3295,N00805,Bile acid biosynthesis
+hsa:6256,N00126,PAX8-PPARG fusion to PPARG-mediated transcription
+hsa:6256,N00529,HCV core to RXRA/PPARA-mediated transcription
+hsa:6256,N00530,HCV core to RXRA/LXRA-mediated transcription
+hsa:6256,N00798,Thyroid hormone signaling pathway
+hsa:6256,N01751,Macrophage EPO signaling
+hsa:8001,N01907,"Transport of chloride, GLR"
+hsa:2904,N00970,Transport of calcium
+hsa:2904,N00971,Mutation-caused aberrant PDYN to transport of calcium
+hsa:2904,N00987,Mutation-caused aberrant Htt to transport of calcium
+hsa:2904,N01003,Mutation-caused aberrant Abeta to transport of calcium
+hsa:2904,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:2904,N01880,GRM1/5-interacting scaffold proteins
+hsa:4942,N01618,"Proline biosynthesis, Orn to Pro"
+hsa:3939,N00731,Glycolysis
+hsa:43,N01896,Acetylcholine metabolism and transport in neuron
+hsa:4708,N00995,Electron transfer in Complex I
+hsa:4708,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4708,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4708,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4708,N01044,MPP+ to electron transfer in Complex I
+hsa:4708,N01045,Rotenone to electron transfer in Complex I
+hsa:4708,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:207,N00030,EGF-EGFR-RAS-PI3K signaling pathway
+hsa:207,N00031,Duplication or mutation-activated FLT3 to RAS-PI3K signaling pathway
+hsa:207,N00032,Mutation-activated KRAS/NRAS to PI3K signaling pathway
+hsa:207,N00033,EGF-EGFR-PI3K signaling pathway
+hsa:207,N00034,ERBB2-overexpression to PI3K signaling pathway
+hsa:207,N00035,Amplified EGFR to PI3K signaling pathway
+hsa:207,N00036,Mutation-activated EGFR to PI3K signaling pathway
+hsa:207,N00037,FGF-FGFR-PI3K signaling pathway
+hsa:207,N00038,Amplified FGFR to PI3K signaling pathway
+hsa:207,N00039,PDGF-PDGFR-PI3K signaling pathway
+hsa:207,N00040,Amplified PDGFR to PI3K signaling pathway
+hsa:207,N00042,EGFR-overexpression to PI3K signaling pathway
+hsa:207,N00043,HGF-MET-PI3K signaling pathway
+hsa:207,N00044,Mutation-activated MET to PI3K signaling pathway
+hsa:207,N00045,KITLG-KIT-PI3K signaling pathway
+hsa:207,N00046,Mutation-activated KIT to PI3K signaling pathway
+hsa:207,N00047,EML4-ALK fusion kinase to PI3K signaling pathway
+hsa:207,N00048,BCR-ABL fusion kinase to PI3K signaling pathway
+hsa:207,N00049,Mutation-activated PI3K to PI3K signaling pathway
+hsa:207,N00050,Amplified PI3K to PI3K signaling pathway
+hsa:207,N00051,Deleted PTEN to PI3K signaling pathway
+hsa:207,N00052,Mutation-inactivated PTEN to PI3K signaling pathway
+hsa:207,N00082,Loss of NKX3-1 to PI3K signaling pathway
+hsa:207,N00154,CXCR-GNB/G-PI3K-AKT signaling pathway
+hsa:207,N00182,IGF-IGFR-PI3K-NFKB signaling pathway
+hsa:207,N00218,FLT3LG-FLT3-RAS-PI3K signaling pathway
+hsa:207,N00220,PTEN-PIP3-AKT signaling pathway
+hsa:207,N00231,TGFA-EGFR-PI3K signaling pathway
+hsa:207,N00232,TGFA-overexpression to PI3K signaling pathway
+hsa:207,N00234,IGF2-IGF1R-PI3K signaling pathway
+hsa:207,N00236,IGF2-overexpression to PI3K signaling pathway
+hsa:207,N00238,IGF1R-overexpression to PI3K signaling pathway
+hsa:207,N00247,HGF-overexpression to PI3K signaling pathway
+hsa:207,N00249,MET-overexpression to PI3K signaling pathway
+hsa:207,N00253,Amplified ERBB2 to PI3K signaling pathway
+hsa:207,N00260,Amplified MET to PI3K signaling pathway
+hsa:207,N00281,EGF-overexpression to PI3K signaling pathway
+hsa:207,N00282,EREG-EGFR-PI3K signaling pathway
+hsa:207,N00283,EREG-overexpression to PI3K signaling pathway
+hsa:207,N00284,AREG-EGFR-PI3K signaling pathway
+hsa:207,N00285,AREG-overexpression to PI3K signaling pathway
+hsa:207,N00342,MAGI-PTEN signaling pathway
+hsa:207,N00355,PP2A-AKT signaling pathway
+hsa:207,N00390,EGF-EGFR-PI3K-NFKB signaling pathway
+hsa:207,N00399,CCR2-GNB/G-PI3K-NFKB signaling pathway
+hsa:207,N00430,CXCR4-GNAI-PI3K-BAD signaling pathway
+hsa:207,N00514,Mutation-activated EGFR to PI3K signaling pathway
+hsa:207,N00582,IGF-IGF1R-PI3K signaling pathway
+hsa:207,N00683,CD80/CD86-CD28-PI3K signaling pathway
+hsa:207,N00963,RELN-VLDLR-PI3K signaling pathway
+hsa:207,N00964,DAB1-overexpression to RELN-VLDLR-PI3K signaling pathway
+hsa:207,N01063,Mutation-activated MET to PI3K signaling pathway
+hsa:207,N01065,Mutation-activated RET to PI3K signaling pathway
+hsa:207,N01163,NRG-ERBB4-PI3K signaling pathway
+hsa:207,N01338,ACH-CHRN-PI3K signaling pathway
+hsa:207,N01339,NNK/NNN to PI3K signaling pathway
+hsa:207,N01347,EP/NE-ADRB-PI3K signaling pathway
+hsa:207,N01348,Nicotine/NNK to PI3K signaling pathway
+hsa:207,N01349,ACH-CHRN-PI3K signaling pathway
+hsa:207,N01350,NNK/NNN to PI3K signaling pathway
+hsa:207,N01355,Arsenic to PI3K signaling pathway
+hsa:207,N01356,Membrane-initiated progesterone signaling pathway
+hsa:207,N01357,P4/MPA to membrane-initiated progesterone signaling pathway
+hsa:207,N01358,P4-PR-PI3K signaling pathway
+hsa:207,N01359,P4/MPA to PR-PI3K signaling pathway
+hsa:207,N01409,Metals to PI3K signaling pathway
+hsa:207,N01579,CD80/CD86-CTLA4-PP2A signaling pathway
+hsa:207,N01656,GF-RTK-PI3K signaling pathway
+hsa:207,N01657,GPCR-PI3K signaling pathway
+hsa:207,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:207,N01695,BCR-BCAP/CD19-PI3K signaling pathway
+hsa:207,N01696,ICOSLG/ICOS-PI3K signaling pathway
+hsa:207,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:207,N01858,EFNB1-MAPT axon guidance signaling
+hsa:207,N01875,NRG-ERBB2/ERBB3 pathway (P13K signaling)
+hsa:207,N01942,SLIT-ROBO signaling in neuron
+hsa:775,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:775,N01004,Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway
+hsa:775,N01201,Scrapie conformation PrPSc to VGCC-Ca2+ -apoptotic pathway
+hsa:775,N01637,"Ca2+ entry, Voltage-gated Ca2+ channel"
+hsa:775,N01639,Cardiac-type VGCC-RYR signaling
+hsa:775,N01649,Ca2+/CAM-VGCC/RYR signaling pathway
+hsa:2741,N01907,"Transport of chloride, GLR"
+hsa:369,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:369,N00002,BCR-ABL fusion kinase to RAS-ERK signaling pathway
+hsa:369,N00003,Mutation-activated KIT to RAS-ERK signaling pathway
+hsa:369,N00004,Duplication or mutation-activated FLT3 to RAS-ERK signaling pathway
+hsa:369,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:369,N00006,Amplified EGFR to RAS-ERK signaling pathway
+hsa:369,N00007,EML4-ALK fusion kinase to RAS-ERK signaling pathway
+hsa:369,N00008,RET fusion kinase to RAS-ERK signaling pathway
+hsa:369,N00009,TRK fusion kinase to RAS-ERK signaling pathway
+hsa:369,N00011,Mutation-activated FGFR3 to RAS-ERK signaling pathway
+hsa:369,N00012,Mutation-activated KRAS/NRAS to ERK signaling pathway
+hsa:369,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:369,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:369,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:369,N00018,Amplified PDGFR to RAS-ERK signaling pathway
+hsa:369,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:369,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:369,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:369,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:369,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:369,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:369,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:369,N00041,EGFR-overexpression to RAS-ERK signaling pathway
+hsa:369,N00077,HRAS-overexpression to ERK signaling pathway
+hsa:369,N00078,Mutation-activated HRAS to ERK signaling pathway
+hsa:369,N00215,KITLG-KIT-RAS-ERK signaling pathway
+hsa:369,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:369,N00217,FLT3LG-FLT3-RAS-ERK signaling pathway
+hsa:369,N00229,TGFA-EGFR-RAS-ERK signaling pathway
+hsa:369,N00230,TGFA-overexpression to RAS-ERK signaling pathway
+hsa:369,N00233,IGF-IGF1R-RAS-ERK signaling pathway
+hsa:369,N00235,IGF2-overexpression to RAS-ERK signaling pathway
+hsa:369,N00237,IGF1R-overexpression to RAS-ERK signaling pathway
+hsa:369,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:369,N00248,MET-overexpression to RAS-ERK signaling pathway
+hsa:369,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:369,N00259,Amplified MET to RAS-ERK signaling pathway
+hsa:369,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:369,N00277,EREG-EGFR-RAS-ERK signaling pathway
+hsa:369,N00278,EREG-overexpression to RAS-ERK signaling pathway
+hsa:369,N00279,AREG-EGFR-RAS-ERK signaling pathway
+hsa:369,N00280,AREG-overexpression to RAS-ERK signaling pathway
+hsa:369,N00367,HPV E5 to EGFR-RAS-ERK signaling pathway
+hsa:369,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:369,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:369,N00518,HCV Core to ERK signaling pathway
+hsa:369,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:369,N00540,HBV HBx to RAS-ERK signaling pathway
+hsa:369,N00546,CXCL12-CXCR4-PKC-ERK signaling pathaway
+hsa:369,N00744,IAV HA to ERK signaling pathway
+hsa:369,N00994,AGE-RAGE signaling pathway
+hsa:369,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:369,N01062,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:369,N01064,Mutation-activated RET to RAS-ERK signaling pathway
+hsa:369,N01119,RAC/CDC42-PAK-ERK signaling pathway
+hsa:369,N01343,ACH-CHRN-RAS-ERK signaling pathway
+hsa:369,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:369,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:369,N01352,BPA to RAS-ERK signaling pathway
+hsa:369,N01353,E2 to RAS-ERK signaling pathway
+hsa:369,N01354,BPA to RAS-ERK signaling pathway
+hsa:369,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:369,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:369,N01408,Metals to RAS-ERK signaling pathway
+hsa:369,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:369,N01598,"Regulation of GF-RTK-RAS-ERK signaling, MRAS-SHOC2-PP1 holophosphatase"
+hsa:369,N01874,NRG-ERBB2/ERBB3 pathway (RAS-ERK signaling)
+hsa:369,N02023,DSG1 to Raf/MEK/ERK pathway
+hsa:27,N01411,Metals to NFKB signaling pathway
+hsa:1109,N00805,Bile acid biosynthesis
+hsa:1109,N01401,Benzo[a]pyrenre to CYP-mediated metabolism
+hsa:1109,N01413,Metals to KEAP1-NRF2 signalig pathway
+hsa:1109,N01802,Dihydrotestosterone biosynthesis
+hsa:3674,N00393,ITGA/B-RhoGAP-RhoA signaling pathway
+hsa:3674,N00951,ITGA/B-RHOG-RAC signaling pathway
+hsa:3674,N01068,ITGA/B-FAK-RAC signaling pathway
+hsa:3674,N01070,ITGA/B-FAK-CDC42 signaling pathway
+hsa:3674,N01072,ITGA/B-RhoGEF-RhoA signaling pathway
+hsa:3674,N01080,ITGA/B-TALIN/VINCULIN signaling pathway
+hsa:3674,N01979,Integrin alphaIIbbeta3 signaling
+hsa:10558,N01926,Sphinganine synthesis
+hsa:3269,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:1594,N01626,Cholecalciferol biosynthesis
+hsa:834,N00742,NLRP3 inflammasome signaling pathway
+hsa:834,N00863,Yersinia YopM to NLRP3 Inflammasome signaling pathway
+hsa:834,N00867,NLRC4 inflammasome signaling pathway
+hsa:834,N00868,Pyrin inflammasome signaling pathway
+hsa:834,N00934,Non-canonical inflammasome signaling pathway
+hsa:834,N00948,Shigella IpaH7.8 to NLRP3 Inflammasome signaling pathway
+hsa:834,N00949,Shigella IpaB to NLRC4 Inflammasome signaling pathway
+hsa:834,N01126,Salmonella SipB to Inflammasome signaling pathway
+hsa:834,N01127,Salmonella SopE to Inflammasome signaling pathway
+hsa:834,N01567,NLRP1 inflammasome signaling pathway
+hsa:834,N01569,NALP12 inflammasome signaling pathway
+hsa:834,N01750,Find-me signal (S1P)
+hsa:3356,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:3356,N01900,Serotonin-HTR2-GNAQ/11 signaling pathway
+hsa:3815,N00003,Mutation-activated KIT to RAS-ERK signaling pathway
+hsa:3815,N00045,KITLG-KIT-PI3K signaling pathway
+hsa:3815,N00046,Mutation-activated KIT to PI3K signaling pathway
+hsa:3815,N00215,KITLG-KIT-RAS-ERK signaling pathway
+hsa:3815,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:3815,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:3815,N01656,GF-RTK-PI3K signaling pathway
+hsa:3815,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:2905,N00970,Transport of calcium
+hsa:2905,N00971,Mutation-caused aberrant PDYN to transport of calcium
+hsa:2905,N00987,Mutation-caused aberrant Htt to transport of calcium
+hsa:2905,N01003,Mutation-caused aberrant Abeta to transport of calcium
+hsa:2905,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:2905,N01642,"Ca2+ entry, Ligand-gated Ca2+ channel"
+hsa:2905,N01880,GRM1/5-interacting scaffold proteins
+hsa:3242,N00708,Tyrosine degradation
+hsa:94,N01426,BMP9/10 signaling pathway
+hsa:94,N01462,"BMP9/10 signaling pathway, BMP9/10 coreceptor"
+hsa:3355,N01901,Serotonin-HTR1/5-GNAI/O signaling pathway
+hsa:2558,N01887,"Transport of chloride, GABAA receptor"
+hsa:2558,N01891,GABAA receptor trafficking
+hsa:4698,N00995,Electron transfer in Complex I
+hsa:4698,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4698,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4698,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4698,N01044,MPP+ to electron transfer in Complex I
+hsa:4698,N01045,Rotenone to electron transfer in Complex I
+hsa:4698,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:3354,N01901,Serotonin-HTR1/5-GNAI/O signaling pathway
+hsa:7357,N00679,Glucosylceramide synthesis in GBA deficiency
+hsa:7357,N01927,Acylglucosylceramide synthesis
+hsa:2557,N01887,"Transport of chloride, GABAA receptor"
+hsa:2557,N01891,GABAA receptor trafficking
+hsa:8913,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:8913,N01637,"Ca2+ entry, Voltage-gated Ca2+ channel"
+hsa:4723,N00995,Electron transfer in Complex I
+hsa:4723,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4723,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4723,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4723,N01044,MPP+ to electron transfer in Complex I
+hsa:4723,N01045,Rotenone to electron transfer in Complex I
+hsa:4723,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4723,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:6530,N01920,Transport of norepinephrine into neuron
+hsa:4719,N00995,Electron transfer in Complex I
+hsa:4719,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4719,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4719,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4719,N01044,MPP+ to electron transfer in Complex I
+hsa:4719,N01045,Rotenone to electron transfer in Complex I
+hsa:4719,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4719,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:4724,N00995,Electron transfer in Complex I
+hsa:4724,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4724,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4724,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4724,N01044,MPP+ to electron transfer in Complex I
+hsa:4724,N01045,Rotenone to electron transfer in Complex I
+hsa:4724,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4724,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:148,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:4535,N00995,Electron transfer in Complex I
+hsa:4535,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4535,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4535,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4535,N01044,MPP+ to electron transfer in Complex I
+hsa:4535,N01045,Rotenone to electron transfer in Complex I
+hsa:4535,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:7173,N00789,Mutation-inactivated TPO to iodide organification/coupling reactions
+hsa:7173,N00803,Iodide organification/coupling reactions
+hsa:846,N00291,CaSR-PTH signaling pathway
+hsa:7018,N01587,Fe-TF transport
+hsa:2064,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:2064,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:2064,N00034,ERBB2-overexpression to PI3K signaling pathway
+hsa:2064,N00087,NOTCH-overexpression to Notch signaling pathway
+hsa:2064,N00095,ERBB2-overexpression to EGF-Jak-STAT signaling pathway
+hsa:2064,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:2064,N00253,Amplified ERBB2 to PI3K signaling pathway
+hsa:2064,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2064,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:2064,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2064,N01656,GF-RTK-PI3K signaling pathway
+hsa:2064,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:2064,N01874,NRG-ERBB2/ERBB3 pathway (RAS-ERK signaling)
+hsa:2064,N01875,NRG-ERBB2/ERBB3 pathway (P13K signaling)
+hsa:4713,N00995,Electron transfer in Complex I
+hsa:4713,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4713,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4713,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4713,N01044,MPP+ to electron transfer in Complex I
+hsa:4713,N01045,Rotenone to electron transfer in Complex I
+hsa:4713,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4713,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:3683,N01956,JAM1 interactions
+hsa:3683,N01962,ICAM1 interactions
+hsa:3683,N01965,ICAM2 interactions
+hsa:3683,N01966,ICAM3 interactions
+hsa:3683,N01975,Integrin alphaLbeta2 signaling
+hsa:586,N00832,Branched-chain amino acids degradation 1
+hsa:1103,N01896,Acetylcholine metabolism and transport in neuron
+hsa:1909,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:1909,N01792,EDN-EDNR signaling pathway
+hsa:2556,N01887,"Transport of chloride, GABAA receptor"
+hsa:2556,N01891,GABAA receptor trafficking
+hsa:51079,N00995,Electron transfer in Complex I
+hsa:51079,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:51079,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:51079,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:51079,N01044,MPP+ to electron transfer in Complex I
+hsa:51079,N01045,Rotenone to electron transfer in Complex I
+hsa:51079,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:51079,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:3358,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:3358,N01900,Serotonin-HTR2-GNAQ/11 signaling pathway
+hsa:116444,N00970,Transport of calcium
+hsa:116444,N01880,GRM1/5-interacting scaffold proteins
+hsa:6715,N01541,Testosterone biosynthesis
+hsa:6715,N01802,Dihydrotestosterone biosynthesis
+hsa:5860,N00705,"Tetrahydrobiopterin biosynthesis, BH4OH to BH4"
+hsa:126328,N00995,Electron transfer in Complex I
+hsa:126328,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:126328,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:126328,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:126328,N01044,MPP+ to electron transfer in Complex I
+hsa:126328,N01045,Rotenone to electron transfer in Complex I
+hsa:126328,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:126328,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:2597,N00731,Glycolysis
+hsa:2597,N00928,Escherichia NleB to TNF-NFKB signaling pathway
+hsa:4706,N00995,Electron transfer in Complex I
+hsa:4706,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4706,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4706,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4706,N01044,MPP+ to electron transfer in Complex I
+hsa:4706,N01045,Rotenone to electron transfer in Complex I
+hsa:4706,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:5422,N01471,Origin unwinding and elongation
+hsa:4695,N00995,Electron transfer in Complex I
+hsa:4695,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4695,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4695,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4695,N01044,MPP+ to electron transfer in Complex I
+hsa:4695,N01045,Rotenone to electron transfer in Complex I
+hsa:4695,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4695,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:4538,N00995,Electron transfer in Complex I
+hsa:4538,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4538,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4538,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4538,N01044,MPP+ to electron transfer in Complex I
+hsa:4538,N01045,Rotenone to electron transfer in Complex I
+hsa:4538,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:3248,N00120,MLL-ENL fusion to transcriptional activation
+hsa:4881,N01783,NPPA-NPR1 signaling
+hsa:5241,N00286,Nuclear-initiated estrogen signaling pathway
+hsa:5241,N01358,P4-PR-PI3K signaling pathway
+hsa:5241,N01359,P4/MPA to PR-PI3K signaling pathway
+hsa:5241,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:5241,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:5241,N01362,Nuclear-initiated progesterone signaling pathway
+hsa:5241,N01363,P4/MPA to nuclear-initiated progesterone signaling pathway
+hsa:1129,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:1129,N01657,GPCR-PI3K signaling pathway
+hsa:151,N01903,Norepinephrine-ADRA2-GNAI/O signaling pathway
+hsa:3156,N01635,Mevalonate pathway
+hsa:147,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:6713,N01624,Cholesterol biosynthesis
+hsa:788,N00814,Transport of L-palmitoylcarnitine
+hsa:4540,N00995,Electron transfer in Complex I
+hsa:4540,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4540,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4540,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4540,N01044,MPP+ to electron transfer in Complex I
+hsa:4540,N01045,Rotenone to electron transfer in Complex I
+hsa:4540,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:1814,N01898,Dopamine-DRD-GNAI/O signaling pathway
+hsa:6716,N01541,Testosterone biosynthesis
+hsa:4190,N01605,Gluconeogenesis
+hsa:4190,N01617,"Citrate cycle, second carbon oxidation 2"
+hsa:8644,N01401,Benzo[a]pyrenre to CYP-mediated metabolism
+hsa:8644,N01413,Metals to KEAP1-NRF2 signalig pathway
+hsa:8644,N01541,Testosterone biosynthesis
+hsa:8644,N01802,Dihydrotestosterone biosynthesis
+hsa:4715,N00995,Electron transfer in Complex I
+hsa:4715,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4715,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4715,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4715,N01044,MPP+ to electron transfer in Complex I
+hsa:4715,N01045,Rotenone to electron transfer in Complex I
+hsa:4715,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4715,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:2572,N01893,Glutamine metabolism and transport in neuron
+hsa:5737,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:7054,N01037,Mutation-caused aberrant SNCA to L-DOPA generation
+hsa:7054,N01530,Dopamine metabolism
+hsa:4522,N01726,Folate cycle
+hsa:1646,N01381,NNK to DNA adducts
+hsa:1646,N01382,NNK to DNA adducts
+hsa:1646,N01401,Benzo[a]pyrenre to CYP-mediated metabolism
+hsa:1646,N01413,Metals to KEAP1-NRF2 signalig pathway
+hsa:1646,N01802,Dihydrotestosterone biosynthesis
+hsa:2692,N00910,GHRHR-PKA-GH signaling pathway
+hsa:673,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:673,N00002,BCR-ABL fusion kinase to RAS-ERK signaling pathway
+hsa:673,N00003,Mutation-activated KIT to RAS-ERK signaling pathway
+hsa:673,N00004,Duplication or mutation-activated FLT3 to RAS-ERK signaling pathway
+hsa:673,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:673,N00006,Amplified EGFR to RAS-ERK signaling pathway
+hsa:673,N00007,EML4-ALK fusion kinase to RAS-ERK signaling pathway
+hsa:673,N00008,RET fusion kinase to RAS-ERK signaling pathway
+hsa:673,N00009,TRK fusion kinase to RAS-ERK signaling pathway
+hsa:673,N00011,Mutation-activated FGFR3 to RAS-ERK signaling pathway
+hsa:673,N00012,Mutation-activated KRAS/NRAS to ERK signaling pathway
+hsa:673,N00013,Mutation-activated BRAF to ERK signaling pathway
+hsa:673,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:673,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:673,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:673,N00018,Amplified PDGFR to RAS-ERK signaling pathway
+hsa:673,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:673,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:673,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:673,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:673,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:673,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:673,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:673,N00041,EGFR-overexpression to RAS-ERK signaling pathway
+hsa:673,N00077,HRAS-overexpression to ERK signaling pathway
+hsa:673,N00078,Mutation-activated HRAS to ERK signaling pathway
+hsa:673,N00215,KITLG-KIT-RAS-ERK signaling pathway
+hsa:673,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:673,N00217,FLT3LG-FLT3-RAS-ERK signaling pathway
+hsa:673,N00229,TGFA-EGFR-RAS-ERK signaling pathway
+hsa:673,N00230,TGFA-overexpression to RAS-ERK signaling pathway
+hsa:673,N00233,IGF-IGF1R-RAS-ERK signaling pathway
+hsa:673,N00235,IGF2-overexpression to RAS-ERK signaling pathway
+hsa:673,N00237,IGF1R-overexpression to RAS-ERK signaling pathway
+hsa:673,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:673,N00248,MET-overexpression to RAS-ERK signaling pathway
+hsa:673,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:673,N00259,Amplified MET to RAS-ERK signaling pathway
+hsa:673,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:673,N00277,EREG-EGFR-RAS-ERK signaling pathway
+hsa:673,N00278,EREG-overexpression to RAS-ERK signaling pathway
+hsa:673,N00279,AREG-EGFR-RAS-ERK signaling pathway
+hsa:673,N00280,AREG-overexpression to RAS-ERK signaling pathway
+hsa:673,N00367,HPV E5 to EGFR-RAS-ERK signaling pathway
+hsa:673,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:673,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:673,N00518,HCV Core to ERK signaling pathway
+hsa:673,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:673,N00540,HBV HBx to RAS-ERK signaling pathway
+hsa:673,N00546,CXCL12-CXCR4-PKC-ERK signaling pathaway
+hsa:673,N00744,IAV HA to ERK signaling pathway
+hsa:673,N00994,AGE-RAGE signaling pathway
+hsa:673,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:673,N01062,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:673,N01064,Mutation-activated RET to RAS-ERK signaling pathway
+hsa:673,N01119,RAC/CDC42-PAK-ERK signaling pathway
+hsa:673,N01343,ACH-CHRN-RAS-ERK signaling pathway
+hsa:673,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:673,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:673,N01352,BPA to RAS-ERK signaling pathway
+hsa:673,N01353,E2 to RAS-ERK signaling pathway
+hsa:673,N01354,BPA to RAS-ERK signaling pathway
+hsa:673,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:673,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:673,N01408,Metals to RAS-ERK signaling pathway
+hsa:673,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:673,N01598,"Regulation of GF-RTK-RAS-ERK signaling, MRAS-SHOC2-PP1 holophosphatase"
+hsa:673,N01874,NRG-ERBB2/ERBB3 pathway (RAS-ERK signaling)
+hsa:673,N02023,DSG1 to Raf/MEK/ERK pathway
+hsa:2890,N01850,MYO5B-mediated vesicle transport
+hsa:2890,N01883,"Transport of natrium, AMPAR"
+hsa:116443,N00970,Transport of calcium
+hsa:116443,N01880,GRM1/5-interacting scaffold proteins
+hsa:4313,N01306,AngII-AT1R-NOX2 signaling pathway
+hsa:6531,N01790,Transport of dopamine into the neuron
+hsa:2936,N00904,Glutathione reduction
+hsa:2057,N00053,Cytokine-Jak-STAT signaling pathway
+hsa:2057,N01555,Hormone-like-cytokine to Jak-STAT signaling pathway
+hsa:2057,N01751,Macrophage EPO signaling
+hsa:4536,N00995,Electron transfer in Complex I
+hsa:4536,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4536,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4536,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4536,N01044,MPP+ to electron transfer in Complex I
+hsa:4536,N01045,Rotenone to electron transfer in Complex I
+hsa:4536,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:5321,N01900,Serotonin-HTR2-GNAQ/11 signaling pathway
+hsa:3352,N01901,Serotonin-HTR1/5-GNAI/O signaling pathway
+hsa:9517,N01926,Sphinganine synthesis
+hsa:91,N01456,Activin signaling pathway
+hsa:91,N01457,Myostatin signaling pathway
+hsa:91,N01459,Nodal signaling pathway
+hsa:6566,N01784,Glucose uptake and lactate release induced by efferocytosis
+hsa:4714,N00995,Electron transfer in Complex I
+hsa:4714,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4714,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4714,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4714,N01044,MPP+ to electron transfer in Complex I
+hsa:4714,N01045,Rotenone to electron transfer in Complex I
+hsa:4714,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4714,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:5562,N01576,STRAD/STK11- TSC signaling pathway
+hsa:786,N01637,"Ca2+ entry, Voltage-gated Ca2+ channel"
+hsa:786,N01638,Skeletal-type VGCC-RYR signaling
+hsa:786,N01639,Cardiac-type VGCC-RYR signaling
+hsa:4696,N00995,Electron transfer in Complex I
+hsa:4696,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4696,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4696,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4696,N01044,MPP+ to electron transfer in Complex I
+hsa:4696,N01045,Rotenone to electron transfer in Complex I
+hsa:4696,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:7067,N00798,Thyroid hormone signaling pathway
+hsa:2246,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:2246,N00037,FGF-FGFR-PI3K signaling pathway
+hsa:2246,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2246,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2246,N01656,GF-RTK-PI3K signaling pathway
+hsa:2246,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:781,N01637,"Ca2+ entry, Voltage-gated Ca2+ channel"
+hsa:781,N01638,Skeletal-type VGCC-RYR signaling
+hsa:781,N01639,Cardiac-type VGCC-RYR signaling
+hsa:6898,N00708,Tyrosine degradation
+hsa:3620,N01723,NAD biosynthesis
+hsa:154,N01345,EP/NE-ADRB-cAMP signaling pathway
+hsa:154,N01346,Nicotine/NNK to cAMP signaling pathway
+hsa:154,N01347,EP/NE-ADRB-PI3K signaling pathway
+hsa:154,N01348,Nicotine/NNK to PI3K signaling pathway
+hsa:154,N01904,Norepinephrine-ADRB-GNAS signaling pathway
+hsa:7124,N00145,Extrinsic apoptotic pathway
+hsa:7124,N00151,TNF-NFKB signaling pathway
+hsa:7124,N00374,TNF-IRF1 signaling pathway
+hsa:7124,N00435,TLR1/2/4-NFKB signaling pathway
+hsa:7124,N00436,HIV Tat to TLR2/4-NFKB signaling pathway
+hsa:7124,N00444,TNF-p38 signaling pathway
+hsa:7124,N00446,TNF-JNK signaling pathway
+hsa:7124,N00994,AGE-RAGE signaling pathway
+hsa:7124,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:7124,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:7124,N01566,TLR5-NFKB signaling pathway
+hsa:7124,N01621,TNF-RIPK1/3 signaling pathway
+hsa:10800,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:6258,N00126,PAX8-PPARG fusion to PPARG-mediated transcription
+hsa:6258,N00798,Thyroid hormone signaling pathway
+hsa:292,N00957,Mutation-caused abberant ATXN2/3 to mGluR5-Ca2+ -apoptotic pathway
+hsa:292,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:292,N00984,mGluR5-Ca2+ -apoptotic pathway
+hsa:292,N00985,Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway
+hsa:292,N00987,Mutation-caused aberrant Htt to transport of calcium
+hsa:292,N01000,mAChR-Ca2+ -apoptotic pathway
+hsa:292,N01001,Mutation-caused aberrant Abeta to mAchR-Ca2+ -apoptotic pathway
+hsa:292,N01002,Mutation-caused aberrant Abeta to mGluR5-Ca2+ -apoptotic pathway
+hsa:292,N01003,Mutation-caused aberrant Abeta to transport of calcium
+hsa:292,N01004,Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway
+hsa:292,N01006,Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway
+hsa:292,N01007,Mutation-caused aberrant PSEN to mGluR5-Ca2+ -apoptotic pathway
+hsa:292,N01008,Mutation-caused aberrant PSEN1 to mGluR5-Ca2+ -apoptotic pathway
+hsa:292,N01031,Mutation-caused aberrant SNCA to VGCC-Ca2+ -apoptotic pathway
+hsa:292,N01151,Mutation-inactivated SIGMAR1 to Ca2+ -apoptotic pathway
+hsa:292,N01199,Scrapie conformation PrPSc to mGluR5-Ca2+ -apoptotic pathway
+hsa:292,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:2209,N00112,AML1-ETO fusion to PU.1-mediated transcription
+hsa:2209,N01091,Escherichia EspJ to IGG-FCGR-RAC signaling pathway
+hsa:1158,N01612,Creatine pathway
+hsa:146,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:218,N01918,Dopamine metabolism in astrocyte
+hsa:587,N00832,Branched-chain amino acids degradation 1
+hsa:51166,N01685,Lysine degradation 1
+hsa:4720,N00995,Electron transfer in Complex I
+hsa:4720,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:4720,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:4720,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:4720,N01044,MPP+ to electron transfer in Complex I
+hsa:4720,N01045,Rotenone to electron transfer in Complex I
+hsa:4720,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:4720,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:1584,N00297,ACTH-cortisol signaling pathway
+hsa:1584,N00306,SF-1-mediated transcription
+hsa:1584,N00320,Mutation-activated PRKACA to ACTH-cortisol signaling pathway
+hsa:1584,N00321,Mutation-activated GNAS to ACTH-cortisol signaling pathway
+hsa:1584,N00322,Mutation-inactivated PRKAR1A to ACTH-cortisol signaling pathway
+hsa:1584,N00323,Mutation-inactivated PDE11A/PDE8B to ACTH-cortisol signaling pathway
+hsa:1584,N00338,"Steroid hormone biosynthesis, progesterone to cortisol/cortisone"
+hsa:1584,N00339,"Steroid hormone biosynthesis, progesterone to aldosterone"
+hsa:476,N00304,Mutation-inactivated ATP1A1 to angiotensin-aldosterone signaling pathway
+hsa:4548,N01630,"Remethylation, Hcy to Met"
+hsa:4548,N01726,Folate cycle
+hsa:4548,N01812,Cobalamin loading and activation of MTR
+hsa:3162,N00243,KEAP1-NRF2 signaling pathway
+hsa:3162,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:3162,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:3162,N01413,Metals to KEAP1-NRF2 signalig pathway
+hsa:6261,N01199,Scrapie conformation PrPSc to mGluR5-Ca2+ -apoptotic pathway
+hsa:6261,N01638,Skeletal-type VGCC-RYR signaling
+hsa:6261,N01649,Ca2+/CAM-VGCC/RYR signaling pathway
+hsa:7153,N01497,Condensin loading
+hsa:2263,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:2263,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:2263,N00037,FGF-FGFR-PI3K signaling pathway
+hsa:2263,N00038,Amplified FGFR to PI3K signaling pathway
+hsa:2263,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2263,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:2263,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2263,N01656,GF-RTK-PI3K signaling pathway
+hsa:2263,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:2263,N01934,L1CAM interactions
+hsa:6532,N01902,"Transport of serotonin, SLC6A4"
+hsa:5053,N00700,Tyrosine biosynthesis
+hsa:55967,N00995,Electron transfer in Complex I
+hsa:55967,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:55967,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:55967,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I
+hsa:55967,N01044,MPP+ to electron transfer in Complex I
+hsa:55967,N01045,Rotenone to electron transfer in Complex I
+hsa:55967,N01136,Mutation-caused aberrant TDP43 to electron transfer in Complex I
+hsa:55967,N01691,mitochondrial complex - UCP1 in Thermogenesis
+hsa:1813,N01898,Dopamine-DRD-GNAI/O signaling pathway
+hsa:384,N00593,Urea cycle
+hsa:6915,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:2903,N00970,Transport of calcium
+hsa:2903,N00971,Mutation-caused aberrant PDYN to transport of calcium
+hsa:2903,N00987,Mutation-caused aberrant Htt to transport of calcium
+hsa:2903,N01003,Mutation-caused aberrant Abeta to transport of calcium
+hsa:2903,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:2903,N01642,"Ca2+ entry, Ligand-gated Ca2+ channel"
+hsa:2903,N01880,GRM1/5-interacting scaffold proteins
+hsa:2559,N01887,"Transport of chloride, GABAA receptor"
+hsa:2559,N01891,GABAA receptor trafficking
+hsa:1956,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:1956,N00006,Amplified EGFR to RAS-ERK signaling pathway
+hsa:1956,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:1956,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:1956,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:1956,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:1956,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:1956,N00026,EGF-EGFR-PLCG-CAMK signaling pathway
+hsa:1956,N00027,Amplified EGFR to PLCG-CAMK signaling pathway
+hsa:1956,N00030,EGF-EGFR-RAS-PI3K signaling pathway
+hsa:1956,N00033,EGF-EGFR-PI3K signaling pathway
+hsa:1956,N00034,ERBB2-overexpression to PI3K signaling pathway
+hsa:1956,N00035,Amplified EGFR to PI3K signaling pathway
+hsa:1956,N00036,Mutation-activated EGFR to PI3K signaling pathway
+hsa:1956,N00041,EGFR-overexpression to RAS-ERK signaling pathway
+hsa:1956,N00042,EGFR-overexpression to PI3K signaling pathway
+hsa:1956,N00094,EGF-Jak-STAT signaling pathway
+hsa:1956,N00095,ERBB2-overexpression to EGF-Jak-STAT signaling pathway
+hsa:1956,N00096,EGF-EGFR-RAS-RASSF1 signaling pathway
+hsa:1956,N00103,EGF-EGFR-RAS-RalGDS signaling pathway
+hsa:1956,N00147,EGF-EGFR-PLCG-calcineurin signaling pathway
+hsa:1956,N00227,TGFA-EGFR-PLCG-PKC signaling pathway
+hsa:1956,N00228,TGFA-overexpression to PLCG-PKC signaling pathway
+hsa:1956,N00229,TGFA-EGFR-RAS-ERK signaling pathway
+hsa:1956,N00230,TGFA-overexpression to RAS-ERK signaling pathway
+hsa:1956,N00231,TGFA-EGFR-PI3K signaling pathway
+hsa:1956,N00232,TGFA-overexpression to PI3K signaling pathway
+hsa:1956,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:1956,N00253,Amplified ERBB2 to PI3K signaling pathway
+hsa:1956,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:1956,N00277,EREG-EGFR-RAS-ERK signaling pathway
+hsa:1956,N00278,EREG-overexpression to RAS-ERK signaling pathway
+hsa:1956,N00279,AREG-EGFR-RAS-ERK signaling pathway
+hsa:1956,N00280,AREG-overexpression to RAS-ERK signaling pathway
+hsa:1956,N00281,EGF-overexpression to PI3K signaling pathway
+hsa:1956,N00282,EREG-EGFR-PI3K signaling pathway
+hsa:1956,N00283,EREG-overexpression to PI3K signaling pathway
+hsa:1956,N00284,AREG-EGFR-PI3K signaling pathway
+hsa:1956,N00285,AREG-overexpression to PI3K signaling pathway
+hsa:1956,N00318,EGFR-ERK-ACTH signaling pathway
+hsa:1956,N00319,Mutation-activated USP8 to EGFR-ERK-ACTH signaling pathway
+hsa:1956,N00366,HPV E5 to EGFR-PI3K signaling pathway
+hsa:1956,N00367,HPV E5 to EGFR-RAS-ERK signaling pathway
+hsa:1956,N00390,EGF-EGFR-PI3K-NFKB signaling pathway
+hsa:1956,N00391,HCMV gB to EGFR-PI3K-NFKB signaling pathway
+hsa:1956,N00392,HCMV gB to EGFR-RAS-ERK signaling pathway
+hsa:1956,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:1956,N00514,Mutation-activated EGFR to PI3K signaling pathway
+hsa:1956,N00542,EGF-EGFR-RAS-JNK signaling pathway
+hsa:1956,N01078,EGF-EGFR-Actin signaling pathway
+hsa:1956,N01354,BPA to RAS-ERK signaling pathway
+hsa:1956,N01355,Arsenic to PI3K signaling pathway
+hsa:1956,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:1956,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:1956,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:1956,N01656,GF-RTK-PI3K signaling pathway
+hsa:1956,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:553,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:2224,N01635,Mevalonate pathway
+hsa:4191,N01605,Gluconeogenesis
+hsa:4191,N01617,"Citrate cycle, second carbon oxidation 2"
+hsa:3736,N01937,CNTN2 interactions
+hsa:4363,N01807,Transfer of cobalamin to the portal blood
+hsa:2100,N00286,Nuclear-initiated estrogen signaling pathway
+hsa:2100,N01350,NNK/NNN to PI3K signaling pathway
+hsa:2100,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:2100,N01352,BPA to RAS-ERK signaling pathway
+hsa:2100,N01353,E2 to RAS-ERK signaling pathway
+hsa:2100,N01364,E2 to nuclear-initiated estrogen signaling pathway
+hsa:2908,N00924,Glucocorticoid receptor signaling pathway
+hsa:2554,N01887,"Transport of chloride, GABAA receptor"
+hsa:2554,N01891,GABAA receptor trafficking
+hsa:2554,N02005,Protocadherin delta 2 to GABR1 signaling
+hsa:3351,N01901,Serotonin-HTR1/5-GNAI/O signaling pathway
+hsa:2944,N00243,KEAP1-NRF2 signaling pathway
+hsa:2944,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:2944,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:2944,N01365,TCDD to Ahr signaling pathway
+hsa:2944,N01386,DCE to DNA adducts
+hsa:2940,N00243,KEAP1-NRF2 signaling pathway
+hsa:2940,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:2940,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:2940,N01365,TCDD to Ahr signaling pathway
+hsa:2940,N01386,DCE to DNA adducts
+hsa:2947,N00243,KEAP1-NRF2 signaling pathway
+hsa:2947,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:2947,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:2947,N01365,TCDD to Ahr signaling pathway
+hsa:2947,N01386,DCE to DNA adducts
+hsa:2941,N00243,KEAP1-NRF2 signaling pathway
+hsa:2941,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:2941,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:2941,N01365,TCDD to Ahr signaling pathway
+hsa:2941,N01386,DCE to DNA adducts
+hsa:2948,N00243,KEAP1-NRF2 signaling pathway
+hsa:2948,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:2948,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:2948,N01365,TCDD to Ahr signaling pathway
+hsa:2948,N01386,DCE to DNA adducts
+hsa:2950,N00243,KEAP1-NRF2 signaling pathway
+hsa:2950,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:2950,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:2950,N01365,TCDD to Ahr signaling pathway
+hsa:2950,N01386,DCE to DNA adducts
+hsa:9446,N00243,KEAP1-NRF2 signaling pathway
+hsa:9446,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:9446,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:9446,N01365,TCDD to Ahr signaling pathway
+hsa:9446,N01386,DCE to DNA adducts
+hsa:9446,N01392,Arsenic to electron transfer in complex II
+hsa:9446,N01393,Arsenic to electron transfer in complex II
+hsa:9446,N01394,Arsenic to electron transfer in complex IV
+hsa:2876,N01589,Glutathione biosynthesis
+hsa:2952,N00243,KEAP1-NRF2 signaling pathway
+hsa:2952,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:2952,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:2952,N01365,TCDD to Ahr signaling pathway
+hsa:2952,N01386,DCE to DNA adducts
+hsa:2954,N00708,Tyrosine degradation
+hsa:2911,N00953,mGluR1-TRPC3 signaling pathway
+hsa:2911,N00954,Mutation-activated GRM1 to mGluR1-TRPC3 signaling pathway
+hsa:2911,N00955,Mutation-inactivated PRKCG to mGluR1-TRPC3 signaling pathway
+hsa:2911,N00956,Mutation-activated PRKCG to mGluR1-TRPC3 signaling pathway
+hsa:2911,N00957,Mutation-caused abberant ATXN2/3 to mGluR5-Ca2+ -apoptotic pathway
+hsa:2911,N00958,Mutation-activated ITPR1 to mGluR1-TRPC3 signaling pathway
+hsa:2911,N00959,ITPR1-reduced expression to mGluR1-TRPC3 signaling pathway
+hsa:2911,N00960,Mutation-caused aberrant SPTBN2 to mGluR1-TRPC3 signaling pathway
+hsa:2911,N00965,RORA-mediated transcription
+hsa:2911,N00966,Mutation-caused aberrant ATXN1 to RORA-mediated transcription
+hsa:2911,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:2911,N01878,Glutamate-GRM-GNAQ/S signaling pathway
+hsa:2911,N01880,GRM1/5-interacting scaffold proteins
+hsa:2911,N01881,GRM1/5-interacting partners
+hsa:2744,N01886,Glutamate transport in synapse
+hsa:2744,N01893,Glutamine metabolism and transport in neuron
+hsa:2898,N01882,"Transport of natrium, KA receptor"
+hsa:2900,N01882,"Transport of natrium, KA receptor"
+hsa:2901,N01882,"Transport of natrium, KA receptor"
+hsa:2891,N01883,"Transport of natrium, AMPAR"
+hsa:2893,N01883,"Transport of natrium, AMPAR"
+hsa:2892,N00120,MLL-ENL fusion to transcriptional activation
+hsa:2892,N01883,"Transport of natrium, AMPAR"
+hsa:2899,N01882,"Transport of natrium, KA receptor"
+hsa:2914,N01879,Glutamate-GRM-GNAI/O signaling pathway
+hsa:2917,N01879,Glutamate-GRM-GNAI/O signaling pathway
+hsa:2918,N01879,Glutamate-GRM-GNAI/O signaling pathway
+hsa:8972,N00720,Glycogen degradation (amylase)
+hsa:6714,N00393,ITGA/B-RhoGAP-RhoA signaling pathway
+hsa:6714,N00394,HCMV gH to ITGA/B-RhoA signaling pathway
+hsa:6714,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:6714,N00540,HBV HBx to RAS-ERK signaling pathway
+hsa:6714,N01068,ITGA/B-FAK-RAC signaling pathway
+hsa:6714,N01070,ITGA/B-FAK-CDC42 signaling pathway
+hsa:6714,N01078,EGF-EGFR-Actin signaling pathway
+hsa:6714,N01079,Shigella IpaC to Actin signaling pathway
+hsa:6714,N01091,Escherichia EspJ to IGG-FCGR-RAC signaling pathway
+hsa:6714,N01336,CHRNA7-E2F signaling pathway
+hsa:6714,N01337,NNK/NNN to CHRNA7-E2F signaling pathway
+hsa:6714,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:6714,N01352,BPA to RAS-ERK signaling pathway
+hsa:6714,N01353,E2 to RAS-ERK signaling pathway
+hsa:6714,N01358,P4-PR-PI3K signaling pathway
+hsa:6714,N01359,P4/MPA to PR-PI3K signaling pathway
+hsa:6714,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:6714,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:6714,N01411,Metals to NFKB signaling pathway
+hsa:6714,N01767,CXCR4-GNAI-Src signaling pathway
+hsa:6714,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:6714,N01921,Integrin alpha4beta1 signaling
+hsa:6714,N01973,Integrin alpha4beta7 signaling
+hsa:6714,N01974,Integrin alpha9beta1 signaling
+hsa:6714,N01975,Integrin alphaLbeta2 signaling
+hsa:6714,N01976,Integrin alphaMbeta2 signaling
+hsa:6714,N01977,Integrin alphaDbeta2 signaling
+hsa:6714,N01978,Integrin alphaEbeta2 signaling
+hsa:6714,N01979,Integrin alphaIIbbeta3 signaling
+hsa:6714,N01980,Integrin alpha5beta1 signaling
+hsa:6714,N01981,Integrin alpha8beta1 signaling
+hsa:6714,N01982,Integrin alphaVbeta1 signaling
+hsa:6714,N01983,Integrin alphaVbeta3 signaling
+hsa:6714,N01984,Integrin alphaVbeta5 signaling
+hsa:6714,N01985,Integrin alphaVbeta6 signaling
+hsa:6714,N01986,Integrin alphaVbeta8 signaling
+hsa:6714,N01987,Integrin alpha1beta1 signaling
+hsa:6714,N01988,Integrin alpha2beta1 signaling
+hsa:6714,N01989,Integrin alpha10beta1 signaling
+hsa:6714,N01990,Integrin alpha3beta1 signaling
+hsa:6714,N01991,Integrin alpha6beta1 signaling
+hsa:6714,N01992,Integrin alpha6beta4 signaling
+hsa:6714,N01996,Integrin alpha11beta1 signaling
+hsa:6714,N01997,Integrin alpha7beta1 signaling
+hsa:6714,N01998,Integrin alphaXbeta2 signaling
+hsa:2534,N01093,Escherichia EspJ/Tir to Actin signaling pathway
+hsa:2534,N01106,TCR-PLCG-ITPR signaling pathway
+hsa:2534,N01204,PRNP-PI3K-NOX2 signaling pathway
+hsa:2534,N01205,Scrapie conformation PrPSc to PRNP-PI3K-NOX2 signaling pathway
+hsa:2534,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:2534,N01967,SLAMF interactions
+hsa:1969,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:1969,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:1969,N01656,GF-RTK-PI3K signaling pathway
+hsa:1969,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:3932,N00511,HTLV-1 Tax to E47-mediated transcription
+hsa:3932,N01106,TCR-PLCG-ITPR signaling pathway
+hsa:3932,N01107,Yersinia YopH to TCR-NFAT signaling pathway
+hsa:3932,N01967,SLAMF interactions
+hsa:5021,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:635,N01630,"Remethylation, Hcy to Met"
+hsa:635,N01789,Betaine metabolism
+hsa:4158,N00297,ACTH-cortisol signaling pathway
+hsa:4158,N00298,CYP11B1-CYP11B2 fusion to ACTH-cortisol signaling pathway
+hsa:1137,N01342,Nicotine to Jak-STAT signaling pathway
+hsa:1137,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:1137,N01895,"Transport of natrium/calcium, CHRN"
+hsa:1141,N01342,Nicotine to Jak-STAT signaling pathway
+hsa:1141,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:1141,N01895,"Transport of natrium/calcium, CHRN"
+hsa:5156,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:5156,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:5156,N00018,Amplified PDGFR to RAS-ERK signaling pathway
+hsa:5156,N00028,PDGF-PDGFR-PLCG-CAMK signaling pathway
+hsa:5156,N00029,Amplified PDGFR to PLCG-CAMK signaling pathway
+hsa:5156,N00039,PDGF-PDGFR-PI3K signaling pathway
+hsa:5156,N00040,Amplified PDGFR to PI3K signaling pathway
+hsa:5156,N00385,HCMV gB to PDGFR-PI3K signaling pathway
+hsa:5156,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:5156,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:5156,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:5156,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:5156,N01656,GF-RTK-PI3K signaling pathway
+hsa:5156,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:1436,N00116,Mutation-inactivated RUNX1 to transcription
+hsa:1436,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:1436,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:1436,N01656,GF-RTK-PI3K signaling pathway
+hsa:1436,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:3480,N00119,MLL-AF4 fusion to transcriptional activation
+hsa:3480,N00182,IGF-IGFR-PI3K-NFKB signaling pathway
+hsa:3480,N00233,IGF-IGF1R-RAS-ERK signaling pathway
+hsa:3480,N00234,IGF2-IGF1R-PI3K signaling pathway
+hsa:3480,N00235,IGF2-overexpression to RAS-ERK signaling pathway
+hsa:3480,N00236,IGF2-overexpression to PI3K signaling pathway
+hsa:3480,N00237,IGF1R-overexpression to RAS-ERK signaling pathway
+hsa:3480,N00238,IGF1R-overexpression to PI3K signaling pathway
+hsa:3480,N00582,IGF-IGF1R-PI3K signaling pathway
+hsa:3480,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:3480,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:3480,N01656,GF-RTK-PI3K signaling pathway
+hsa:3480,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:8912,N00302,Mutation-activated CACNA1D/H to angiotensin-aldosterone signaling pathway
+hsa:8912,N00303,Mutation-activated KCNJ5 to angiotensin-aldosterone signaling pathway
+hsa:8912,N00304,Mutation-inactivated ATP1A1 to angiotensin-aldosterone signaling pathway
+hsa:8912,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:8912,N01637,"Ca2+ entry, Voltage-gated Ca2+ channel"
+hsa:5409,N01550,Adrenaline metabolism
+hsa:5409,N01919,Dopamine/Adrenaline metabolism in presynaptic neuron
+hsa:5604,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:5604,N00002,BCR-ABL fusion kinase to RAS-ERK signaling pathway
+hsa:5604,N00003,Mutation-activated KIT to RAS-ERK signaling pathway
+hsa:5604,N00004,Duplication or mutation-activated FLT3 to RAS-ERK signaling pathway
+hsa:5604,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:5604,N00006,Amplified EGFR to RAS-ERK signaling pathway
+hsa:5604,N00007,EML4-ALK fusion kinase to RAS-ERK signaling pathway
+hsa:5604,N00008,RET fusion kinase to RAS-ERK signaling pathway
+hsa:5604,N00009,TRK fusion kinase to RAS-ERK signaling pathway
+hsa:5604,N00011,Mutation-activated FGFR3 to RAS-ERK signaling pathway
+hsa:5604,N00012,Mutation-activated KRAS/NRAS to ERK signaling pathway
+hsa:5604,N00013,Mutation-activated BRAF to ERK signaling pathway
+hsa:5604,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:5604,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:5604,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00018,Amplified PDGFR to RAS-ERK signaling pathway
+hsa:5604,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:5604,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:5604,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:5604,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:5604,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:5604,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:5604,N00041,EGFR-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00077,HRAS-overexpression to ERK signaling pathway
+hsa:5604,N00078,Mutation-activated HRAS to ERK signaling pathway
+hsa:5604,N00152,CXCR-GNB/G-ERK signaling pathway
+hsa:5604,N00215,KITLG-KIT-RAS-ERK signaling pathway
+hsa:5604,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:5604,N00217,FLT3LG-FLT3-RAS-ERK signaling pathway
+hsa:5604,N00229,TGFA-EGFR-RAS-ERK signaling pathway
+hsa:5604,N00230,TGFA-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00233,IGF-IGF1R-RAS-ERK signaling pathway
+hsa:5604,N00235,IGF2-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00237,IGF1R-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00248,MET-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:5604,N00259,Amplified MET to RAS-ERK signaling pathway
+hsa:5604,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00277,EREG-EGFR-RAS-ERK signaling pathway
+hsa:5604,N00278,EREG-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00279,AREG-EGFR-RAS-ERK signaling pathway
+hsa:5604,N00280,AREG-overexpression to RAS-ERK signaling pathway
+hsa:5604,N00367,HPV E5 to EGFR-RAS-ERK signaling pathway
+hsa:5604,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:5604,N00438,TLR2/4-MAPK signaling pathway
+hsa:5604,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:5604,N00518,HCV Core to ERK signaling pathway
+hsa:5604,N00519,HCV Core to ERK signaling pathway
+hsa:5604,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:5604,N00540,HBV HBx to RAS-ERK signaling pathway
+hsa:5604,N00546,CXCL12-CXCR4-PKC-ERK signaling pathaway
+hsa:5604,N00862,Yersinia YopP/J to TLR2/4-MAPK signaling pathway
+hsa:5604,N00873,GnRH-GnRHR-PLCB-PKC signaling pathway
+hsa:5604,N00994,AGE-RAGE signaling pathway
+hsa:5604,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:5604,N01062,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:5604,N01064,Mutation-activated RET to RAS-ERK signaling pathway
+hsa:5604,N01119,RAC/CDC42-PAK-ERK signaling pathway
+hsa:5604,N01343,ACH-CHRN-RAS-ERK signaling pathway
+hsa:5604,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:5604,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:5604,N01352,BPA to RAS-ERK signaling pathway
+hsa:5604,N01353,E2 to RAS-ERK signaling pathway
+hsa:5604,N01354,BPA to RAS-ERK signaling pathway
+hsa:5604,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:5604,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:5604,N01408,Metals to RAS-ERK signaling pathway
+hsa:5604,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:5604,N01772,Induction of the PTGS2
+hsa:5604,N01874,NRG-ERBB2/ERBB3 pathway (RAS-ERK signaling)
+hsa:5604,N02023,DSG1 to Raf/MEK/ERK pathway
+hsa:2185,N00413,CXCR4-GNB/G-PLCB-PKC signaling pathway
+hsa:2185,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:5579,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:5579,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:5579,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:5579,N00227,TGFA-EGFR-PLCG-PKC signaling pathway
+hsa:5579,N00228,TGFA-overexpression to PLCG-PKC signaling pathway
+hsa:5579,N00413,CXCR4-GNB/G-PLCB-PKC signaling pathway
+hsa:5579,N00414,HCMV US27 to CXCR4-GNB/G-PLCB-PKC signaling pathway
+hsa:5579,N00428,CCR5-GNB/G-PLCB/G-PKC signaling pathway
+hsa:5579,N00546,CXCL12-CXCR4-PKC-ERK signaling pathaway
+hsa:5579,N00547,HBV LHBs to PKC-ERK signaling pathway
+hsa:5579,N00793,TSH-DUOX2-TG signaling pathway
+hsa:5579,N00869,KISS1-KISS1R-PLCB-PKC signaling pathway
+hsa:5579,N00873,GnRH-GnRHR-PLCB-PKC signaling pathway
+hsa:5579,N00882,TAC3-TACR3-PLC-PKC signaling pathway
+hsa:5579,N00918,TRH-TRHR-PLCB-PKC signaling pathway
+hsa:5579,N00953,mGluR1-TRPC3 signaling pathway
+hsa:5579,N01741,Ca2+/TRPC3 signaling pathway
+hsa:1595,N01624,Cholesterol biosynthesis
+hsa:2548,N00720,Glycogen degradation (amylase)
+hsa:2548,N02042,Lysosomal glycogen degradation
+hsa:6622,N01019,Parkin-mediated ubiquitination
+hsa:6622,N01020,Mutation-inactivated PRKN to Parkin-mediated ubiquitination
+hsa:6622,N01030,Mutation-caused aberrant SNCA to 26S proteasome-mediated protein degradation
+hsa:6622,N01031,Mutation-caused aberrant SNCA to VGCC-Ca2+ -apoptotic pathway
+hsa:6622,N01033,Mutation-caused aberrant SNCA to ATF6-mediated transcription
+hsa:6622,N01034,Mutation-caused aberrant SNCA to IRE1a-XBP1 signaling pathway
+hsa:6622,N01035,Mutation-caused aberrant SNCA to PERK-ATF4 signaling pathway
+hsa:6622,N01037,Mutation-caused aberrant SNCA to L-DOPA generation
+hsa:6622,N01041,Mutation-caused aberrant SNCA to transport of dopamine
+hsa:6622,N01042,Mutation-caused aberrant SNCA to electron transfer in Complex I
+hsa:6622,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:6506,N01884,"Transport of glutamate, EAAT"
+hsa:1020,N00997,Mutation-caused aberrant Abeta to electron transfer in Complex I
+hsa:1020,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:1020,N01414,Iron to anterograde axonal transport
+hsa:1020,N01832,NTN1-MAP1B axon guidance signaling
+hsa:1020,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:1020,N01847,Regulation of dynein-mediated retrograde transport
+hsa:1020,N01857,SEMA3A-DCX axon guidance signaling
+hsa:6777,N00053,Cytokine-Jak-STAT signaling pathway
+hsa:6777,N00054,Duplication or mutation-activated FLT3 to Jak-STAT signaling pathway
+hsa:6777,N00055,BCR-ABL fusion kinase to Jak-STAT signaling pathway
+hsa:6777,N00094,EGF-Jak-STAT signaling pathway
+hsa:6777,N00105,EML4-ALK fusion kinase to Jak-STAT signaling pathway
+hsa:6777,N00219,FLT3LG-FLT3-STAT5 signaling pathway
+hsa:6777,N00491,HTLV-1 p12 to Jak-STAT signaling pathway
+hsa:6777,N00907,GH-Jak-STAT signaling pathway
+hsa:6777,N00920,PRL-JAK-STAT signaling pathway
+hsa:6777,N01554,IL2 family to Jak-STAT signaling pathway
+hsa:6777,N01555,Hormone-like-cytokine to Jak-STAT signaling pathway
+hsa:6777,N01800,LEP-LEPR signaling pathway
+hsa:6777,N01804,IL3 family to Jak-STAT signaling pathway
+hsa:1786,N01607,Methionine degradation
+hsa:5328,N00128,TMPRSS2-ERG fusion to transcriptional activation
+hsa:5328,N00130,TMPRSS2-ETV5 fusion to transcriptional activation
+hsa:5328,N01518,Fibrinolytic system
+hsa:5328,N01520,"Regulation of fibrinolytic system, C1INH"
+hsa:5328,N01523,"Regulation of fibrinolytic system, AAT"
+hsa:5328,N01524,"Regulation of fibrinolytic system, PAI"
+hsa:3785,N01848,Membrane-associated periodic skeleton (MPS)
+hsa:3785,N01933,NrCAM interactions
+hsa:5105,N01605,Gluconeogenesis
+hsa:6697,N00702,"Tetrahydrobiopterin biosynthesis, GTP to BH4"
+hsa:1234,N00212,KSHV vCCL2 to CCR signaling pathway
+hsa:1234,N00428,CCR5-GNB/G-PLCB/G-PKC signaling pathway
+hsa:1234,N00431,HIV gp120 to CXCR4-GNAI-PI3K-BAD signaling pathway
+hsa:1234,N00432,HIV gp120 to CXCR4-GNAQ-PLCB/G-calcineurin
+hsa:1234,N00434,HIV gp120 to CXCR4-GNB/G-RAC signaling pathway
+hsa:1234,N01769,CCR5-GNB/G-PLCB/G signaling pathway
+hsa:4758,N01710,Hydrolysis of ganglioside
+hsa:4758,N02038,Cathepsin A activation of beta-galactosidase and neuraminidase
+hsa:4758,N02044,N-glycan degradation
+hsa:4233,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:4233,N00043,HGF-MET-PI3K signaling pathway
+hsa:4233,N00044,Mutation-activated MET to PI3K signaling pathway
+hsa:4233,N00143,ASPL-TFE3 fusion to transcriptional activation
+hsa:4233,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:4233,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:4233,N00247,HGF-overexpression to PI3K signaling pathway
+hsa:4233,N00248,MET-overexpression to RAS-ERK signaling pathway
+hsa:4233,N00249,MET-overexpression to PI3K signaling pathway
+hsa:4233,N00259,Amplified MET to RAS-ERK signaling pathway
+hsa:4233,N00260,Amplified MET to PI3K signaling pathway
+hsa:4233,N01062,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:4233,N01063,Mutation-activated MET to PI3K signaling pathway
+hsa:4233,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:4233,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:4233,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:4233,N01656,GF-RTK-PI3K signaling pathway
+hsa:4233,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:5837,N00718,Glycogen degradation
+hsa:2885,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:2885,N00002,BCR-ABL fusion kinase to RAS-ERK signaling pathway
+hsa:2885,N00003,Mutation-activated KIT to RAS-ERK signaling pathway
+hsa:2885,N00004,Duplication or mutation-activated FLT3 to RAS-ERK signaling pathway
+hsa:2885,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:2885,N00006,Amplified EGFR to RAS-ERK signaling pathway
+hsa:2885,N00011,Mutation-activated FGFR3 to RAS-ERK signaling pathway
+hsa:2885,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:2885,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:2885,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00018,Amplified PDGFR to RAS-ERK signaling pathway
+hsa:2885,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:2885,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:2885,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:2885,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00030,EGF-EGFR-RAS-PI3K signaling pathway
+hsa:2885,N00031,Duplication or mutation-activated FLT3 to RAS-PI3K signaling pathway
+hsa:2885,N00041,EGFR-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00096,EGF-EGFR-RAS-RASSF1 signaling pathway
+hsa:2885,N00103,EGF-EGFR-RAS-RalGDS signaling pathway
+hsa:2885,N00215,KITLG-KIT-RAS-ERK signaling pathway
+hsa:2885,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:2885,N00217,FLT3LG-FLT3-RAS-ERK signaling pathway
+hsa:2885,N00218,FLT3LG-FLT3-RAS-PI3K signaling pathway
+hsa:2885,N00229,TGFA-EGFR-RAS-ERK signaling pathway
+hsa:2885,N00230,TGFA-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00233,IGF-IGF1R-RAS-ERK signaling pathway
+hsa:2885,N00235,IGF2-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00237,IGF1R-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00248,MET-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:2885,N00259,Amplified MET to RAS-ERK signaling pathway
+hsa:2885,N00274,HCV NS5A to RAS-ERK signaling pathway
+hsa:2885,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00277,EREG-EGFR-RAS-ERK signaling pathway
+hsa:2885,N00278,EREG-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00279,AREG-EGFR-RAS-ERK signaling pathway
+hsa:2885,N00280,AREG-overexpression to RAS-ERK signaling pathway
+hsa:2885,N00367,HPV E5 to EGFR-RAS-ERK signaling pathway
+hsa:2885,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:2885,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:2885,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:2885,N00540,HBV HBx to RAS-ERK signaling pathway
+hsa:2885,N00542,EGF-EGFR-RAS-JNK signaling pathway
+hsa:2885,N01062,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:2885,N01354,BPA to RAS-ERK signaling pathway
+hsa:2885,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:2885,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:2885,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2885,N01595,"Regulation of GF-RTK-RAS-ERK signaling pathway, adaptor proteins"
+hsa:2885,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:2885,N01874,NRG-ERBB2/ERBB3 pathway (RAS-ERK signaling)
+hsa:3569,N00053,Cytokine-Jak-STAT signaling pathway
+hsa:3569,N00139,FUS-DDIT3 fusion to CEBPB-mediated transcription
+hsa:3569,N00317,AhR signaling pathway
+hsa:3569,N00435,TLR1/2/4-NFKB signaling pathway
+hsa:3569,N00994,AGE-RAGE signaling pathway
+hsa:3569,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:3569,N01306,AngII-AT1R-NOX2 signaling pathway
+hsa:3569,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:3569,N01556,IL6 family to Jak-STAT signaling pathway
+hsa:3569,N01566,TLR5-NFKB signaling pathway
+hsa:7852,N00401,CXCR4-GNAQ-PLCB/G-calcineurin signaling pathway
+hsa:7852,N00405,CXCR4-GNA12/13-Rho signaling pathway
+hsa:7852,N00413,CXCR4-GNB/G-PLCB-PKC signaling pathway
+hsa:7852,N00430,CXCR4-GNAI-PI3K-BAD signaling pathway
+hsa:7852,N00431,HIV gp120 to CXCR4-GNAI-PI3K-BAD signaling pathway
+hsa:7852,N00432,HIV gp120 to CXCR4-GNAQ-PLCB/G-calcineurin
+hsa:7852,N00433,CXCR4-GNB/G-RAC signaling pathway
+hsa:7852,N00434,HIV gp120 to CXCR4-GNB/G-RAC signaling pathway
+hsa:7852,N00546,CXCL12-CXCR4-PKC-ERK signaling pathaway
+hsa:7852,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:7852,N01765,CXCR4-GNAQ-PLCB/G signaling pathway
+hsa:7852,N01767,CXCR4-GNAI-Src signaling pathway
+hsa:7852,N01768,CXCR4-GNA12/13 signaling pathway
+hsa:7852,N01771,CXCR4-GNB/G signaling pathway
+hsa:4312,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:5594,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:5594,N00002,BCR-ABL fusion kinase to RAS-ERK signaling pathway
+hsa:5594,N00003,Mutation-activated KIT to RAS-ERK signaling pathway
+hsa:5594,N00004,Duplication or mutation-activated FLT3 to RAS-ERK signaling pathway
+hsa:5594,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:5594,N00006,Amplified EGFR to RAS-ERK signaling pathway
+hsa:5594,N00007,EML4-ALK fusion kinase to RAS-ERK signaling pathway
+hsa:5594,N00008,RET fusion kinase to RAS-ERK signaling pathway
+hsa:5594,N00009,TRK fusion kinase to RAS-ERK signaling pathway
+hsa:5594,N00011,Mutation-activated FGFR3 to RAS-ERK signaling pathway
+hsa:5594,N00012,Mutation-activated KRAS/NRAS to ERK signaling pathway
+hsa:5594,N00013,Mutation-activated BRAF to ERK signaling pathway
+hsa:5594,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:5594,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:5594,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00018,Amplified PDGFR to RAS-ERK signaling pathway
+hsa:5594,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:5594,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:5594,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:5594,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:5594,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:5594,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:5594,N00041,EGFR-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00077,HRAS-overexpression to ERK signaling pathway
+hsa:5594,N00078,Mutation-activated HRAS to ERK signaling pathway
+hsa:5594,N00152,CXCR-GNB/G-ERK signaling pathway
+hsa:5594,N00215,KITLG-KIT-RAS-ERK signaling pathway
+hsa:5594,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:5594,N00217,FLT3LG-FLT3-RAS-ERK signaling pathway
+hsa:5594,N00229,TGFA-EGFR-RAS-ERK signaling pathway
+hsa:5594,N00230,TGFA-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00233,IGF-IGF1R-RAS-ERK signaling pathway
+hsa:5594,N00235,IGF2-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00237,IGF1R-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00248,MET-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:5594,N00259,Amplified MET to RAS-ERK signaling pathway
+hsa:5594,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00277,EREG-EGFR-RAS-ERK signaling pathway
+hsa:5594,N00278,EREG-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00279,AREG-EGFR-RAS-ERK signaling pathway
+hsa:5594,N00280,AREG-overexpression to RAS-ERK signaling pathway
+hsa:5594,N00318,EGFR-ERK-ACTH signaling pathway
+hsa:5594,N00319,Mutation-activated USP8 to EGFR-ERK-ACTH signaling pathway
+hsa:5594,N00367,HPV E5 to EGFR-RAS-ERK signaling pathway
+hsa:5594,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:5594,N00438,TLR2/4-MAPK signaling pathway
+hsa:5594,N00439,HIV Nef to TLR2/4-MAPK signaling pathway
+hsa:5594,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:5594,N00518,HCV Core to ERK signaling pathway
+hsa:5594,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:5594,N00540,HBV HBx to RAS-ERK signaling pathway
+hsa:5594,N00545,HBV HBx to ERK signaling pathway
+hsa:5594,N00546,CXCL12-CXCR4-PKC-ERK signaling pathaway
+hsa:5594,N00873,GnRH-GnRHR-PLCB-PKC signaling pathway
+hsa:5594,N00879,PROK-PRKR-Gi-ERK signaling pathway
+hsa:5594,N00994,AGE-RAGE signaling pathway
+hsa:5594,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:5594,N01062,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:5594,N01064,Mutation-activated RET to RAS-ERK signaling pathway
+hsa:5594,N01119,RAC/CDC42-PAK-ERK signaling pathway
+hsa:5594,N01121,Salmonella SpvC to ERK signaling pathway
+hsa:5594,N01204,PRNP-PI3K-NOX2 signaling pathway
+hsa:5594,N01283,Shigella OspF to TLR2/4-MAPK signaling pathway
+hsa:5594,N01343,ACH-CHRN-RAS-ERK signaling pathway
+hsa:5594,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:5594,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:5594,N01352,BPA to RAS-ERK signaling pathway
+hsa:5594,N01353,E2 to RAS-ERK signaling pathway
+hsa:5594,N01354,BPA to RAS-ERK signaling pathway
+hsa:5594,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:5594,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:5594,N01408,Metals to RAS-ERK signaling pathway
+hsa:5594,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:5594,N01593,"Regulation of GF-RTK-RAS-ERK signaling, PTP"
+hsa:5594,N01601,ERK-RSK signaling
+hsa:5594,N01602,ERK-MYC signaling pathway
+hsa:5594,N01751,Macrophage EPO signaling
+hsa:5594,N01772,Induction of the PTGS2
+hsa:5594,N01774,ERK-DUSP4 negative feedback pathway
+hsa:5594,N01775,Inactivation of CaMKII by inducing SERCA2
+hsa:5594,N01823,FGF23-NCC/NPT signaling pathway
+hsa:5594,N01874,NRG-ERBB2/ERBB3 pathway (RAS-ERK signaling)
+hsa:5594,N02023,DSG1 to Raf/MEK/ERK pathway
+hsa:6817,N01371,PhIP to DNA adducts
+hsa:2149,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:2149,N01657,GPCR-PI3K signaling pathway
+hsa:1508,N02036,Prosaposin (PSAP) cleavage into saposins
+hsa:6536,N01906,Glycine transport in neuron
+hsa:1509,N00286,Nuclear-initiated estrogen signaling pathway
+hsa:1509,N02036,Prosaposin (PSAP) cleavage into saposins
+hsa:1509,N02037,PGRN activation of cathepsin D
+hsa:4036,N01538,"Hedgehog signaling pathway, PTCH coreceptor"
+hsa:3458,N00053,Cytokine-Jak-STAT signaling pathway
+hsa:3458,N01559,Type II interferon to Jak-STAT signaling pathway
+hsa:3458,N01662,IFN-RIPK1/3 signaling pathway
+hsa:2053,N01401,Benzo[a]pyrenre to CYP-mediated metabolism
+hsa:2053,N01929,Peroxidation and deglycosylation of acylglucosylceramide
+hsa:1950,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:1950,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:1950,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:1950,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:1950,N00026,EGF-EGFR-PLCG-CAMK signaling pathway
+hsa:1950,N00030,EGF-EGFR-RAS-PI3K signaling pathway
+hsa:1950,N00033,EGF-EGFR-PI3K signaling pathway
+hsa:1950,N00034,ERBB2-overexpression to PI3K signaling pathway
+hsa:1950,N00094,EGF-Jak-STAT signaling pathway
+hsa:1950,N00095,ERBB2-overexpression to EGF-Jak-STAT signaling pathway
+hsa:1950,N00096,EGF-EGFR-RAS-RASSF1 signaling pathway
+hsa:1950,N00103,EGF-EGFR-RAS-RalGDS signaling pathway
+hsa:1950,N00147,EGF-EGFR-PLCG-calcineurin signaling pathway
+hsa:1950,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:1950,N00253,Amplified ERBB2 to PI3K signaling pathway
+hsa:1950,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:1950,N00281,EGF-overexpression to PI3K signaling pathway
+hsa:1950,N00390,EGF-EGFR-PI3K-NFKB signaling pathway
+hsa:1950,N00542,EGF-EGFR-RAS-JNK signaling pathway
+hsa:1950,N01078,EGF-EGFR-Actin signaling pathway
+hsa:1950,N01364,E2 to nuclear-initiated estrogen signaling pathway
+hsa:1950,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:1950,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:1950,N01656,GF-RTK-PI3K signaling pathway
+hsa:1950,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:5295,N01165,PDL/PD1-SHP-PI3K signaling pathway
+hsa:5295,N01656,GF-RTK-PI3K signaling pathway
+hsa:5295,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:5295,N01695,BCR-BCAP/CD19-PI3K signaling pathway
+hsa:5295,N01696,ICOSLG/ICOS-PI3K signaling pathway
+hsa:5295,N01708,INS-AKT signaling pathway
+hsa:1385,N00297,ACTH-cortisol signaling pathway
+hsa:1385,N00298,CYP11B1-CYP11B2 fusion to ACTH-cortisol signaling pathway
+hsa:1385,N00301,Angiotensin-aldosterone signaling pathway
+hsa:1385,N00302,Mutation-activated CACNA1D/H to angiotensin-aldosterone signaling pathway
+hsa:1385,N00303,Mutation-activated KCNJ5 to angiotensin-aldosterone signaling pathway
+hsa:1385,N00304,Mutation-inactivated ATP1A1 to angiotensin-aldosterone signaling pathway
+hsa:1385,N00305,Mutation-inactivated ATP2B3 to angiotensin-aldosterone signaling pathway
+hsa:1385,N00320,Mutation-activated PRKACA to ACTH-cortisol signaling pathway
+hsa:1385,N00321,Mutation-activated GNAS to ACTH-cortisol signaling pathway
+hsa:1385,N00322,Mutation-inactivated PRKAR1A to ACTH-cortisol signaling pathway
+hsa:1385,N00323,Mutation-inactivated PDE11A/PDE8B to ACTH-cortisol signaling pathway
+hsa:1385,N00324,CRHR-PKA-ACTH signaling pathway
+hsa:1385,N00325,Mutation-inactivated RASD1 to CRHR-PKA-ACTH signaling pathway
+hsa:1385,N00326,Mutation-activated GNAS to CRHR-PKA-ACTH signaling pathway
+hsa:1385,N00327,Mutation-inactivated PRKAR1A to CRHR-PKA-ACTH signaling pathway
+hsa:1385,N00410,DRD1-GNAS-AC-PKA signaling pathway
+hsa:1385,N00444,TNF-p38 signaling pathway
+hsa:1385,N00544,HBV HBx to CREB-mediated transcription
+hsa:1385,N00782,TSH-TG signaling pathway
+hsa:1385,N00910,GHRHR-PKA-GH signaling pathway
+hsa:1385,N00981,Mutation-caused aberrant Htt to CREB-mediated transcription
+hsa:1385,N01204,PRNP-PI3K-NOX2 signaling pathway
+hsa:1385,N01343,ACH-CHRN-RAS-ERK signaling pathway
+hsa:1385,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:1385,N01773,PTGS2-PGE2-TGFB1 pathway
+hsa:3576,N00140,FUS-DDIT3 fusion to NFKB-mediated transcription
+hsa:3576,N00152,CXCR-GNB/G-ERK signaling pathway
+hsa:3576,N00153,CCR/CXCR-GNB/G-PI3K-RAC signaling pathway
+hsa:3576,N00154,CXCR-GNB/G-PI3K-AKT signaling pathway
+hsa:3576,N00544,HBV HBx to CREB-mediated transcription
+hsa:3576,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:3576,N01746,CCR/CXCR-GNB/G-PI3K signaling pathway
+hsa:3576,N01870,HIF-2A signaling pathway
+hsa:3576,N01873,VHL mutation to HIF-2 signaling pathway
+hsa:6611,N01623,Spermine biosynthesis
+hsa:3486,N00134,EWSR1-FLI1 fusion to transcriptional repression
+hsa:6609,N00649,Hydrolysis of sphingomyelin
+hsa:6352,N00406,HCMV US28 to GNA12/13-Rho signaling pathway
+hsa:6352,N00428,CCR5-GNB/G-PLCB/G-PKC signaling pathway
+hsa:6352,N00429,HCMV UL22A to CCR5-GNB/G-PLCB/G-PKC signaling pathway
+hsa:6352,N01769,CCR5-GNB/G-PLCB/G signaling pathway
+hsa:2629,N00640,Hydrolysis of lactosylceramide
+hsa:2629,N00642,Saposin stimulation of GBA and GALC
+hsa:2629,N00643,Loss of saposin stimulation
+hsa:2629,N00679,Glucosylceramide synthesis in GBA deficiency
+hsa:2629,N01929,Peroxidation and deglycosylation of acylglucosylceramide
+hsa:2629,N02020,GCase transport from the ER to the lysosome
+hsa:2629,N02039,Saposin C stimulation of GBA
+hsa:59272,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:7040,N00063,TGF-beta signaling pathway
+hsa:7040,N00079,HIF-1 signaling pathway
+hsa:7040,N00080,Loss of VHL to HIF-1 signaling pathway
+hsa:7040,N00081,Mutation-inactivated VHL to HIF-1 signaling pathway
+hsa:7040,N00531,HBV HBx to TGF-beta signaling pathway
+hsa:7040,N01460,Plasmin mediated activation of latent TGF-beta
+hsa:7040,N01773,PTGS2-PGE2-TGFB1 pathway
+hsa:7040,N01781,Activation of LXRs by oxysterols
+hsa:7040,N01980,Integrin alpha5beta1 signaling
+hsa:7040,N01981,Integrin alpha8beta1 signaling
+hsa:7040,N01983,Integrin alphaVbeta3 signaling
+hsa:7040,N01984,Integrin alphaVbeta5 signaling
+hsa:7040,N01985,Integrin alphaVbeta6 signaling
+hsa:7040,N01986,Integrin alphaVbeta8 signaling
+hsa:1499,N00056,"Wnt signaling pathway, Canonical pathway"
+hsa:1499,N00057,Mutation-inactivated APC to Wnt signaling pathway
+hsa:1499,N00058,Mutation-activated CTNNB1 to Wnt signaling pathway
+hsa:1499,N00059,FZD7-overexpression to Wnt signaling pathway
+hsa:1499,N00060,LRP6-overexpression to Wnt signaling pathway
+hsa:1499,N00061,CDH1-reduced expression to beta-catenin signaling pathway
+hsa:1499,N00175,KSHV LANA to Wnt signaling pathway
+hsa:1499,N00242,Mutation-inactivated AXIN to Wnt signaling pathway
+hsa:1499,N00257,Loss of CDH1 to beta-catenin signaling pathway
+hsa:1499,N00258,Mutation-inactivated CDH1 to beta-catenin signaling pathway
+hsa:1499,N01124,Salmonella AvrA to beta-catenin signaling pathway
+hsa:1499,N01999,Clasical cadherin-catenin cell adhesion system
+hsa:1499,N02000,Clasical cadherin to Hippo signaling pathway
+hsa:1499,N02001,Clasical cadherin to Wnt signaling pathway
+hsa:1499,N02003,deltaPCDH8/10/18/20 to Wnt signaling
+hsa:1499,N02009,Desmosomal cadherin to Wint signaling pathway
+hsa:6790,N01531,CENPE interaction with NDC80 complex
+hsa:6790,N01547,Kinetochore fiber organization
+hsa:6790,N01561,Microtubule depolymerization
+hsa:6790,N01563,Inhibition of Kif2A
+hsa:4882,N01787,NPPC-NPR2 signaling
+hsa:4193,N00066,MDM2-p21-Cell cycle G1/S
+hsa:4193,N00067,Deleted p14(ARF) to p21-cell cycle G1/S
+hsa:4193,N00068,Amplified MDM2 to p21-cell cycle G1/S
+hsa:4193,N00076,Mutation-inactivated p14(ARF) to p21-cell cycle G1/S
+hsa:4193,N00131,Amplified MYCN to transcriptional activation
+hsa:4193,N00263,EBV EBNA3C to p53-mediated transcription
+hsa:4193,N00536,MDM2-p21-Cell cycle G1/S
+hsa:54205,N00098,Intrinsic apoptotic pathway
+hsa:54205,N00099,Mutation-inactivated BAX to apoptotic pathway
+hsa:54205,N00100,BCL2-overexpression to intrinsic apoptotic pathway
+hsa:54205,N00146,Crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:54205,N00449,HIV Tat/Nef to crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:54205,N00478,EBV BARF1 to intrinsic apoptotic pathway
+hsa:54205,N00745,IAV PB1-F2 to intrinsic apoptotic pathway
+hsa:54205,N00957,Mutation-caused abberant ATXN2/3 to mGluR5-Ca2+ -apoptotic pathway
+hsa:54205,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:54205,N00984,mGluR5-Ca2+ -apoptotic pathway
+hsa:54205,N00985,Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway
+hsa:54205,N00987,Mutation-caused aberrant Htt to transport of calcium
+hsa:54205,N01000,mAChR-Ca2+ -apoptotic pathway
+hsa:54205,N01001,Mutation-caused aberrant Abeta to mAchR-Ca2+ -apoptotic pathway
+hsa:54205,N01002,Mutation-caused aberrant Abeta to mGluR5-Ca2+ -apoptotic pathway
+hsa:54205,N01003,Mutation-caused aberrant Abeta to transport of calcium
+hsa:54205,N01004,Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway
+hsa:54205,N01005,Mutation-caused aberrant Abeta to crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:54205,N01006,Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway
+hsa:54205,N01007,Mutation-caused aberrant PSEN to mGluR5-Ca2+ -apoptotic pathway
+hsa:54205,N01008,Mutation-caused aberrant PSEN1 to mGluR5-Ca2+ -apoptotic pathway
+hsa:54205,N01031,Mutation-caused aberrant SNCA to VGCC-Ca2+ -apoptotic pathway
+hsa:54205,N01047,Mutation-activated LRRK2 to intrinsic apoptotic pathway
+hsa:54205,N01048,Mutation-inactivated PINK1 to intrinsic apoptotic pathway
+hsa:54205,N01049,Mutation-inactivated PRKN to intrinsic apoptotic pathway
+hsa:54205,N01050,Mutation-inactivated PINK1 to intrinsic apoptotic pathway
+hsa:54205,N01135,Mutation-caused aberrant SOD1 to intrinsic apoptotic pathway
+hsa:54205,N01151,Mutation-inactivated SIGMAR1 to Ca2+ -apoptotic pathway
+hsa:54205,N01199,Scrapie conformation PrPSc to mGluR5-Ca2+ -apoptotic pathway
+hsa:54205,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:1511,N02036,Prosaposin (PSAP) cleavage into saposins
+hsa:821,N00490,HTLV-1 p12 to calcineurin signaling pathway
+hsa:155,N01688,ADRB3-UCP1 signaling pathway
+hsa:2247,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:2247,N00037,FGF-FGFR-PI3K signaling pathway
+hsa:2247,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2247,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2247,N01656,GF-RTK-PI3K signaling pathway
+hsa:2247,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:6093,N00405,CXCR4-GNA12/13-Rho signaling pathway
+hsa:6093,N01074,Shigella IpaA to ITGA/B-RhoGEF-RhoA signaling pathway
+hsa:6093,N01089,Escherichia EspM to LPA-GNA12/13-Rho signaling pathway
+hsa:6093,N01095,Escherichia Map to LPA-GNA12/13-RhoA signaling pathway
+hsa:6093,N01097,LPA-GNA12/13-RhoA signaling pathway
+hsa:6093,N01285,Microtubule-RHOA signaling pathway
+hsa:6093,N02010,"Wnt signaling pathway, PCP pathway"
+hsa:3827,N01517,"Kallikrein-kinin system, HMWK to bradykinin"
+hsa:1432,N00186,IL1-IL1R-p38 signaling pathway
+hsa:1432,N00187,KSHV Kaposin B to p38 signaling pathway
+hsa:1432,N00438,TLR2/4-MAPK signaling pathway
+hsa:1432,N00444,TNF-p38 signaling pathway
+hsa:1432,N00445,HIV Tat/Nef to TNF-p38 signaling pathway
+hsa:1432,N00931,Escherichia NleD to TNF-p38 signaling pathway
+hsa:1432,N01283,Shigella OspF to TLR2/4-MAPK signaling pathway
+hsa:1432,N01593,"Regulation of GF-RTK-RAS-ERK signaling, PTP"
+hsa:1432,N01776,CaMK2-p38-MK2-ALOX5 pathway
+hsa:2160,N01507,"Intrinsic pathway of coagulation cascade, F11 activation"
+hsa:595,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:595,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:595,N00007,EML4-ALK fusion kinase to RAS-ERK signaling pathway
+hsa:595,N00012,Mutation-activated KRAS/NRAS to ERK signaling pathway
+hsa:595,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:595,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:595,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:595,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:595,N00056,"Wnt signaling pathway, Canonical pathway"
+hsa:595,N00057,Mutation-inactivated APC to Wnt signaling pathway
+hsa:595,N00058,Mutation-activated CTNNB1 to Wnt signaling pathway
+hsa:595,N00059,FZD7-overexpression to Wnt signaling pathway
+hsa:595,N00060,LRP6-overexpression to Wnt signaling pathway
+hsa:595,N00061,CDH1-reduced expression to beta-catenin signaling pathway
+hsa:595,N00066,MDM2-p21-Cell cycle G1/S
+hsa:595,N00067,Deleted p14(ARF) to p21-cell cycle G1/S
+hsa:595,N00068,Amplified MDM2 to p21-cell cycle G1/S
+hsa:595,N00069,p16-Cell cycle G1/S
+hsa:595,N00070,Mutation-inactivated p16(INK4a) to p16-cell cycle G1/S
+hsa:595,N00071,Deleted p16(INK4a) to p16-cell cycle G1/S
+hsa:595,N00072,Amplified CDK4 to cell cycle G1/S
+hsa:595,N00073,Mutation-activated CDK4 to cell cycle G1/S
+hsa:595,N00076,Mutation-inactivated p14(ARF) to p21-cell cycle G1/S
+hsa:595,N00088,Amplified MYC to p15-cell cycle G1/S
+hsa:595,N00089,Amplified MYC to cell cycle G1/S
+hsa:595,N00090,p15-Cell cycle G1/S
+hsa:595,N00175,KSHV LANA to Wnt signaling pathway
+hsa:595,N00242,Mutation-inactivated AXIN to Wnt signaling pathway
+hsa:595,N00257,Loss of CDH1 to beta-catenin signaling pathway
+hsa:595,N00258,Mutation-inactivated CDH1 to beta-catenin signaling pathway
+hsa:595,N00275,Amplified CCND1 to cell cycle G1/S
+hsa:595,N00287,ESR1-positive to nuclear-initiated estrogen signaling pathway
+hsa:595,N00347,p300-p21-Cell cycle G1/S
+hsa:595,N00483,EBV EBNA3C to cell cycle G1/S
+hsa:595,N00510,HTLV-1 Tax to CREB-mediated transcription
+hsa:595,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:595,N00529,HCV core to RXRA/PPARA-mediated transcription
+hsa:595,N00530,HCV core to RXRA/LXRA-mediated transcription
+hsa:595,N01342,Nicotine to Jak-STAT signaling pathway
+hsa:595,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:595,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:595,N01362,Nuclear-initiated progesterone signaling pathway
+hsa:3760,N01889,Gbeta/gamma-KCNJ signaling
+hsa:3558,N00053,Cytokine-Jak-STAT signaling pathway
+hsa:3558,N00491,HTLV-1 p12 to Jak-STAT signaling pathway
+hsa:3558,N01554,IL2 family to Jak-STAT signaling pathway
+hsa:3763,N01889,Gbeta/gamma-KCNJ signaling
+hsa:5243,N00250,CDX2-overexpression to transcriptional activation
+hsa:2235,N00601,Heme biosynthesis
+hsa:4914,N00009,TRK fusion kinase to RAS-ERK signaling pathway
+hsa:4914,N00132,Amplified MYCN to transcriptional repression
+hsa:4914,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:4914,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:4914,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:4914,N01656,GF-RTK-PI3K signaling pathway
+hsa:4914,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:3725,N00188,IL1-IL1R-JNK signaling pathway
+hsa:3725,N00438,TLR2/4-MAPK signaling pathway
+hsa:3725,N00446,TNF-JNK signaling pathway
+hsa:3725,N00447,HIV Vpr/Tat to TNF-JNK signaling pathway
+hsa:3725,N00503,HTLV-1 Tax to TNF-JNK signaling pathway
+hsa:3725,N00543,HBV HBx to JNK signaling pathway
+hsa:3725,N00545,HBV HBx to ERK signaling pathway
+hsa:3725,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:3725,N01350,NNK/NNN to PI3K signaling pathway
+hsa:3725,N01353,E2 to RAS-ERK signaling pathway
+hsa:3725,N01407,Metals to JNK signaling pathway
+hsa:3725,N01408,Metals to RAS-ERK signaling pathway
+hsa:6514,N00818,Transport of glucose
+hsa:6347,N00153,CCR/CXCR-GNB/G-PI3K-RAC signaling pathway
+hsa:6347,N00399,CCR2-GNB/G-PI3K-NFKB signaling pathway
+hsa:6347,N00406,HCMV US28 to GNA12/13-Rho signaling pathway
+hsa:6347,N00560,HSV gD to HVEM-NFKB signaling pathway
+hsa:6347,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:6347,N01746,CCR/CXCR-GNB/G-PI3K signaling pathway
+hsa:6347,N01770,CCR2-GNB/G-PI3K signaling pathway
+hsa:3553,N00186,IL1-IL1R-p38 signaling pathway
+hsa:3553,N00188,IL1-IL1R-JNK signaling pathway
+hsa:3553,N00742,NLRP3 inflammasome signaling pathway
+hsa:3553,N00867,NLRC4 inflammasome signaling pathway
+hsa:3553,N00868,Pyrin inflammasome signaling pathway
+hsa:3553,N00934,Non-canonical inflammasome signaling pathway
+hsa:3553,N00948,Shigella IpaH7.8 to NLRP3 Inflammasome signaling pathway
+hsa:3553,N00949,Shigella IpaB to NLRC4 Inflammasome signaling pathway
+hsa:3553,N01126,Salmonella SipB to Inflammasome signaling pathway
+hsa:3553,N01127,Salmonella SopE to Inflammasome signaling pathway
+hsa:3553,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:3553,N01567,NLRP1 inflammasome signaling pathway
+hsa:3553,N01569,NALP12 inflammasome signaling pathway
+hsa:6505,N01884,"Transport of glutamate, EAAT"
+hsa:6513,N00079,HIF-1 signaling pathway
+hsa:6513,N00080,Loss of VHL to HIF-1 signaling pathway
+hsa:6513,N00081,Mutation-inactivated VHL to HIF-1 signaling pathway
+hsa:6513,N01784,Glucose uptake and lactate release induced by efferocytosis
+hsa:6513,N01870,HIF-2A signaling pathway
+hsa:6513,N01873,VHL mutation to HIF-2 signaling pathway
+hsa:183,N01743,Renin-angiotensin signaling pathway
+hsa:5595,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:5595,N00002,BCR-ABL fusion kinase to RAS-ERK signaling pathway
+hsa:5595,N00003,Mutation-activated KIT to RAS-ERK signaling pathway
+hsa:5595,N00004,Duplication or mutation-activated FLT3 to RAS-ERK signaling pathway
+hsa:5595,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:5595,N00006,Amplified EGFR to RAS-ERK signaling pathway
+hsa:5595,N00007,EML4-ALK fusion kinase to RAS-ERK signaling pathway
+hsa:5595,N00008,RET fusion kinase to RAS-ERK signaling pathway
+hsa:5595,N00009,TRK fusion kinase to RAS-ERK signaling pathway
+hsa:5595,N00011,Mutation-activated FGFR3 to RAS-ERK signaling pathway
+hsa:5595,N00012,Mutation-activated KRAS/NRAS to ERK signaling pathway
+hsa:5595,N00013,Mutation-activated BRAF to ERK signaling pathway
+hsa:5595,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:5595,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:5595,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00018,Amplified PDGFR to RAS-ERK signaling pathway
+hsa:5595,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:5595,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:5595,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:5595,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:5595,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:5595,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:5595,N00041,EGFR-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00077,HRAS-overexpression to ERK signaling pathway
+hsa:5595,N00078,Mutation-activated HRAS to ERK signaling pathway
+hsa:5595,N00152,CXCR-GNB/G-ERK signaling pathway
+hsa:5595,N00215,KITLG-KIT-RAS-ERK signaling pathway
+hsa:5595,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:5595,N00217,FLT3LG-FLT3-RAS-ERK signaling pathway
+hsa:5595,N00229,TGFA-EGFR-RAS-ERK signaling pathway
+hsa:5595,N00230,TGFA-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00233,IGF-IGF1R-RAS-ERK signaling pathway
+hsa:5595,N00235,IGF2-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00237,IGF1R-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00248,MET-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:5595,N00259,Amplified MET to RAS-ERK signaling pathway
+hsa:5595,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00277,EREG-EGFR-RAS-ERK signaling pathway
+hsa:5595,N00278,EREG-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00279,AREG-EGFR-RAS-ERK signaling pathway
+hsa:5595,N00280,AREG-overexpression to RAS-ERK signaling pathway
+hsa:5595,N00318,EGFR-ERK-ACTH signaling pathway
+hsa:5595,N00319,Mutation-activated USP8 to EGFR-ERK-ACTH signaling pathway
+hsa:5595,N00367,HPV E5 to EGFR-RAS-ERK signaling pathway
+hsa:5595,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:5595,N00438,TLR2/4-MAPK signaling pathway
+hsa:5595,N00439,HIV Nef to TLR2/4-MAPK signaling pathway
+hsa:5595,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:5595,N00518,HCV Core to ERK signaling pathway
+hsa:5595,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:5595,N00540,HBV HBx to RAS-ERK signaling pathway
+hsa:5595,N00545,HBV HBx to ERK signaling pathway
+hsa:5595,N00546,CXCL12-CXCR4-PKC-ERK signaling pathaway
+hsa:5595,N00873,GnRH-GnRHR-PLCB-PKC signaling pathway
+hsa:5595,N00879,PROK-PRKR-Gi-ERK signaling pathway
+hsa:5595,N00994,AGE-RAGE signaling pathway
+hsa:5595,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:5595,N01062,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:5595,N01064,Mutation-activated RET to RAS-ERK signaling pathway
+hsa:5595,N01119,RAC/CDC42-PAK-ERK signaling pathway
+hsa:5595,N01121,Salmonella SpvC to ERK signaling pathway
+hsa:5595,N01204,PRNP-PI3K-NOX2 signaling pathway
+hsa:5595,N01283,Shigella OspF to TLR2/4-MAPK signaling pathway
+hsa:5595,N01343,ACH-CHRN-RAS-ERK signaling pathway
+hsa:5595,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:5595,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:5595,N01352,BPA to RAS-ERK signaling pathway
+hsa:5595,N01353,E2 to RAS-ERK signaling pathway
+hsa:5595,N01354,BPA to RAS-ERK signaling pathway
+hsa:5595,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:5595,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:5595,N01408,Metals to RAS-ERK signaling pathway
+hsa:5595,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:5595,N01593,"Regulation of GF-RTK-RAS-ERK signaling, PTP"
+hsa:5595,N01601,ERK-RSK signaling
+hsa:5595,N01602,ERK-MYC signaling pathway
+hsa:5595,N01751,Macrophage EPO signaling
+hsa:5595,N01772,Induction of the PTGS2
+hsa:5595,N01774,ERK-DUSP4 negative feedback pathway
+hsa:5595,N01775,Inactivation of CaMKII by inducing SERCA2
+hsa:5595,N01823,FGF23-NCC/NPT signaling pathway
+hsa:5595,N01874,NRG-ERBB2/ERBB3 pathway (RAS-ERK signaling)
+hsa:5595,N02023,DSG1 to Raf/MEK/ERK pathway
+hsa:2932,N00056,"Wnt signaling pathway, Canonical pathway"
+hsa:2932,N00057,Mutation-inactivated APC to Wnt signaling pathway
+hsa:2932,N00058,Mutation-activated CTNNB1 to Wnt signaling pathway
+hsa:2932,N00059,FZD7-overexpression to Wnt signaling pathway
+hsa:2932,N00060,LRP6-overexpression to Wnt signaling pathway
+hsa:2932,N00175,KSHV LANA to Wnt signaling pathway
+hsa:2932,N00242,Mutation-inactivated AXIN to Wnt signaling pathway
+hsa:2932,N00683,CD80/CD86-CD28-PI3K signaling pathway
+hsa:2932,N01017,Mutation-caused aberrant PSEN1 to anterograde axonal transport
+hsa:2932,N01202,Oligomeric conformation PrPc to anterograde axonal transport
+hsa:2932,N01403,Zn to anterograde axonal transport
+hsa:2932,N01832,NTN1-MAP1B axon guidance signaling
+hsa:2932,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:2932,N01858,EFNB1-MAPT axon guidance signaling
+hsa:2932,N02003,deltaPCDH8/10/18/20 to Wnt signaling
+hsa:7448,N01505,"Regulation of complement cascade, MAC inhibition"
+hsa:7448,N01979,Integrin alphaIIbbeta3 signaling
+hsa:7448,N01981,Integrin alpha8beta1 signaling
+hsa:7448,N01982,Integrin alphaVbeta1 signaling
+hsa:7448,N01983,Integrin alphaVbeta3 signaling
+hsa:7448,N01984,Integrin alphaVbeta5 signaling
+hsa:5781,N00926,Escherichia Tir to TLR2/4-MAPK signaling pathway
+hsa:5781,N01165,PDL/PD1-SHP-PI3K signaling pathway
+hsa:5781,N01411,Metals to NFKB signaling pathway
+hsa:5781,N01595,"Regulation of GF-RTK-RAS-ERK signaling pathway, adaptor proteins"
+hsa:5781,N01786,Don't eat me signal (CD24)
+hsa:5781,N01941,Netrin-1 repulsive signaling
+hsa:1017,N00091,p27-Cell cycle G1/S
+hsa:1017,N00092,Amplified MYC to p27-cell cycle G1/S
+hsa:1017,N00093,Loss of CDKN1B to p27-cell cycle G1/S
+hsa:1017,N00254,CDKN1B-reduced expression to p27-cell cycle G1/S
+hsa:1017,N00255,Amplified CCNE to cell cycle G1/S
+hsa:1017,N00264,EBV EBNA3C to p27-Cell cycle G1/S
+hsa:1017,N00316,Mutation-inactivated CDKN1B to p27-cell cycle G1/S
+hsa:1017,N00360,HPV E7 to p27-cell cycle G1/S
+hsa:1017,N00482,EBV EBNA3C to p27-Cell cycle G1/S
+hsa:1017,N00497,HTLV-1 Tax to p21-cell cycle G1/S
+hsa:1017,N00498,HTLV-1 Tax to p21-cell cycle G1/S
+hsa:1017,N00536,MDM2-p21-Cell cycle G1/S
+hsa:1017,N00537,HBV HBx to cell cycle G1/S
+hsa:1017,N01468,DNA replication licensing
+hsa:4353,N00116,Mutation-inactivated RUNX1 to transcription
+hsa:4353,N00118,TEL-AML1 fusion to transcriptional repression
+hsa:3265,N00001,EGF-EGFR-RAS-ERK signaling pathway
+hsa:3265,N00002,BCR-ABL fusion kinase to RAS-ERK signaling pathway
+hsa:3265,N00003,Mutation-activated KIT to RAS-ERK signaling pathway
+hsa:3265,N00004,Duplication or mutation-activated FLT3 to RAS-ERK signaling pathway
+hsa:3265,N00005,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:3265,N00006,Amplified EGFR to RAS-ERK signaling pathway
+hsa:3265,N00007,EML4-ALK fusion kinase to RAS-ERK signaling pathway
+hsa:3265,N00008,RET fusion kinase to RAS-ERK signaling pathway
+hsa:3265,N00009,TRK fusion kinase to RAS-ERK signaling pathway
+hsa:3265,N00011,Mutation-activated FGFR3 to RAS-ERK signaling pathway
+hsa:3265,N00014,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:3265,N00015,PDGF-PDGFR-RAS-ERK signaling pathway
+hsa:3265,N00016,PDGF-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00018,Amplified PDGFR to RAS-ERK signaling pathway
+hsa:3265,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:3265,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:3265,N00021,EGF-ERBB2-RAS-ERK signaling pathway
+hsa:3265,N00022,ERBB2-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00030,EGF-EGFR-RAS-PI3K signaling pathway
+hsa:3265,N00031,Duplication or mutation-activated FLT3 to RAS-PI3K signaling pathway
+hsa:3265,N00041,EGFR-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00077,HRAS-overexpression to ERK signaling pathway
+hsa:3265,N00078,Mutation-activated HRAS to ERK signaling pathway
+hsa:3265,N00096,EGF-EGFR-RAS-RASSF1 signaling pathway
+hsa:3265,N00097,Loss of RASSF1 to RAS-RASSF1 signaling pathway
+hsa:3265,N00103,EGF-EGFR-RAS-RalGDS signaling pathway
+hsa:3265,N00152,CXCR-GNB/G-ERK signaling pathway
+hsa:3265,N00160,KSHV K1 to RAS-ERK signaling pathway
+hsa:3265,N00215,KITLG-KIT-RAS-ERK signaling pathway
+hsa:3265,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:3265,N00217,FLT3LG-FLT3-RAS-ERK signaling pathway
+hsa:3265,N00218,FLT3LG-FLT3-RAS-PI3K signaling pathway
+hsa:3265,N00229,TGFA-EGFR-RAS-ERK signaling pathway
+hsa:3265,N00230,TGFA-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00233,IGF-IGF1R-RAS-ERK signaling pathway
+hsa:3265,N00235,IGF2-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00237,IGF1R-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00248,MET-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00252,Amplified ERBB2 to RAS-ERK signaling pathway
+hsa:3265,N00259,Amplified MET to RAS-ERK signaling pathway
+hsa:3265,N00276,EGF-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00277,EREG-EGFR-RAS-ERK signaling pathway
+hsa:3265,N00278,EREG-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00279,AREG-EGFR-RAS-ERK signaling pathway
+hsa:3265,N00280,AREG-overexpression to RAS-ERK signaling pathway
+hsa:3265,N00367,HPV E5 to EGFR-RAS-ERK signaling pathway
+hsa:3265,N00386,HCMV gB to PDGFR-RAS-ERK signaling pathway
+hsa:3265,N00513,Mutation-activated EGFR to RAS-ERK signaling pathway
+hsa:3265,N00538,Ca2+-PYK2-RAS-ERK signaling pathway
+hsa:3265,N00540,HBV HBx to RAS-ERK signaling pathway
+hsa:3265,N00541,HBV HBx to RAS-ERK signaling pathway
+hsa:3265,N00542,EGF-EGFR-RAS-JNK signaling pathway
+hsa:3265,N00994,AGE-RAGE signaling pathway
+hsa:3265,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:3265,N01062,Mutation-activated MET to RAS-ERK signaling pathway
+hsa:3265,N01064,Mutation-activated RET to RAS-ERK signaling pathway
+hsa:3265,N01343,ACH-CHRN-RAS-ERK signaling pathway
+hsa:3265,N01344,NNK/NNN to RAS-ERK signaling pathway
+hsa:3265,N01351,E2-ER-RAS-ERK signaling pathway
+hsa:3265,N01352,BPA to RAS-ERK signaling pathway
+hsa:3265,N01353,E2 to RAS-ERK signaling pathway
+hsa:3265,N01354,BPA to RAS-ERK signaling pathway
+hsa:3265,N01360,P4-PR-RAS-ERK signaling pathway
+hsa:3265,N01361,P4/MPA to PR-RAS-ERK signaling pathway
+hsa:3265,N01408,Metals to RAS-ERK signaling pathway
+hsa:3265,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:3265,N01596,"Regulation of GF-RTK-RAS-ERK signaling, RAS ubiquitination by CUL3 complex"
+hsa:3265,N01597,"Regulation of GF-RTK-RAS-ERK signaling, SPRED and NF1"
+hsa:3265,N01600,"Regulation of GF-RTK-RAS-ERK signaling, RasGAP"
+hsa:3265,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:3265,N01874,NRG-ERBB2/ERBB3 pathway (RAS-ERK signaling)
+hsa:3265,N02023,DSG1 to Raf/MEK/ERK pathway
+hsa:8398,N01748,Find-me signal (LPC)
+hsa:54331,N00152,CXCR-GNB/G-ERK signaling pathway
+hsa:54331,N00153,CCR/CXCR-GNB/G-PI3K-RAC signaling pathway
+hsa:54331,N00154,CXCR-GNB/G-PI3K-AKT signaling pathway
+hsa:54331,N00157,KSHV vGPCR to GNB/G-ERK signaling pathway
+hsa:54331,N00158,KSHV vGPCR to GNB/G-PI3K-AKT signaling pathway
+hsa:54331,N00178,KSHV vGPCR to GNB/G-PI3K-JNK signaling pathway
+hsa:54331,N00399,CCR2-GNB/G-PI3K-NFKB signaling pathway
+hsa:54331,N00400,HCMV US28 to GNB/G-PI3K-NFKB signaling pathway
+hsa:54331,N00408,LPAR-GNB/G-Rho signaling pathway
+hsa:54331,N00409,HCMV UL33 to GNB/G-Rho signaling pathway
+hsa:54331,N00413,CXCR4-GNB/G-PLCB-PKC signaling pathway
+hsa:54331,N00428,CCR5-GNB/G-PLCB/G-PKC signaling pathway
+hsa:54331,N00433,CXCR4-GNB/G-RAC signaling pathway
+hsa:54331,N00434,HIV gp120 to CXCR4-GNB/G-RAC signaling pathway
+hsa:54331,N01657,GPCR-PI3K signaling pathway
+hsa:54331,N01746,CCR/CXCR-GNB/G-PI3K signaling pathway
+hsa:54331,N01769,CCR5-GNB/G-PLCB/G signaling pathway
+hsa:54331,N01770,CCR2-GNB/G-PI3K signaling pathway
+hsa:54331,N01771,CXCR4-GNB/G signaling pathway
+hsa:54331,N01889,Gbeta/gamma-KCNJ signaling
+hsa:54331,N01899,Gbeta/gamma-CACNA signaling
+hsa:983,N00455,CDC25-Cell cycle G2/M
+hsa:983,N00456,HIV Vpr to CDC25-cell cycle G2M
+hsa:983,N00457,HIV Vpr to cell cycle G2M
+hsa:983,N00459,WEE1-Cell cycle G2/M
+hsa:983,N00460,HIV Vpr to WEE1-cell cycle G2M
+hsa:983,N00499,ATR-p21-Cell cycle G2/M
+hsa:983,N01485,Cohesin dissociation in prophase
+hsa:983,N01499,Modifying of condensin II subunits
+hsa:983,N01500,Modifying of condensin I subunits
+hsa:3383,N00185,KSHV MIR2 to cell surface molecule-endocytosis
+hsa:3383,N01962,ICAM1 interactions
+hsa:3383,N01975,Integrin alphaLbeta2 signaling
+hsa:3383,N01976,Integrin alphaMbeta2 signaling
+hsa:3383,N01998,Integrin alphaXbeta2 signaling
+hsa:4790,N00140,FUS-DDIT3 fusion to NFKB-mediated transcription
+hsa:4790,N00151,TNF-NFKB signaling pathway
+hsa:4790,N00171,KSHV vFLIP to NFKB signaling pathway
+hsa:4790,N00173,KSHV K15 to TNF-NFKB signaling pathway
+hsa:4790,N00174,KSHV vFLIP to TNF-NFKB signaling pathway
+hsa:4790,N00182,IGF-IGFR-PI3K-NFKB signaling pathway
+hsa:4790,N00265,EBV LMP1 to NFKB signaling pathway
+hsa:4790,N00269,HCV core to TNF-NFKB signaling pathway
+hsa:4790,N00389,HCMV IE1-72 to transcription
+hsa:4790,N00390,EGF-EGFR-PI3K-NFKB signaling pathway
+hsa:4790,N00398,HCMV IE2-86 to TNF-NFKB signaling pathway
+hsa:4790,N00399,CCR2-GNB/G-PI3K-NFKB signaling pathway
+hsa:4790,N00435,TLR1/2/4-NFKB signaling pathway
+hsa:4790,N00436,HIV Tat to TLR2/4-NFKB signaling pathway
+hsa:4790,N00437,HIV Vpu to TLR2/4-NFKB signaling pathway
+hsa:4790,N00441,HIV gp120 to TNF-NFKB signaling pathway
+hsa:4790,N00442,HIV Nef to TNF-NFKB signaling pathway
+hsa:4790,N00443,HIV Vpr/Nef/Tat to TNF-NFKB signaling pathway
+hsa:4790,N00504,HTLV-1 Tax to NFKB signaling pathway
+hsa:4790,N00550,HBV HBeAg to TLR2/4-NFKB signaling pathway
+hsa:4790,N00559,LIGHT-HVEM-NFKB signaling pathway
+hsa:4790,N00560,HSV gD to HVEM-NFKB signaling pathway
+hsa:4790,N00563,TLR3-NFKB signaling pathway
+hsa:4790,N00688,RIG-I-NFKB signaling pathway
+hsa:4790,N00689,MV V/P/C to RIG-I-NFKB signaling pathway
+hsa:4790,N00730,IAV NS1 to RIG-I-like receptor signaling pathway
+hsa:4790,N00932,Escherichia NleH1 to TNF-NFKB signaling pathway
+hsa:4790,N00940,NOD-NFKB signaling pathway
+hsa:4790,N00994,AGE-RAGE signaling pathway
+hsa:4790,N00996,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway
+hsa:4790,N01112,Salmonella SopE/E2 to NOD-NFKB signaling pathway
+hsa:4790,N01118,Salmonella SpvD to TNF-NFKB signaling pathway
+hsa:4790,N01306,AngII-AT1R-NOX2 signaling pathway
+hsa:4790,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:4790,N01339,NNK/NNN to PI3K signaling pathway
+hsa:4790,N01410,Metals to NFKB signaling pathway
+hsa:4790,N01411,Metals to NFKB signaling pathway
+hsa:4790,N01566,TLR5-NFKB signaling pathway
+hsa:5327,N00128,TMPRSS2-ERG fusion to transcriptional activation
+hsa:5327,N01518,Fibrinolytic system
+hsa:5327,N01524,"Regulation of fibrinolytic system, PAI"
+hsa:2539,N00905,NADP+ reduction
+hsa:4803,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:4803,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:4803,N01656,GF-RTK-PI3K signaling pathway
+hsa:4803,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:4907,N01418,"Purine salvage pathway, adenine to AMP"
+hsa:4907,N01421,"Purine salvage pathway, hypoxanthine/guanine to IMP/GMP"
+hsa:4907,N01910,Adenine nucleotide conversion
+hsa:5602,N00188,IL1-IL1R-JNK signaling pathway
+hsa:5602,N00438,TLR2/4-MAPK signaling pathway
+hsa:5602,N00446,TNF-JNK signaling pathway
+hsa:5602,N00447,HIV Vpr/Tat to TNF-JNK signaling pathway
+hsa:5602,N00503,HTLV-1 Tax to TNF-JNK signaling pathway
+hsa:5602,N00542,EGF-EGFR-RAS-JNK signaling pathway
+hsa:5602,N00543,HBV HBx to JNK signaling pathway
+hsa:5602,N00551,HBV HBs to TLR2/4-MAPK signaling pathway
+hsa:5602,N00930,Escherichia NleD to TNF-JNK signaling pathway
+hsa:5602,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:5602,N00992,Mutation-caused aberrant Htt to TNF-JNK signaling pathway
+hsa:5602,N01013,IRE1a-JNK signaling pathway
+hsa:5602,N01014,Mutation-caused aberrant Abeta to IRE1a-JNK signaling pathway
+hsa:5602,N01056,FAS-JNK signaling pathway
+hsa:5602,N01057,Mutation-inactivated DJ1 to FAS-JNK signaling patwhay
+hsa:5602,N01407,Metals to JNK signaling pathway
+hsa:5602,N01417,Paraquat to FAS-JNK signaling pathway
+hsa:5602,N01593,"Regulation of GF-RTK-RAS-ERK signaling, PTP"
+hsa:5602,N01594,MLK-JNK signaling pathway
+hsa:3309,N01015,ATF6-mediated transcription
+hsa:3309,N01033,Mutation-caused aberrant SNCA to ATF6-mediated transcription
+hsa:3309,N01034,Mutation-caused aberrant SNCA to IRE1a-XBP1 signaling pathway
+hsa:3309,N01035,Mutation-caused aberrant SNCA to PERK-ATF4 signaling pathway
+hsa:3309,N01147,Mutation-caused aberrant SOD1 to ATF6-mediated transcription
+hsa:3309,N01148,Mutation-caused aberrant SOD1 to IRE1a-XBP1 signaling pathway
+hsa:3309,N01149,Mutation-caused aberrant SOD1 to PERK-ATF4 signaling pathway
+hsa:3309,N01198,Scrapie conformation PrPSc to PERK-ATF4 signaling pathway
+hsa:4133,N01934,L1CAM interactions
+hsa:5621,N01197,Scrapie conformation PrPSc to 26S proteasome-mediated protein degradation
+hsa:5621,N01198,Scrapie conformation PrPSc to PERK-ATF4 signaling pathway
+hsa:5621,N01199,Scrapie conformation PrPSc to mGluR5-Ca2+ -apoptotic pathway
+hsa:5621,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:5621,N01201,Scrapie conformation PrPSc to VGCC-Ca2+ -apoptotic pathway
+hsa:5621,N01202,Oligomeric conformation PrPc to anterograde axonal transport
+hsa:5621,N01203,Scrapie conformation PrPSc to Notch singling pathway
+hsa:5621,N01204,PRNP-PI3K-NOX2 signaling pathway
+hsa:5621,N01205,Scrapie conformation PrPSc to PRNP-PI3K-NOX2 signaling pathway
+hsa:3098,N00950,Shigella FimA to crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:3098,N01137,PINK-Parkin-mediated autophagosome formation
+hsa:3098,N01138,Mutation-inactivated OPTN to PINK-Parkin-mediated autophagosome formation
+hsa:3098,N01139,Mutation-inactivated p62 to PINK-Parkin-mediated autophagosome formation
+hsa:3098,N01756,PINK-Parkin-independent ubiquitin-mediated mitophagy
+hsa:3098,N01757,"PINK-Parkin-independent ubiquitin-mediated mitophagy, ubiquitin E3 ligase"
+hsa:5879,N00153,CCR/CXCR-GNB/G-PI3K-RAC signaling pathway
+hsa:5879,N00394,HCMV gH to ITGA/B-RhoA signaling pathway
+hsa:5879,N00433,CXCR4-GNB/G-RAC signaling pathway
+hsa:5879,N00951,ITGA/B-RHOG-RAC signaling pathway
+hsa:5879,N00952,Shigella IpgB1 to ITGA/B-RHOG-RAC signaling pathway
+hsa:5879,N01068,ITGA/B-FAK-RAC signaling pathway
+hsa:5879,N01069,Shigella IpgB1 to ITGA/B-FAK-RAC signaling pathway
+hsa:5879,N01077,Shigella IcsB to ITGA/B-FAK-RAC signaling pathway
+hsa:5879,N01086,Escherichia EspT to RAC signaling pathway
+hsa:5879,N01087,Escherichia EspW to RAC signaling pathway
+hsa:5879,N01102,Yersinia YopE to ITGA/B-RHOG-RAC signaling pathway
+hsa:5879,N01103,Yersinia YpkA to IGG-FCGR-RAC signaling pathway
+hsa:5879,N01119,RAC/CDC42-PAK-ERK signaling pathway
+hsa:5879,N01120,Salmonella SptP to RAC/CDC42-PAK-ERK signaling pathway
+hsa:5879,N01127,Salmonella SopE to Inflammasome signaling pathway
+hsa:5879,N01128,Salmonella SopE to RAC signaling pathway
+hsa:5879,N01204,PRNP-PI3K-NOX2 signaling pathway
+hsa:5879,N01205,Scrapie conformation PrPSc to PRNP-PI3K-NOX2 signaling pathway
+hsa:5879,N01761,Activation of CRK-DOCK-Rac1 pathway
+hsa:5879,N01763,MEGF10-mediated recognition and engulfment
+hsa:5879,N01779,Continual efferocytosis enhanced by the AC-derived arginine and ornithine
+hsa:5879,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:5879,N01962,ICAM1 interactions
+hsa:5879,N02010,"Wnt signaling pathway, PCP pathway"
+hsa:1545,N00317,AhR signaling pathway
+hsa:1545,N01365,TCDD to Ahr signaling pathway
+hsa:1545,N01366,BaP to Ahr signaling pathway
+hsa:1545,N01367,PCB to Ahr signaling pathway
+hsa:1545,N01374,BaP to DNA adducts
+hsa:1545,N01401,Benzo[a]pyrenre to CYP-mediated metabolism
+hsa:1545,N01405,17beta-estradiol to CYP-mediated metabolism
+hsa:7412,N01306,AngII-AT1R-NOX2 signaling pathway
+hsa:7412,N01921,Integrin alpha4beta1 signaling
+hsa:7412,N01973,Integrin alpha4beta7 signaling
+hsa:7412,N01974,Integrin alpha9beta1 signaling
+hsa:7412,N01977,Integrin alphaDbeta2 signaling
+hsa:6507,N01884,"Transport of glutamate, EAAT"
+hsa:4314,N00128,TMPRSS2-ERG fusion to transcriptional activation
+hsa:4314,N01307,SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+hsa:3082,N00043,HGF-MET-PI3K signaling pathway
+hsa:3082,N00216,HGF-MET-RAS-ERK signaling pathway
+hsa:3082,N00246,HGF-overexpression to RAS-ERK signaling pathway
+hsa:3082,N00247,HGF-overexpression to PI3K signaling pathway
+hsa:3082,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:3082,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:3082,N01656,GF-RTK-PI3K signaling pathway
+hsa:3082,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:5578,N00023,EGF-EGFR-PLCG-ERK signaling pathway
+hsa:5578,N00024,Mutation-activated EGFR to PLCG-ERK signaling pathway
+hsa:5578,N00025,EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+hsa:5578,N00227,TGFA-EGFR-PLCG-PKC signaling pathway
+hsa:5578,N00228,TGFA-overexpression to PLCG-PKC signaling pathway
+hsa:5578,N00413,CXCR4-GNB/G-PLCB-PKC signaling pathway
+hsa:5578,N00414,HCMV US27 to CXCR4-GNB/G-PLCB-PKC signaling pathway
+hsa:5578,N00428,CCR5-GNB/G-PLCB/G-PKC signaling pathway
+hsa:5578,N00546,CXCL12-CXCR4-PKC-ERK signaling pathaway
+hsa:5578,N00547,HBV LHBs to PKC-ERK signaling pathway
+hsa:5578,N00744,IAV HA to ERK signaling pathway
+hsa:5578,N00793,TSH-DUOX2-TG signaling pathway
+hsa:5578,N00869,KISS1-KISS1R-PLCB-PKC signaling pathway
+hsa:5578,N00873,GnRH-GnRHR-PLCB-PKC signaling pathway
+hsa:5578,N00882,TAC3-TACR3-PLC-PKC signaling pathway
+hsa:5578,N00918,TRH-TRHR-PLCB-PKC signaling pathway
+hsa:5578,N00953,mGluR1-TRPC3 signaling pathway
+hsa:5578,N01741,Ca2+/TRPC3 signaling pathway
+hsa:7132,N00145,Extrinsic apoptotic pathway
+hsa:7132,N00151,TNF-NFKB signaling pathway
+hsa:7132,N00350,HPV E6 to extrinsic apoptotic pathway
+hsa:7132,N00441,HIV gp120 to TNF-NFKB signaling pathway
+hsa:7132,N00444,TNF-p38 signaling pathway
+hsa:7132,N00446,TNF-JNK signaling pathway
+hsa:7132,N01114,Salmonella SseK3 to TNF-NFKB signaling pathway
+hsa:7132,N01545,"Regulation of TNF-NFKB signaling pathway, LUBAC-mediated linear ubiquitination"
+hsa:7132,N01621,TNF-RIPK1/3 signaling pathway
+hsa:3074,N00623,Keratan sulfate degradation
+hsa:3074,N01709,Hydrolysis of globoside
+hsa:3074,N01710,Hydrolysis of ganglioside
+hsa:3074,N01711,Hydrolysis of GA1
+hsa:3074,N01713,GM2A activation of HEXA and HEXB
+hsa:3074,N01714,Loss of GM2A activation
+hsa:3074,N02044,N-glycan degradation
+hsa:3551,N00151,TNF-NFKB signaling pathway
+hsa:3551,N00171,KSHV vFLIP to NFKB signaling pathway
+hsa:3551,N00173,KSHV K15 to TNF-NFKB signaling pathway
+hsa:3551,N00174,KSHV vFLIP to TNF-NFKB signaling pathway
+hsa:3551,N00182,IGF-IGFR-PI3K-NFKB signaling pathway
+hsa:3551,N00265,EBV LMP1 to NFKB signaling pathway
+hsa:3551,N00390,EGF-EGFR-PI3K-NFKB signaling pathway
+hsa:3551,N00397,HCMV UL26 to NFKB signaling pathway
+hsa:3551,N00399,CCR2-GNB/G-PI3K-NFKB signaling pathway
+hsa:3551,N00435,TLR1/2/4-NFKB signaling pathway
+hsa:3551,N00441,HIV gp120 to TNF-NFKB signaling pathway
+hsa:3551,N00442,HIV Nef to TNF-NFKB signaling pathway
+hsa:3551,N00467,EBV BPLF1 to TLR2/4-NFKB signaling pathway
+hsa:3551,N00504,HTLV-1 Tax to NFKB signaling pathway
+hsa:3551,N00559,LIGHT-HVEM-NFKB signaling pathway
+hsa:3551,N00560,HSV gD to HVEM-NFKB signaling pathway
+hsa:3551,N00563,TLR3-NFKB signaling pathway
+hsa:3551,N00688,RIG-I-NFKB signaling pathway
+hsa:3551,N00940,NOD-NFKB signaling pathway
+hsa:3551,N01112,Salmonella SopE/E2 to NOD-NFKB signaling pathway
+hsa:3551,N01410,Metals to NFKB signaling pathway
+hsa:3551,N01411,Metals to NFKB signaling pathway
+hsa:3551,N01566,TLR5-NFKB signaling pathway
+hsa:3690,N00393,ITGA/B-RhoGAP-RhoA signaling pathway
+hsa:3690,N00394,HCMV gH to ITGA/B-RhoA signaling pathway
+hsa:3690,N00951,ITGA/B-RHOG-RAC signaling pathway
+hsa:3690,N01068,ITGA/B-FAK-RAC signaling pathway
+hsa:3690,N01070,ITGA/B-FAK-CDC42 signaling pathway
+hsa:3690,N01072,ITGA/B-RhoGEF-RhoA signaling pathway
+hsa:3690,N01080,ITGA/B-TALIN/VINCULIN signaling pathway
+hsa:3690,N01761,Activation of CRK-DOCK-Rac1 pathway
+hsa:3690,N01956,JAM1 interactions
+hsa:3690,N01958,JAM3 interactions
+hsa:3690,N01979,Integrin alphaIIbbeta3 signaling
+hsa:3690,N01983,Integrin alphaVbeta3 signaling
+hsa:331,N01337,NNK/NNN to CHRNA7-E2F signaling pathway
+hsa:331,N01583,"Regulation of extrinsic apoptotic pathway, XIAP"
+hsa:887,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:836,N00098,Intrinsic apoptotic pathway
+hsa:836,N00100,BCL2-overexpression to intrinsic apoptotic pathway
+hsa:836,N00101,DCC-apoptotic pathway
+hsa:836,N00102,Loss of DCC to DCC-apoptotic pathway
+hsa:836,N00145,Extrinsic apoptotic pathway
+hsa:836,N00146,Crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:836,N00165,KSHV vIAP to crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:836,N00449,HIV Tat/Nef to crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:836,N00478,EBV BARF1 to intrinsic apoptotic pathway
+hsa:836,N00580,HSV ICP0 to crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:836,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:836,N00983,Mutation-caused aberrant Htt to extrinsic apoptotic pathway
+hsa:836,N00984,mGluR5-Ca2+ -apoptotic pathway
+hsa:836,N00985,Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway
+hsa:836,N00987,Mutation-caused aberrant Htt to transport of calcium
+hsa:836,N01002,Mutation-caused aberrant Abeta to mGluR5-Ca2+ -apoptotic pathway
+hsa:836,N01005,Mutation-caused aberrant Abeta to crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:836,N01007,Mutation-caused aberrant PSEN to mGluR5-Ca2+ -apoptotic pathway
+hsa:836,N01031,Mutation-caused aberrant SNCA to VGCC-Ca2+ -apoptotic pathway
+hsa:836,N01047,Mutation-activated LRRK2 to intrinsic apoptotic pathway
+hsa:836,N01048,Mutation-inactivated PINK1 to intrinsic apoptotic pathway
+hsa:836,N01049,Mutation-inactivated PRKN to intrinsic apoptotic pathway
+hsa:836,N01050,Mutation-inactivated PINK1 to intrinsic apoptotic pathway
+hsa:836,N01135,Mutation-caused aberrant SOD1 to intrinsic apoptotic pathway
+hsa:836,N01199,Scrapie conformation PrPSc to mGluR5-Ca2+ -apoptotic pathway
+hsa:836,N01200,Scrapie conformation PrPSc to transport of calcium
+hsa:836,N01747,Find-me signal (nucleotide)
+hsa:836,N01748,Find-me signal (LPC)
+hsa:836,N01749,Find-me signal (CX3CL1)
+hsa:836,N01750,Find-me signal (S1P)
+hsa:836,N01754,Activation of XKR8
+hsa:7097,N00435,TLR1/2/4-NFKB signaling pathway
+hsa:7097,N00438,TLR2/4-MAPK signaling pathway
+hsa:7097,N00556,HBV HBe to TLR2/4-NFKB signaling pathway
+hsa:302,N01304,ANXA2-S100A10-regulated actin cytoskeleton
+hsa:302,N01305,Salmonella SopB to ANXA2-S100A10-regulated actin cytoskeleton
+hsa:54106,N00690,TLR7/9-IRF7 signaling pathway
+hsa:54106,N01543,TLR7/8/9-IRF5 signaling pathway
+hsa:208,N00030,EGF-EGFR-RAS-PI3K signaling pathway
+hsa:208,N00031,Duplication or mutation-activated FLT3 to RAS-PI3K signaling pathway
+hsa:208,N00032,Mutation-activated KRAS/NRAS to PI3K signaling pathway
+hsa:208,N00033,EGF-EGFR-PI3K signaling pathway
+hsa:208,N00034,ERBB2-overexpression to PI3K signaling pathway
+hsa:208,N00035,Amplified EGFR to PI3K signaling pathway
+hsa:208,N00036,Mutation-activated EGFR to PI3K signaling pathway
+hsa:208,N00037,FGF-FGFR-PI3K signaling pathway
+hsa:208,N00038,Amplified FGFR to PI3K signaling pathway
+hsa:208,N00039,PDGF-PDGFR-PI3K signaling pathway
+hsa:208,N00040,Amplified PDGFR to PI3K signaling pathway
+hsa:208,N00042,EGFR-overexpression to PI3K signaling pathway
+hsa:208,N00043,HGF-MET-PI3K signaling pathway
+hsa:208,N00044,Mutation-activated MET to PI3K signaling pathway
+hsa:208,N00045,KITLG-KIT-PI3K signaling pathway
+hsa:208,N00046,Mutation-activated KIT to PI3K signaling pathway
+hsa:208,N00047,EML4-ALK fusion kinase to PI3K signaling pathway
+hsa:208,N00048,BCR-ABL fusion kinase to PI3K signaling pathway
+hsa:208,N00049,Mutation-activated PI3K to PI3K signaling pathway
+hsa:208,N00050,Amplified PI3K to PI3K signaling pathway
+hsa:208,N00051,Deleted PTEN to PI3K signaling pathway
+hsa:208,N00052,Mutation-inactivated PTEN to PI3K signaling pathway
+hsa:208,N00082,Loss of NKX3-1 to PI3K signaling pathway
+hsa:208,N00154,CXCR-GNB/G-PI3K-AKT signaling pathway
+hsa:208,N00182,IGF-IGFR-PI3K-NFKB signaling pathway
+hsa:208,N00218,FLT3LG-FLT3-RAS-PI3K signaling pathway
+hsa:208,N00220,PTEN-PIP3-AKT signaling pathway
+hsa:208,N00231,TGFA-EGFR-PI3K signaling pathway
+hsa:208,N00232,TGFA-overexpression to PI3K signaling pathway
+hsa:208,N00234,IGF2-IGF1R-PI3K signaling pathway
+hsa:208,N00236,IGF2-overexpression to PI3K signaling pathway
+hsa:208,N00238,IGF1R-overexpression to PI3K signaling pathway
+hsa:208,N00247,HGF-overexpression to PI3K signaling pathway
+hsa:208,N00249,MET-overexpression to PI3K signaling pathway
+hsa:208,N00253,Amplified ERBB2 to PI3K signaling pathway
+hsa:208,N00260,Amplified MET to PI3K signaling pathway
+hsa:208,N00281,EGF-overexpression to PI3K signaling pathway
+hsa:208,N00282,EREG-EGFR-PI3K signaling pathway
+hsa:208,N00283,EREG-overexpression to PI3K signaling pathway
+hsa:208,N00284,AREG-EGFR-PI3K signaling pathway
+hsa:208,N00285,AREG-overexpression to PI3K signaling pathway
+hsa:208,N00342,MAGI-PTEN signaling pathway
+hsa:208,N00355,PP2A-AKT signaling pathway
+hsa:208,N00390,EGF-EGFR-PI3K-NFKB signaling pathway
+hsa:208,N00399,CCR2-GNB/G-PI3K-NFKB signaling pathway
+hsa:208,N00430,CXCR4-GNAI-PI3K-BAD signaling pathway
+hsa:208,N00514,Mutation-activated EGFR to PI3K signaling pathway
+hsa:208,N00582,IGF-IGF1R-PI3K signaling pathway
+hsa:208,N00683,CD80/CD86-CD28-PI3K signaling pathway
+hsa:208,N00963,RELN-VLDLR-PI3K signaling pathway
+hsa:208,N00964,DAB1-overexpression to RELN-VLDLR-PI3K signaling pathway
+hsa:208,N01063,Mutation-activated MET to PI3K signaling pathway
+hsa:208,N01065,Mutation-activated RET to PI3K signaling pathway
+hsa:208,N01163,NRG-ERBB4-PI3K signaling pathway
+hsa:208,N01338,ACH-CHRN-PI3K signaling pathway
+hsa:208,N01339,NNK/NNN to PI3K signaling pathway
+hsa:208,N01347,EP/NE-ADRB-PI3K signaling pathway
+hsa:208,N01348,Nicotine/NNK to PI3K signaling pathway
+hsa:208,N01349,ACH-CHRN-PI3K signaling pathway
+hsa:208,N01350,NNK/NNN to PI3K signaling pathway
+hsa:208,N01355,Arsenic to PI3K signaling pathway
+hsa:208,N01356,Membrane-initiated progesterone signaling pathway
+hsa:208,N01357,P4/MPA to membrane-initiated progesterone signaling pathway
+hsa:208,N01358,P4-PR-PI3K signaling pathway
+hsa:208,N01359,P4/MPA to PR-PI3K signaling pathway
+hsa:208,N01409,Metals to PI3K signaling pathway
+hsa:208,N01579,CD80/CD86-CTLA4-PP2A signaling pathway
+hsa:208,N01656,GF-RTK-PI3K signaling pathway
+hsa:208,N01657,GPCR-PI3K signaling pathway
+hsa:208,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:208,N01695,BCR-BCAP/CD19-PI3K signaling pathway
+hsa:208,N01696,ICOSLG/ICOS-PI3K signaling pathway
+hsa:208,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:208,N01858,EFNB1-MAPT axon guidance signaling
+hsa:208,N01875,NRG-ERBB2/ERBB3 pathway (P13K signaling)
+hsa:208,N01942,SLIT-ROBO signaling in neuron
+hsa:5660,N00642,Saposin stimulation of GBA and GALC
+hsa:5660,N00643,Loss of saposin stimulation
+hsa:5660,N02036,Prosaposin (PSAP) cleavage into saposins
+hsa:5660,N02039,Saposin C stimulation of GBA
+hsa:5660,N02040,Saposin A stimulation of GALC
+hsa:5660,N02041,Saposin B stimulation of ARSA
+hsa:2152,N01503,"Extrinsic pathway of coagulation cascade, F7 activation"
+hsa:2152,N01510,"Common pathway of coagulation cascade, F10 activation"
+hsa:2335,N00393,ITGA/B-RhoGAP-RhoA signaling pathway
+hsa:2335,N00951,ITGA/B-RHOG-RAC signaling pathway
+hsa:2335,N01068,ITGA/B-FAK-RAC signaling pathway
+hsa:2335,N01070,ITGA/B-FAK-CDC42 signaling pathway
+hsa:2335,N01072,ITGA/B-RhoGEF-RhoA signaling pathway
+hsa:2335,N01080,ITGA/B-TALIN/VINCULIN signaling pathway
+hsa:2335,N01814,Extracellular matrix - Basal lamina
+hsa:2335,N01921,Integrin alpha4beta1 signaling
+hsa:2335,N01973,Integrin alpha4beta7 signaling
+hsa:2335,N01977,Integrin alphaDbeta2 signaling
+hsa:2335,N01979,Integrin alphaIIbbeta3 signaling
+hsa:2335,N01980,Integrin alpha5beta1 signaling
+hsa:2335,N01981,Integrin alpha8beta1 signaling
+hsa:2335,N01982,Integrin alphaVbeta1 signaling
+hsa:2335,N01983,Integrin alphaVbeta3 signaling
+hsa:2335,N01985,Integrin alphaVbeta6 signaling
+hsa:2335,N01986,Integrin alphaVbeta8 signaling
+hsa:1728,N00243,KEAP1-NRF2 signaling pathway
+hsa:1728,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:1728,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:1728,N01413,Metals to KEAP1-NRF2 signalig pathway
+hsa:2946,N00243,KEAP1-NRF2 signaling pathway
+hsa:2946,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:2946,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:2946,N01365,TCDD to Ahr signaling pathway
+hsa:2946,N01386,DCE to DNA adducts
+hsa:387,N00393,ITGA/B-RhoGAP-RhoA signaling pathway
+hsa:387,N00394,HCMV gH to ITGA/B-RhoA signaling pathway
+hsa:387,N00405,CXCR4-GNA12/13-Rho signaling pathway
+hsa:387,N00408,LPAR-GNB/G-Rho signaling pathway
+hsa:387,N01072,ITGA/B-RhoGEF-RhoA signaling pathway
+hsa:387,N01073,Shigella IpgB2 to ITGA/B-RhoGEF-RhoA signaling pathway
+hsa:387,N01074,Shigella IpaA to ITGA/B-RhoGEF-RhoA signaling pathway
+hsa:387,N01075,Shigella IcsB to ITGA/B-RhoGEF-RhoA signaling pathway
+hsa:387,N01089,Escherichia EspM to LPA-GNA12/13-Rho signaling pathway
+hsa:387,N01095,Escherichia Map to LPA-GNA12/13-RhoA signaling pathway
+hsa:387,N01097,LPA-GNA12/13-RhoA signaling pathway
+hsa:387,N01098,Yersinia YopT to ITGA/B-RhoGEF-RhoA signaling pathway
+hsa:387,N01099,Yersinia YopE to RhoA signaling pathway
+hsa:387,N01104,LPA-GNAQ/11-RhoA signaling pathway
+hsa:387,N01130,Salmonella SopB to RhoA signaling pathway
+hsa:387,N01131,Salmonella SopE/E2 to RhoA signaling pathway
+hsa:387,N01285,Microtubule-RHOA signaling pathway
+hsa:387,N01962,ICAM1 interactions
+hsa:387,N02010,"Wnt signaling pathway, PCP pathway"
+hsa:387,N02012,Clasical cadherin-p120-Rho signaling pathway
+hsa:2915,N00984,mGluR5-Ca2+ -apoptotic pathway
+hsa:2915,N00985,Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway
+hsa:2915,N01002,Mutation-caused aberrant Abeta to mGluR5-Ca2+ -apoptotic pathway
+hsa:2915,N01640,GPCR-PLCB-ITPR signaling pathway
+hsa:2915,N01878,Glutamate-GRM-GNAQ/S signaling pathway
+hsa:2915,N01880,GRM1/5-interacting scaffold proteins
+hsa:2915,N01881,GRM1/5-interacting partners
+hsa:2264,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:2264,N00037,FGF-FGFR-PI3K signaling pathway
+hsa:2264,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2264,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:2264,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2264,N01656,GF-RTK-PI3K signaling pathway
+hsa:2264,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:847,N01388,SOD/Cat-mediated ROS neutralization
+hsa:847,N01391,Lead to SOD/Cat-mediated ROS neutralization
+hsa:3567,N00053,Cytokine-Jak-STAT signaling pathway
+hsa:3567,N01804,IL3 family to Jak-STAT signaling pathway
+hsa:1457,N01202,Oligomeric conformation PrPc to anterograde axonal transport
+hsa:1457,N01501,Inactivation of condensin I
+hsa:1457,N01620,Blocking ubiquitination of H2AK119 by CK2
+hsa:3417,N00905,NADP+ reduction
+hsa:3417,N01604,"Citrate cycle, first carbon oxidation"
+hsa:7053,N01924,Loricrin oligomerization with small proline-rich proteins and further stabilization
+hsa:10376,N00976,Retrograde axonal transport
+hsa:10376,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:10376,N00978,Anterograde axonal transport
+hsa:10376,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:10376,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:10376,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:10376,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:10376,N01285,Microtubule-RHOA signaling pathway
+hsa:10376,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:10376,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:10376,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:10376,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:10376,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:10376,N01403,Zn to anterograde axonal transport
+hsa:10376,N01414,Iron to anterograde axonal transport
+hsa:10376,N01535,Kinetochore microtubule attachment
+hsa:10376,N01544,Microtubule nucleation
+hsa:10376,N01547,Kinetochore fiber organization
+hsa:10376,N01549,Branching microtubule nucleation
+hsa:10376,N01553,Promotion of microtubule growth
+hsa:10376,N01561,Microtubule depolymerization
+hsa:10376,N01562,Microtubule depolymerization at the minus ends
+hsa:10376,N01832,NTN1-MAP1B axon guidance signaling
+hsa:10376,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:10376,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:10376,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:10376,N01836,Microtubule plus end regulation network
+hsa:10376,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:10376,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:10376,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:10376,N01840,"Severing of microtubule, KIF2A"
+hsa:10376,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:10376,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:10376,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:10376,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:10376,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:10376,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:10376,N01847,Regulation of dynein-mediated retrograde transport
+hsa:10376,N01857,SEMA3A-DCX axon guidance signaling
+hsa:10376,N01858,EFNB1-MAPT axon guidance signaling
+hsa:10376,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:10376,N01934,L1CAM interactions
+hsa:10376,N01939,Ganglioside-MAG signaling
+hsa:5292,N00053,Cytokine-Jak-STAT signaling pathway
+hsa:5292,N00054,Duplication or mutation-activated FLT3 to Jak-STAT signaling pathway
+hsa:695,N00487,BCR-PLCG-Calcineurin signaling pathway
+hsa:7535,N01106,TCR-PLCG-ITPR signaling pathway
+hsa:5294,N00153,CCR/CXCR-GNB/G-PI3K-RAC signaling pathway
+hsa:5294,N00154,CXCR-GNB/G-PI3K-AKT signaling pathway
+hsa:5294,N01129,Salmonella SopB to ARNO-ARF-ACTB/G signaling pathway
+hsa:5294,N01657,GPCR-PI3K signaling pathway
+hsa:5294,N01746,CCR/CXCR-GNB/G-PI3K signaling pathway
+hsa:6850,N00266,EBV LMP2A to PI3K signaling pathway
+hsa:6850,N00487,BCR-PLCG-Calcineurin signaling pathway
+hsa:6850,N00488,EBV LMP2A to BCR signaling pathway
+hsa:6850,N01695,BCR-BCAP/CD19-PI3K signaling pathway
+hsa:7846,N00976,Retrograde axonal transport
+hsa:7846,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:7846,N00978,Anterograde axonal transport
+hsa:7846,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:7846,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:7846,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:7846,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:7846,N01285,Microtubule-RHOA signaling pathway
+hsa:7846,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:7846,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:7846,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:7846,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:7846,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:7846,N01403,Zn to anterograde axonal transport
+hsa:7846,N01414,Iron to anterograde axonal transport
+hsa:7846,N01535,Kinetochore microtubule attachment
+hsa:7846,N01544,Microtubule nucleation
+hsa:7846,N01547,Kinetochore fiber organization
+hsa:7846,N01549,Branching microtubule nucleation
+hsa:7846,N01553,Promotion of microtubule growth
+hsa:7846,N01561,Microtubule depolymerization
+hsa:7846,N01562,Microtubule depolymerization at the minus ends
+hsa:7846,N01832,NTN1-MAP1B axon guidance signaling
+hsa:7846,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:7846,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:7846,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:7846,N01836,Microtubule plus end regulation network
+hsa:7846,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:7846,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:7846,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:7846,N01840,"Severing of microtubule, KIF2A"
+hsa:7846,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:7846,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:7846,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:7846,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:7846,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:7846,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:7846,N01847,Regulation of dynein-mediated retrograde transport
+hsa:7846,N01857,SEMA3A-DCX axon guidance signaling
+hsa:7846,N01858,EFNB1-MAPT axon guidance signaling
+hsa:7846,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:7846,N01934,L1CAM interactions
+hsa:7846,N01939,Ganglioside-MAG signaling
+hsa:51807,N00976,Retrograde axonal transport
+hsa:51807,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:51807,N00978,Anterograde axonal transport
+hsa:51807,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:51807,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:51807,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:51807,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:51807,N01285,Microtubule-RHOA signaling pathway
+hsa:51807,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:51807,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:51807,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:51807,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:51807,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:51807,N01403,Zn to anterograde axonal transport
+hsa:51807,N01414,Iron to anterograde axonal transport
+hsa:51807,N01535,Kinetochore microtubule attachment
+hsa:51807,N01544,Microtubule nucleation
+hsa:51807,N01547,Kinetochore fiber organization
+hsa:51807,N01549,Branching microtubule nucleation
+hsa:51807,N01553,Promotion of microtubule growth
+hsa:51807,N01561,Microtubule depolymerization
+hsa:51807,N01562,Microtubule depolymerization at the minus ends
+hsa:51807,N01832,NTN1-MAP1B axon guidance signaling
+hsa:51807,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:51807,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:51807,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:51807,N01836,Microtubule plus end regulation network
+hsa:51807,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:51807,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:51807,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:51807,N01840,"Severing of microtubule, KIF2A"
+hsa:51807,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:51807,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:51807,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:51807,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:51807,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:51807,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:51807,N01857,SEMA3A-DCX axon guidance signaling
+hsa:51807,N01858,EFNB1-MAPT axon guidance signaling
+hsa:51807,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:51807,N01934,L1CAM interactions
+hsa:51807,N01939,Ganglioside-MAG signaling
+hsa:10383,N00976,Retrograde axonal transport
+hsa:10383,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:10383,N00978,Anterograde axonal transport
+hsa:10383,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:10383,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:10383,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:10383,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:10383,N01285,Microtubule-RHOA signaling pathway
+hsa:10383,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:10383,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:10383,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:10383,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:10383,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:10383,N01403,Zn to anterograde axonal transport
+hsa:10383,N01414,Iron to anterograde axonal transport
+hsa:10383,N01535,Kinetochore microtubule attachment
+hsa:10383,N01544,Microtubule nucleation
+hsa:10383,N01547,Kinetochore fiber organization
+hsa:10383,N01549,Branching microtubule nucleation
+hsa:10383,N01553,Promotion of microtubule growth
+hsa:10383,N01561,Microtubule depolymerization
+hsa:10383,N01562,Microtubule depolymerization at the minus ends
+hsa:10383,N01832,NTN1-MAP1B axon guidance signaling
+hsa:10383,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:10383,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:10383,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:10383,N01836,Microtubule plus end regulation network
+hsa:10383,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:10383,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:10383,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:10383,N01840,"Severing of microtubule, KIF2A"
+hsa:10383,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:10383,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:10383,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:10383,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:10383,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:10383,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:10383,N01857,SEMA3A-DCX axon guidance signaling
+hsa:10383,N01858,EFNB1-MAPT axon guidance signaling
+hsa:10383,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:10383,N01934,L1CAM interactions
+hsa:10383,N01939,Ganglioside-MAG signaling
+hsa:9261,N00186,IL1-IL1R-p38 signaling pathway
+hsa:9261,N00187,KSHV Kaposin B to p38 signaling pathway
+hsa:9261,N01776,CaMK2-p38-MK2-ALOX5 pathway
+hsa:84790,N00976,Retrograde axonal transport
+hsa:84790,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:84790,N00978,Anterograde axonal transport
+hsa:84790,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:84790,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:84790,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:84790,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:84790,N01285,Microtubule-RHOA signaling pathway
+hsa:84790,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:84790,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:84790,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:84790,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:84790,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:84790,N01403,Zn to anterograde axonal transport
+hsa:84790,N01414,Iron to anterograde axonal transport
+hsa:84790,N01535,Kinetochore microtubule attachment
+hsa:84790,N01544,Microtubule nucleation
+hsa:84790,N01547,Kinetochore fiber organization
+hsa:84790,N01549,Branching microtubule nucleation
+hsa:84790,N01553,Promotion of microtubule growth
+hsa:84790,N01561,Microtubule depolymerization
+hsa:84790,N01562,Microtubule depolymerization at the minus ends
+hsa:84790,N01832,NTN1-MAP1B axon guidance signaling
+hsa:84790,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:84790,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:84790,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:84790,N01836,Microtubule plus end regulation network
+hsa:84790,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:84790,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:84790,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:84790,N01840,"Severing of microtubule, KIF2A"
+hsa:84790,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:84790,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:84790,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:84790,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:84790,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:84790,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:84790,N01847,Regulation of dynein-mediated retrograde transport
+hsa:84790,N01857,SEMA3A-DCX axon guidance signaling
+hsa:84790,N01858,EFNB1-MAPT axon guidance signaling
+hsa:84790,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:84790,N01934,L1CAM interactions
+hsa:84790,N01939,Ganglioside-MAG signaling
+hsa:7277,N00976,Retrograde axonal transport
+hsa:7277,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:7277,N00978,Anterograde axonal transport
+hsa:7277,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:7277,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:7277,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:7277,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:7277,N01159,Mutation-caused aberrant TUBA4A to retrograde axonal transport
+hsa:7277,N01285,Microtubule-RHOA signaling pathway
+hsa:7277,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:7277,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:7277,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:7277,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:7277,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:7277,N01403,Zn to anterograde axonal transport
+hsa:7277,N01414,Iron to anterograde axonal transport
+hsa:7277,N01535,Kinetochore microtubule attachment
+hsa:7277,N01544,Microtubule nucleation
+hsa:7277,N01547,Kinetochore fiber organization
+hsa:7277,N01549,Branching microtubule nucleation
+hsa:7277,N01553,Promotion of microtubule growth
+hsa:7277,N01561,Microtubule depolymerization
+hsa:7277,N01562,Microtubule depolymerization at the minus ends
+hsa:7277,N01832,NTN1-MAP1B axon guidance signaling
+hsa:7277,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:7277,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:7277,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:7277,N01836,Microtubule plus end regulation network
+hsa:7277,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:7277,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:7277,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:7277,N01840,"Severing of microtubule, KIF2A"
+hsa:7277,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:7277,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:7277,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:7277,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:7277,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:7277,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:7277,N01857,SEMA3A-DCX axon guidance signaling
+hsa:7277,N01858,EFNB1-MAPT axon guidance signaling
+hsa:7277,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:7277,N01934,L1CAM interactions
+hsa:7277,N01939,Ganglioside-MAG signaling
+hsa:10382,N00976,Retrograde axonal transport
+hsa:10382,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:10382,N00978,Anterograde axonal transport
+hsa:10382,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:10382,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:10382,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:10382,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:10382,N01285,Microtubule-RHOA signaling pathway
+hsa:10382,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:10382,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:10382,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:10382,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:10382,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:10382,N01403,Zn to anterograde axonal transport
+hsa:10382,N01414,Iron to anterograde axonal transport
+hsa:10382,N01535,Kinetochore microtubule attachment
+hsa:10382,N01544,Microtubule nucleation
+hsa:10382,N01547,Kinetochore fiber organization
+hsa:10382,N01549,Branching microtubule nucleation
+hsa:10382,N01553,Promotion of microtubule growth
+hsa:10382,N01561,Microtubule depolymerization
+hsa:10382,N01562,Microtubule depolymerization at the minus ends
+hsa:10382,N01832,NTN1-MAP1B axon guidance signaling
+hsa:10382,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:10382,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:10382,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:10382,N01836,Microtubule plus end regulation network
+hsa:10382,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:10382,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:10382,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:10382,N01840,"Severing of microtubule, KIF2A"
+hsa:10382,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:10382,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:10382,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:10382,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:10382,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:10382,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:10382,N01857,SEMA3A-DCX axon guidance signaling
+hsa:10382,N01858,EFNB1-MAPT axon guidance signaling
+hsa:10382,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:10382,N01934,L1CAM interactions
+hsa:10382,N01939,Ganglioside-MAG signaling
+hsa:11253,N00820,N-Glycan biosynthesis
+hsa:10381,N00976,Retrograde axonal transport
+hsa:10381,N00977,Mutation-caused aberrant Htt to retrograde axonal transport
+hsa:10381,N00978,Anterograde axonal transport
+hsa:10381,N00979,Mutation-caused aberrant Htt to anterograde axonal transport
+hsa:10381,N01018,Mutation-caused aberrant Abeta to anterograde axonal transport
+hsa:10381,N01055,Mutation-caused aberrant SNCA to anterograde axonal transport
+hsa:10381,N01158,Mutation-caused aberrant DCTN1 to retrograde axonal transport
+hsa:10381,N01285,Microtubule-RHOA signaling pathway
+hsa:10381,N01286,Escherichia EspG to Microtubule-RHOA signaling pathway
+hsa:10381,N01295,Rab7-regulated microtubule minus-end directed transport
+hsa:10381,N01297,Arl8-regulated microtubule plus-end directed transport
+hsa:10381,N01298,Salmonella SifA to microtubule plus-end directed transport
+hsa:10381,N01299,Salmonella PipB2 to microtubule plus-end directed transport
+hsa:10381,N01403,Zn to anterograde axonal transport
+hsa:10381,N01414,Iron to anterograde axonal transport
+hsa:10381,N01535,Kinetochore microtubule attachment
+hsa:10381,N01544,Microtubule nucleation
+hsa:10381,N01547,Kinetochore fiber organization
+hsa:10381,N01549,Branching microtubule nucleation
+hsa:10381,N01553,Promotion of microtubule growth
+hsa:10381,N01561,Microtubule depolymerization
+hsa:10381,N01562,Microtubule depolymerization at the minus ends
+hsa:10381,N01832,NTN1-MAP1B axon guidance signaling
+hsa:10381,N01833,DRAXIN-MAP1B axon guidance signaling
+hsa:10381,N01834,SEMA3A-MAP1B axon guidance signaling
+hsa:10381,N01835,SEMA3-CRMP2/MAPT axon guidance signaling
+hsa:10381,N01836,Microtubule plus end regulation network
+hsa:10381,N01837,"Regulation of neurite extension, NAV1-TRIO"
+hsa:10381,N01838,"Regulation of synaptic plasticity, p140Cap"
+hsa:10381,N01839,"Severing of microtubule, SPAST/KATN"
+hsa:10381,N01840,"Severing of microtubule, KIF2A"
+hsa:10381,N01841,"Anterograde axonal transport, Kinesin-2"
+hsa:10381,N01842,"Anterograde axonal/dendrite transport, Kinesin-3"
+hsa:10381,N01843,"Anterograde dendrite transport, Kinesin-4"
+hsa:10381,N01844,"Anterograde dendrite transport, Kinesin-6"
+hsa:10381,N01845,"Anterograde axonal/dendrite transport, Kinesin-12"
+hsa:10381,N01846,"Retrograde axonal/dendrite transport, Dynein"
+hsa:10381,N01857,SEMA3A-DCX axon guidance signaling
+hsa:10381,N01858,EFNB1-MAPT axon guidance signaling
+hsa:10381,N01859,"Anterograde axonal/dendrite transport, Kinesin-1"
+hsa:10381,N01934,L1CAM interactions
+hsa:10381,N01939,Ganglioside-MAG signaling
+hsa:3055,N01767,CXCR4-GNAI-Src signaling pathway
+hsa:5501,N00572,HSV ICP34.5 to PKR-eIF2alpha signaling pathway
+hsa:5501,N01531,CENPE interaction with NDC80 complex
+hsa:5501,N01536,Dephosphorylation of kinetochore
+hsa:5501,N01598,"Regulation of GF-RTK-RAS-ERK signaling, MRAS-SHOC2-PP1 holophosphatase"
+hsa:5501,N01905,AC-PKA-HCN signaling
+hsa:5501,N02049,Dephosphorylation of p-eIF2alpha
+hsa:4047,N01624,Cholesterol biosynthesis
+hsa:56953,N01418,"Purine salvage pathway, adenine to AMP"
+hsa:56953,N01421,"Purine salvage pathway, hypoxanthine/guanine to IMP/GMP"
+hsa:2582,N00847,Galactose degradation
+hsa:716,N01314,SARS-CoV-2 S to classical pathway of complement cascade
+hsa:716,N01487,"Classical pathway of complement cascade, C4/C2 to C3 convertase formation"
+hsa:716,N01520,"Regulation of fibrinolytic system, C1INH"
+hsa:55869,N01483,Cohesin acetylation
+hsa:7389,N00601,Heme biosynthesis
+hsa:1520,N02036,Prosaposin (PSAP) cleavage into saposins
+hsa:6768,N01930,Processing of profilaggrin to filaggrin and binding to keratin filaments
+hsa:226,N00731,Glycolysis
+hsa:191,N01607,Methionine degradation
+hsa:629,N01493,"Alternative pathway of complement cascade, C3 convertase formation"
+hsa:629,N01494,"Alternative pathway of complement cascade, C3/5 convertase formation"
+hsa:994,N00455,CDC25-Cell cycle G2/M
+hsa:142,N01434,Base excision and strand cleavage by bifunctional glycosylase
+hsa:142,N01435,Base excision and strand cleavage by NEIL glycosylase
+hsa:840,N00098,Intrinsic apoptotic pathway
+hsa:840,N00100,BCL2-overexpression to intrinsic apoptotic pathway
+hsa:840,N00145,Extrinsic apoptotic pathway
+hsa:840,N00146,Crosstalk between extrinsic and intrinsic apoptotic pathways
+hsa:840,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:840,N00984,mGluR5-Ca2+ -apoptotic pathway
+hsa:840,N00985,Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway
+hsa:840,N01007,Mutation-caused aberrant PSEN to mGluR5-Ca2+ -apoptotic pathway
+hsa:840,N01747,Find-me signal (nucleotide)
+hsa:840,N01750,Find-me signal (S1P)
+hsa:1675,N01493,"Alternative pathway of complement cascade, C3 convertase formation"
+hsa:1675,N01494,"Alternative pathway of complement cascade, C3/5 convertase formation"
+hsa:7048,N00063,TGF-beta signaling pathway
+hsa:7048,N00064,Mutation-inactivated TGFBR2 to TGF-beta signaling pathway
+hsa:7048,N00065,Mutation-inactivated SMAD2 to TGF-beta signaling pathway
+hsa:7048,N00134,EWSR1-FLI1 fusion to transcriptional repression
+hsa:7048,N00241,TGFBR2-reduced expression to TGF-beta signaling pathway
+hsa:7048,N00256,TGFBR1-reduced expression to TGF-beta signaling pathway
+hsa:7048,N00531,HBV HBx to TGF-beta signaling pathway
+hsa:1515,N02036,Prosaposin (PSAP) cleavage into saposins
+hsa:1022,N01425,Global genome NER
+hsa:1022,N01430,Transcription-coupled NER
+hsa:2639,N01687,Lysine degradation 3
+hsa:7296,N00243,KEAP1-NRF2 signaling pathway
+hsa:7296,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:7296,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:6334,N01848,Membrane-associated periodic skeleton (MPS)
+hsa:6334,N01935,NFASC interactions
+hsa:1312,N01918,Dopamine metabolism in astrocyte
+hsa:1312,N01919,Dopamine/Adrenaline metabolism in presynaptic neuron
+hsa:1588,N01540,Estrogen biosynthesis
+hsa:715,N01314,SARS-CoV-2 S to classical pathway of complement cascade
+hsa:715,N01487,"Classical pathway of complement cascade, C4/C2 to C3 convertase formation"
+hsa:715,N01520,"Regulation of fibrinolytic system, C1INH"
+hsa:2260,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:2260,N00020,Amplified FGFR to RAS-ERK signaling pathway
+hsa:2260,N00037,FGF-FGFR-PI3K signaling pathway
+hsa:2260,N00038,Amplified FGFR to PI3K signaling pathway
+hsa:2260,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2260,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:2260,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2260,N01656,GF-RTK-PI3K signaling pathway
+hsa:2260,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:2260,N01823,FGF23-NCC/NPT signaling pathway
+hsa:2261,N00011,Mutation-activated FGFR3 to RAS-ERK signaling pathway
+hsa:2261,N00019,FGF-FGFR-RAS-ERK signaling pathway
+hsa:2261,N00037,FGF-FGFR-PI3K signaling pathway
+hsa:2261,N01592,GF-RTK-RAS-ERK signaling pathway
+hsa:2261,N01599,"Regulation of GF-RTK-RAS-ERK signaling, ubiquitination of RTK by CBL"
+hsa:2261,N01641,RTK-PLCG-ITPR signaling pathway
+hsa:2261,N01656,GF-RTK-PI3K signaling pathway
+hsa:2261,N01658,GF-RTK-RAS-PI3K signaling pathway
+hsa:1514,N02036,Prosaposin (PSAP) cleavage into saposins
+hsa:5834,N00718,Glycogen degradation
+hsa:1644,N01530,Dopamine metabolism
+hsa:1644,N01551,Serotonin metabolism
+hsa:2939,N00243,KEAP1-NRF2 signaling pathway
+hsa:2939,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:2939,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:2939,N01365,TCDD to Ahr signaling pathway
+hsa:2939,N01386,DCE to DNA adducts
+hsa:4129,N01039,Mutation-inactivated PRKN to DOPAL generation
+hsa:4129,N01530,Dopamine metabolism
+hsa:4129,N01550,Adrenaline metabolism
+hsa:4129,N01551,Serotonin metabolism
+hsa:4129,N01918,Dopamine metabolism in astrocyte
+hsa:4129,N01919,Dopamine/Adrenaline metabolism in presynaptic neuron
+hsa:4128,N01039,Mutation-inactivated PRKN to DOPAL generation
+hsa:4128,N01530,Dopamine metabolism
+hsa:4128,N01550,Adrenaline metabolism
+hsa:4128,N01551,Serotonin metabolism
+hsa:4128,N01918,Dopamine metabolism in astrocyte
+hsa:4128,N01919,Dopamine/Adrenaline metabolism in presynaptic neuron
+hsa:7498,N00888,Hypoxanthine oxidation
+hsa:7498,N01420,APRT deficiency in adenine metabolism
+hsa:7498,N01423,HPRT1 deficiency in hypoxanthine metabolism
+hsa:7498,N01424,HPRT1 deficiency in guanine metabolism
+hsa:1025,N00119,MLL-AF4 fusion to transcriptional activation
+hsa:112398,N01871,Hydroxylation of HIF
+hsa:1021,N00066,MDM2-p21-Cell cycle G1/S
+hsa:1021,N00067,Deleted p14(ARF) to p21-cell cycle G1/S
+hsa:1021,N00068,Amplified MDM2 to p21-cell cycle G1/S
+hsa:1021,N00069,p16-Cell cycle G1/S
+hsa:1021,N00070,Mutation-inactivated p16(INK4a) to p16-cell cycle G1/S
+hsa:1021,N00071,Deleted p16(INK4a) to p16-cell cycle G1/S
+hsa:1021,N00076,Mutation-inactivated p14(ARF) to p21-cell cycle G1/S
+hsa:1021,N00088,Amplified MYC to p15-cell cycle G1/S
+hsa:1021,N00089,Amplified MYC to cell cycle G1/S
+hsa:1021,N00090,p15-Cell cycle G1/S
+hsa:1021,N00168,KSHV vCyclin to cell cycle G1/S
+hsa:1021,N00347,p300-p21-Cell cycle G1/S
+hsa:1021,N00483,EBV EBNA3C to cell cycle G1/S
+hsa:1019,N00066,MDM2-p21-Cell cycle G1/S
+hsa:1019,N00067,Deleted p14(ARF) to p21-cell cycle G1/S
+hsa:1019,N00068,Amplified MDM2 to p21-cell cycle G1/S
+hsa:1019,N00069,p16-Cell cycle G1/S
+hsa:1019,N00070,Mutation-inactivated p16(INK4a) to p16-cell cycle G1/S
+hsa:1019,N00071,Deleted p16(INK4a) to p16-cell cycle G1/S
+hsa:1019,N00072,Amplified CDK4 to cell cycle G1/S
+hsa:1019,N00073,Mutation-activated CDK4 to cell cycle G1/S
+hsa:1019,N00076,Mutation-inactivated p14(ARF) to p21-cell cycle G1/S
+hsa:1019,N00088,Amplified MYC to p15-cell cycle G1/S
+hsa:1019,N00089,Amplified MYC to cell cycle G1/S
+hsa:1019,N00090,p15-Cell cycle G1/S
+hsa:1019,N00168,KSHV vCyclin to cell cycle G1/S
+hsa:1019,N00275,Amplified CCND1 to cell cycle G1/S
+hsa:1019,N00347,p300-p21-Cell cycle G1/S
+hsa:1019,N00483,EBV EBNA3C to cell cycle G1/S
+hsa:1019,N00529,HCV core to RXRA/PPARA-mediated transcription
+hsa:1019,N00530,HCV core to RXRA/LXRA-mediated transcription
+hsa:54583,N01871,Hydroxylation of HIF
+hsa:3762,N00303,Mutation-activated KCNJ5 to angiotensin-aldosterone signaling pathway
+hsa:3762,N01889,Gbeta/gamma-KCNJ signaling
+hsa:112399,N01871,Hydroxylation of HIF
+hsa:774,N00967,VGCC-Ca2+ -apoptotic pathway
+hsa:774,N00986,Mutation-caused aberrant Htt to VGCC-Ca2+ -apoptotic pathway
+hsa:774,N01201,Scrapie conformation PrPSc to VGCC-Ca2+ -apoptotic pathway
+hsa:774,N01637,"Ca2+ entry, Voltage-gated Ca2+ channel"
+hsa:774,N01649,Ca2+/CAM-VGCC/RYR signaling pathway
+hsa:774,N01899,Gbeta/gamma-CACNA signaling
+hsa:2752,N01892,GABA metabolism and transport in glia
+hsa:23743,N01630,"Remethylation, Hcy to Met"
+hsa:51172,N02014,M6P modification of lysosomal enzyme (LE) and binding to M6P-specific receptors
+hsa:4259,N00243,KEAP1-NRF2 signaling pathway
+hsa:4259,N00244,Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+hsa:4259,N00245,Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+hsa:4259,N01365,TCDD to Ahr signaling pathway
+hsa:4259,N01386,DCE to DNA adducts

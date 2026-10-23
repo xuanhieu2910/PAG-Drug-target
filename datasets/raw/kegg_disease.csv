@@ -1,0 +1,1083 @@
+kegg_hsa,disease_id,disease_name
+hsa:2162,H00945,Factor XIII deficiency
+hsa:2162,H01730,Myocardial infarction
+hsa:4843,H00017,Esophageal cancer
+hsa:4843,H00361,Malaria
+hsa:5836,H00069,Glycogen storage disease
+hsa:5836,H01760,Hepatic glycogen storage disease
+hsa:5836,H01944,Glycogen storage disease type VI
+hsa:128,H02529,Bone marrow failure syndrome
+hsa:8911,H02858,Neurodevelopmental disorder with speech impairment and with or without seizures
+hsa:25,H00001,B-cell acute lymphoblastic leukemia
+hsa:25,H00004,Chronic myeloid leukemia
+hsa:25,H02982,Congenital heart defects and skeletal malformations syndrome
+hsa:2324,H00535,Lymphatic malformation
+hsa:2324,H01471,Lymphangioma
+hsa:2324,H01482,Infantile hemangioma
+hsa:2324,H02199,"Congenital heart defects, multiple type"
+hsa:6338,H00242,Liddle syndrome
+hsa:6338,H00243,Renal tubular acidosis type 4
+hsa:6338,H00892,Bronchiectasis with or without elevated sweat chloride
+hsa:6338,H01633,High blood pressure
+hsa:6338,H02310,Renal tubular acidosis
+hsa:81027,H01740,Macrothrombocytopenia
+hsa:10667,H00266,Hereditary spastic paraplegia
+hsa:10667,H00891,Combined oxidative phosphorylation deficiency
+hsa:1717,H00161,Smith-Lemli-Opitz syndrome
+hsa:3643,H00719,Leprechaunism
+hsa:3643,H00942,Rabson-Mendenhall syndrome
+hsa:3643,H01228,Insulin-resistant diabetes mellitus with acanthosis nigricans
+hsa:3643,H01267,Familial hyperinsulinemic hypoglycemia
+hsa:5894,H00294,Dilated cardiomyopathy
+hsa:5894,H00523,Noonan syndrome and related disorders
+hsa:5894,H01738,Noonan syndrome
+hsa:5894,H01984,Leopard syndrome
+hsa:4728,H00473,Mitochondrial complex I deficiency
+hsa:7086,H02439,"Short stature, developmental delay, congenital heart defect"
+hsa:8566,H00264,Charcot-Marie-Tooth disease
+hsa:1910,H00054,Nasopharyngeal cancer
+hsa:1910,H00759,Waardenburg syndrome
+hsa:1910,H00823,ABCD syndrome
+hsa:1910,H00910,Hirschsprung disease
+hsa:1131,H02129,Prune belly syndrome
+hsa:5313,H01096,Pyruvate kinase deficiency
+hsa:5313,H02907,Elevated adenosine triphosphate of erythrocytes
+hsa:5313,H02999,Congenital nonspherocytic hemolytic anemia
+hsa:57468,H00606,Early infantile epileptic encephalopathy
+hsa:57468,H00808,Idiopathic generalized epilepsies
+hsa:57468,H01815,Malignant migrating partial seizures in infancy
+hsa:2147,H00223,Inherited thrombophilia
+hsa:2147,H01254,Congenital prothrombin deficiency
+hsa:210,H00202,Hepatic porphyria
+hsa:210,H01763,Porphyria
+hsa:4318,H00025,Penile cancer
+hsa:4318,H00479,Metaphyseal dysplasias
+hsa:3284,H00216,Congenital adrenal hyperplasia
+hsa:185,H00575,Renal tubular dysgenesis
+hsa:185,H01633,High blood pressure
+hsa:38,H01076,Beta-ketothiolase deficiency
+hsa:190,H00607,"46,XY gonadal dysgenesis"
+hsa:190,H01598,Addison disease
+hsa:190,H01772,"Adrenal hypoplasia, congenital"
+hsa:3251,H00194,Lesch-Nyhan syndrome
+hsa:121278,H01646,Major depressive disorder
+hsa:121278,H01895,Attention deficit hyperactivity disorder (ADHD)
+hsa:4705,H00473,Mitochondrial complex I deficiency
+hsa:3034,H00171,Histidinemia
+hsa:3757,H00720,Long QT syndrome
+hsa:3757,H00725,Short QT syndrome
+hsa:4726,H00473,Mitochondrial complex I deficiency
+hsa:6584,H00525,Disorders of mitochondrial fatty-acid oxidation
+hsa:6584,H01589,Systemic primary carnitine deficiency
+hsa:6584,H02596,Disorders of carnitine transport and the carnitine cycle
+hsa:64805,H01235,Bleeding disorder platelet-type
+hsa:5740,H01633,High blood pressure
+hsa:6571,H02676,Infantile-onset parkinsonism-dystonia
+hsa:2099,H00031,Breast cancer
+hsa:2099,H01730,Myocardial infarction
+hsa:2099,H02061,Estrogen resistance syndrome
+hsa:3039,H00228,Thalassemia
+hsa:3039,H00235,Methemoglobinemia
+hsa:3039,H00236,Congenital polycythemia
+hsa:3039,H02868,Heinz body anemia
+hsa:3040,H00228,Thalassemia
+hsa:3040,H00236,Congenital polycythemia
+hsa:3040,H02868,Heinz body anemia
+hsa:3291,H00259,Apparent mineralocorticoid excess syndrome
+hsa:3291,H01633,High blood pressure
+hsa:367,H00024,Prostate cancer
+hsa:367,H00062,Spinal and bulbar muscular atrophy (SBMA)
+hsa:367,H00455,Spinal muscular atrophy
+hsa:367,H02175,Hypospadias
+hsa:367,H02177,Androgen insensitivity syndrome
+hsa:367,H02530,Hereditary prostate cancer
+hsa:217,H01071,Acute alcohol sensitivity
+hsa:217,H01611,Alcohol dependence
+hsa:3973,H00608,"46,XY disorder of sex development due to testosterone secretion defect"
+hsa:3973,H00937,Precocious puberty
+hsa:3973,H02019,Familial male-limited precocious puberty
+hsa:4729,H00473,Mitochondrial complex I deficiency
+hsa:1621,H01005,Dopamine beta-hydroxylase deficiency
+hsa:1621,H02751,Orthostatic hypotension
+hsa:6323,H00606,Early infantile epileptic encephalopathy
+hsa:6323,H00775,Hemiplegic migraine
+hsa:6323,H00783,Febrile seizures
+hsa:6323,H01815,Malignant migrating partial seizures in infancy
+hsa:6323,H01818,Dravet syndrome
+hsa:6323,H02564,Generalized epilepsy with febrile seizures plus
+hsa:203068,H01579,Congenital symmetric circumferential skin creases
+hsa:203068,H01881,Complex cortical dysplasia with other brain malformations
+hsa:1816,H01895,Attention deficit hyperactivity disorder (ADHD)
+hsa:2322,H00003,Acute myeloid leukemia
+hsa:2322,H02411,Chronic myelomonocytic leukemia
+hsa:2322,H02412,Atypical chronic myeloid leukemia
+hsa:7915,H00835,Succinic semialdehyde dehydrogenase deficiency
+hsa:51284,H00080,Systemic lupus erythematosus
+hsa:51284,H00096,Defects of toll-like receptor signaling
+hsa:10280,H00058,Amyotrophic lateral sclerosis (ALS)
+hsa:10280,H00856,Distal hereditary motor neuropathies
+hsa:27010,H01567,Thiamine pyrophosphokinase deficiency
+hsa:27010,H02832,Thiamine metabolism dysfunction syndrome
+hsa:3141,H00180,Holocarboxylase synthetase deficiency
+hsa:1727,H00235,Methemoglobinemia
+hsa:26227,H01079,3-Phosphoglycerate dehydrogenase (3-PGDH) deficiency
+hsa:26227,H02117,Neu-Laxova syndrome
+hsa:4967,H01022,Diseases of the tricarboxylic acid cycle
+hsa:4967,H02006,Alpha-ketoglutarate dehydrogenase complex deficiency
+hsa:7422,H01456,Diabetic nephropathy
+hsa:7422,H01457,Diabetic retinopathy
+hsa:7422,H01459,Diabetic neuropathy
+hsa:7422,H01529,Avascular necrosis of femoral head
+hsa:7422,H02559,Microvascular complications of diabetes
+hsa:2729,H00668,Anemia due to disorders of glutathione metabolism
+hsa:2729,H01730,Myocardial infarction
+hsa:2729,H02999,Congenital nonspherocytic hemolytic anemia
+hsa:4697,H01368,Cytochrome c oxidase (COX) deficiency
+hsa:153,H02849,Familial natural short sleep
+hsa:4718,H00473,Mitochondrial complex I deficiency
+hsa:6389,H00294,Dilated cardiomyopathy
+hsa:6389,H01022,Diseases of the tricarboxylic acid cycle
+hsa:6389,H02005,Mitochondrial complex II deficiency
+hsa:6389,H02538,Pheochromocytoma/paraganglioma syndrome
+hsa:6336,H01391,Familial episodic pain syndrome
+hsa:1376,H00525,Disorders of mitochondrial fatty-acid oxidation
+hsa:1376,H01400,Secondary hyperammonemia
+hsa:1376,H01982,Carnitine palmitoyltransferase II deficiency
+hsa:1376,H02536,Infection-induced acute encephalopathy
+hsa:1376,H02596,Disorders of carnitine transport and the carnitine cycle
+hsa:55163,H01124,Pyridoxamine-5'-phosphate oxidase (PNPO) deficiency
+hsa:2058,H00679,Hypomyelinating leukodystrophy
+hsa:6337,H00242,Liddle syndrome
+hsa:6337,H00243,Renal tubular acidosis type 4
+hsa:6337,H00892,Bronchiectasis with or without elevated sweat chloride
+hsa:6337,H01633,High blood pressure
+hsa:6337,H02310,Renal tubular acidosis
+hsa:4722,H00473,Mitochondrial complex I deficiency
+hsa:11280,H00265,Hereditary sensory and autonomic neuropathy
+hsa:11280,H01391,Familial episodic pain syndrome
+hsa:4537,H00473,Mitochondrial complex I deficiency
+hsa:4537,H01355,Kearns-Sayre syndrome
+hsa:4537,H01365,Leber hereditary optic neuropathy and dystonia
+hsa:6331,H00294,Dilated cardiomyopathy
+hsa:6331,H00720,Long QT syndrome
+hsa:6331,H00728,Brugada syndrome
+hsa:6331,H00729,Sick sinus syndrome
+hsa:6331,H00730,Familial idiopathic ventricular fibrillation
+hsa:6331,H00731,Atrial fibrillation
+hsa:6331,H01263,Progressive cardiac conduction defect (PCCD)
+hsa:6331,H02964,Sudden infant death syndrome
+hsa:3735,H00264,Charcot-Marie-Tooth disease
+hsa:3735,H00605,"Deafness, autosomal recessive"
+hsa:3735,H02687,Congenital deafness and adult-onset progressive leukoencephalopathy
+hsa:3978,H00094,Immunodeficiency associated with DNA repair defects
+hsa:8883,H02715,Neurodevelopmental disorder with defects of ubiquitin-proteasome system
+hsa:2798,H00255,Hypogonadotropic hypogonadism
+hsa:5159,H00042,Glioma
+hsa:5159,H01574,Familial idiopathic basal ganglia calcification
+hsa:5159,H01910,Infantile myofibromatosis
+hsa:5159,H02870,"Premature aging syndrome, Penttinen type"
+hsa:5159,H02872,Kosaki overgrowth syndrome
+hsa:5159,H02928,Ocular pterygium-digital keloid dysplasia syndrome
+hsa:5915,H00014,Non-small cell lung cancer
+hsa:5915,H00018,Gastric cancer
+hsa:5915,H02170,"Microphthalmia, syndromic"
+hsa:6833,H00409,Type 2 diabetes mellitus
+hsa:6833,H00410,Maturity onset diabetes of the young (MODY)
+hsa:6833,H00512,Permanent neonatal diabetes mellitus
+hsa:6833,H00513,Transient neonatal diabetes mellitus
+hsa:6833,H01267,Familial hyperinsulinemic hypoglycemia
+hsa:866,H01163,Corticosteroid-binding globulin (CBG) deficiency
+hsa:5340,H01006,Hereditary angioedema
+hsa:5340,H01206,Plasminogen deficiency
+hsa:4700,H00473,Mitochondrial complex I deficiency
+hsa:5468,H00032,Thyroid cancer
+hsa:5468,H00409,Type 2 diabetes mellitus
+hsa:5468,H00420,Familial partial lipodystrophy
+hsa:5468,H02106,Genetic obesity
+hsa:2159,H02257,Factor X deficiency
+hsa:2550,H02890,Neurodevelopmental disorder with language delay and variable cognitive abnormalities
+hsa:440,H01386,Asparagine synthetase deficiency
+hsa:4835,H00031,Breast cancer
+hsa:1636,H00083,Allograft rejection
+hsa:1636,H00575,Renal tubular dysgenesis
+hsa:1636,H01456,Diabetic nephropathy
+hsa:1636,H01457,Diabetic retinopathy
+hsa:1636,H02559,Microvascular complications of diabetes
+hsa:7407,H02709,Neurodevelopmental disorder with aminoacyl-tRNA synthetase defect
+hsa:4694,H00473,Mitochondrial complex I deficiency
+hsa:486,H01210,Hypomagnesemia
+hsa:8565,H00264,Charcot-Marie-Tooth disease
+hsa:8565,H02391,"Infantile-onset multisystem neurologic, endocrine, and pancreatic disease"
+hsa:4547,H00160,Abetalipoproteinemia
+hsa:6897,H00866,Trichothiodystrophy
+hsa:5054,H01106,Plasminogen activator inhibitor type 1 deficiency
+hsa:5054,H01529,Avascular necrosis of femoral head
+hsa:8659,H00190,Hyperprolinemia
+hsa:4716,H00473,Mitochondrial complex I deficiency
+hsa:596,H00005,Chronic lymphocytic leukemia
+hsa:596,H00013,Small cell lung cancer
+hsa:596,H00028,Choriocarcinoma
+hsa:596,H00030,Cervical cancer
+hsa:596,H00041,Kaposi sarcoma
+hsa:596,H00054,Nasopharyngeal cancer
+hsa:596,H01613,Follicular lymphoma
+hsa:596,H02434,"Diffuse large B-cell lymphoma, not otherwise specified"
+hsa:240,H00079,Asthma
+hsa:6529,H02361,Myoclonic-atonic epilepsy
+hsa:4860,H00092,T-B-Severe combined immunodeficiency
+hsa:7299,H00168,Oculocutaneous albinism
+hsa:18,H01257,GABA-transaminase deficiency
+hsa:2683,H00119,Congenital disorders of glycosylation type II
+hsa:22978,H00266,Hereditary spastic paraplegia
+hsa:5743,H00017,Esophageal cancer
+hsa:5743,H00025,Penile cancer
+hsa:5743,H00046,Cholangiocarcinoma
+hsa:4846,H01396,Moyamoya disease
+hsa:4846,H01529,Avascular necrosis of femoral head
+hsa:4846,H01633,High blood pressure
+hsa:90,H00430,Fibrodysplasia ossificans progressiva
+hsa:4311,H00063,Spinocerebellar ataxia (SCA)
+hsa:4311,H00264,Charcot-Marie-Tooth disease
+hsa:107,H00605,"Deafness, autosomal recessive"
+hsa:5972,H00541,Autosomal dominant tubulointerstitial kidney disease
+hsa:5972,H00575,Renal tubular dysgenesis
+hsa:5972,H02011,Familial juvenile hyperuricemic nephropathy
+hsa:4539,H00068,Leber hereditary optic atrophy
+hsa:4539,H00473,Mitochondrial complex I deficiency
+hsa:4539,H01355,Kearns-Sayre syndrome
+hsa:462,H00223,Inherited thrombophilia
+hsa:462,H01381,Antithrombin III deficiency
+hsa:462,H01723,Deep vein thrombosis
+hsa:6558,H00604,"Deafness, autosomal dominant"
+hsa:6558,H02933,Delpire-McNeill syndrome
+hsa:6558,H02934,Kilquist syndrome
+hsa:4709,H00473,Mitochondrial complex I deficiency
+hsa:383,H00186,Hyperargininemia
+hsa:383,H01398,Primary hyperammonemia (Urea cycle disorders)
+hsa:150,H00420,Familial partial lipodystrophy
+hsa:3350,H02773,Menstrual cycle-dependent periodic fever
+hsa:554,H00252,Congenital nephrogenic diabetes insipidus
+hsa:554,H01294,Nephrogenic syndrome of inappropriate antidiuresis
+hsa:554,H01682,Syndrome of inappropriate antidiuretic hormone secretion
+hsa:554,H01683,Disorders of antidiuretic hormone (ADH) secretion
+hsa:16,H00264,Charcot-Marie-Tooth disease
+hsa:16,H00606,Early infantile epileptic encephalopathy
+hsa:16,H00866,Trichothiodystrophy
+hsa:16,H01807,Hereditary diffuse leukoencephalopathy with spheroids
+hsa:5729,H00079,Asthma
+hsa:6652,H00856,Distal hereditary motor neuropathies
+hsa:6652,H02567,Sorbitol dehydrogenase deficiency with peripheral neuropathy
+hsa:4704,H00473,Mitochondrial complex I deficiency
+hsa:5009,H00187,Ornithine transcarbamylase deficiency
+hsa:5009,H01398,Primary hyperammonemia (Urea cycle disorders)
+hsa:374291,H00473,Mitochondrial complex I deficiency
+hsa:5950,H01027,Microphthalmia
+hsa:5950,H02291,"Retinal dystrophy, iris coloboma, and comedogenic acne syndrome"
+hsa:7068,H00249,Thyroid hormone resistance syndrome
+hsa:3028,H00925,2-Methyl-3-hydroxybutyryl-CoA dehydrogenase (MHBD) deficiency
+hsa:760,H00241,Osteopetrosis with renal tubular acidosis
+hsa:760,H00436,Osteopetrosis
+hsa:760,H02310,Renal tubular acidosis
+hsa:875,H00183,Homocystinuria
+hsa:7298,H00507,Dyskeratosis congenita
+hsa:6240,H01395,Autosomal recessive progressive external ophthalmoplegia
+hsa:2249,H02157,Short-rib thoracic dysplasia
+hsa:4544,H00409,Type 2 diabetes mellitus
+hsa:3290,H01111,Cortisone reductase deficiency
+hsa:1719,H01197,Dihydrofolate reductase deficiency
+hsa:2155,H01730,Myocardial infarction
+hsa:2155,H02256,Factor VII deficiency
+hsa:4512,H00068,Leber hereditary optic atrophy
+hsa:4512,H01368,Cytochrome c oxidase (COX) deficiency
+hsa:3293,H00608,"46,XY disorder of sex development due to testosterone secretion defect"
+hsa:7276,H00798,Familial carpal tunnel syndrome
+hsa:7276,H00845,Familial amyloidosis
+hsa:7276,H02893,Euthyroid hyperthyroxinemia
+hsa:1586,H00216,Congenital adrenal hyperplasia
+hsa:4541,H00068,Leber hereditary optic atrophy
+hsa:4541,H00473,Mitochondrial complex I deficiency
+hsa:4541,H01347,MELAS syndrome
+hsa:4541,H01355,Kearns-Sayre syndrome
+hsa:4541,H01365,Leber hereditary optic neuropathy and dystonia
+hsa:773,H00063,Spinocerebellar ataxia (SCA)
+hsa:773,H00606,Early infantile epileptic encephalopathy
+hsa:773,H00749,Episodic ataxias
+hsa:773,H00775,Hemiplegic migraine
+hsa:773,H01808,Hemiconvulsion-hemiplegia-epilepsy syndrome
+hsa:238,H00014,Non-small cell lung cancer
+hsa:238,H00043,Neuroblastoma
+hsa:238,H01601,Anaplastic large-cell lymphoma
+hsa:238,H01892,Peripheral T cell lymphoma
+hsa:2158,H00219,Hemophilia
+hsa:2158,H00223,Inherited thrombophilia
+hsa:2158,H01205,Coumarin resistance
+hsa:2902,H00606,Early infantile epileptic encephalopathy
+hsa:2902,H00773,Autosomal dominant intellectual developmental disorder
+hsa:2902,H02705,Neurodevelopmental disorder with glutamatergic synapse dysfunction
+hsa:2902,H02865,Neurodevelopmental disorder with or without hyperkinetic movements and seizures
+hsa:4702,H00473,Mitochondrial complex I deficiency
+hsa:5732,H01191,Asthma with nasal polyps and aspirin intolerance
+hsa:3791,H01482,Infantile hemangioma
+hsa:2571,H00606,Early infantile epileptic encephalopathy
+hsa:5624,H00223,Inherited thrombophilia
+hsa:5624,H01723,Deep vein thrombosis
+hsa:2555,H00606,Early infantile epileptic encephalopathy
+hsa:2555,H01611,Alcohol dependence
+hsa:1723,H01376,Acrofacial dysostosis
+hsa:2492,H00599,Ovarian dysgenesis
+hsa:2492,H01039,Ovarian hyperstimulation syndrome
+hsa:1815,H01895,Attention deficit hyperactivity disorder (ADHD)
+hsa:8942,H01583,Hydroxykynureninuria
+hsa:8942,H02087,"Vertebral, cardiac, renal, and limb defects syndrome"
+hsa:1991,H00100,Neutropenic disorders
+hsa:2906,H00606,Early infantile epileptic encephalopathy
+hsa:125,H01611,Alcohol dependence
+hsa:2677,H00560,Pseudoxanthoma elasticum
+hsa:2677,H00995,Combined deficiency of vitamin K-dependent clotting factors
+hsa:2677,H01205,Coumarin resistance
+hsa:4953,H02919,Bachmann-Bupp syndrome
+hsa:1374,H00525,Disorders of mitochondrial fatty-acid oxidation
+hsa:1374,H01981,Carnitine palmitoyltransferase I deficiency
+hsa:1374,H02596,Disorders of carnitine transport and the carnitine cycle
+hsa:3295,H00407,Peroxisomal beta-oxidation enzyme deficiency
+hsa:3295,H02095,Perrault syndrome
+hsa:3295,H02098,D-bifunctional protein deficiency
+hsa:3783,H00232,Hereditary stomatocytosis
+hsa:3783,H01978,Dehydrated hereditary stomatocytosis
+hsa:2904,H00606,Early infantile epileptic encephalopathy
+hsa:2904,H00773,Autosomal dominant intellectual developmental disorder
+hsa:4942,H00189,Ornithinaemia
+hsa:4942,H01400,Secondary hyperammonemia
+hsa:3939,H00069,Glycogen storage disease
+hsa:3939,H01762,Muscle glycogen storage disease
+hsa:3939,H01946,Glycogen storage disease type XI
+hsa:207,H00020,Colorectal cancer
+hsa:207,H00027,Ovarian cancer
+hsa:207,H01222,Cowden syndrome
+hsa:207,H01556,Meningioma
+hsa:207,H01649,Schizophrenia
+hsa:207,H02119,Proteus syndrome
+hsa:775,H00720,Long QT syndrome
+hsa:775,H00728,Brugada syndrome
+hsa:775,H02856,"Neurodevelopmental disorder with hypotonia, language delay, and skeletal defects with or without seizures"
+hsa:2741,H00769,Hyperekplexia
+hsa:369,H02425,Erdheim-Chester disease
+hsa:5139,H00482,Brachydactyly
+hsa:1109,H00607,"46,XY gonadal dysgenesis"
+hsa:3674,H00226,Glanzmann thrombasthenia
+hsa:3674,H01235,Bleeding disorder platelet-type
+hsa:3674,H01740,Macrothrombocytopenia
+hsa:3674,H02979,Fetomaternal alloimmune thrombocytopenia
+hsa:10558,H00058,Amyotrophic lateral sclerosis (ALS)
+hsa:10558,H00265,Hereditary sensory and autonomic neuropathy
+hsa:1594,H00408,Type 1 diabetes mellitus
+hsa:1594,H01143,Vitamin D-dependent rickets
+hsa:3356,H01450,Obsessive-compulsive disorder
+hsa:3356,H01611,Alcohol dependence
+hsa:3356,H01646,Major depressive disorder
+hsa:3356,H01649,Schizophrenia
+hsa:3815,H00003,Acute myeloid leukemia
+hsa:3815,H00023,Testicular cancer
+hsa:3815,H00031,Breast cancer
+hsa:3815,H00170,Piebaldism
+hsa:3815,H01511,Mast-cell leukemia
+hsa:3815,H01591,Gastrotintestinal stromal tumor
+hsa:3815,H02896,Cutaneous mastocytosis
+hsa:3242,H00165,Tyrosinemia
+hsa:3242,H02936,Hawkinsinuria
+hsa:5167,H00214,Hypophosphatemic rickets
+hsa:5167,H00409,Type 2 diabetes mellitus
+hsa:5167,H00431,Ossification of the posterior longitudinal ligament of spine
+hsa:5167,H01002,Generalized arterial calcification of infancy
+hsa:5167,H01394,Cole disease
+hsa:5167,H02106,Genetic obesity
+hsa:5167,H02139,Autosomal recessive hypophosphatemic rickets
+hsa:94,H00533,Hereditary hemorrhagic telangiectasia
+hsa:94,H01621,Pulmonary arterial hypertension
+hsa:126,H01611,Alcohol dependence
+hsa:10060,H00294,Dilated cardiomyopathy
+hsa:10060,H00731,Atrial fibrillation
+hsa:10060,H02876,Cantu syndrome
+hsa:10060,H02924,Intellectual disability and myopathy syndrome
+hsa:2558,H00606,Early infantile epileptic encephalopathy
+hsa:8913,H00063,Spinocerebellar ataxia (SCA)
+hsa:4723,H00473,Mitochondrial complex I deficiency
+hsa:6530,H01031,Orthostatic intolerance
+hsa:3753,H00720,Long QT syndrome
+hsa:3753,H02091,Jervell and Lange-Nielsen syndrome
+hsa:3376,H02437,"Growth retardation, impaired intellectual development, hypotonia, and hepatopathy"
+hsa:4719,H00473,Mitochondrial complex I deficiency
+hsa:1384,H00833,Neurodegeneration with brain iron accumulation
+hsa:6340,H00242,Liddle syndrome
+hsa:6340,H00243,Renal tubular acidosis type 4
+hsa:6340,H00892,Bronchiectasis with or without elevated sweat chloride
+hsa:6340,H01633,High blood pressure
+hsa:6340,H02310,Renal tubular acidosis
+hsa:4724,H00473,Mitochondrial complex I deficiency
+hsa:4535,H00068,Leber hereditary optic atrophy
+hsa:4535,H00473,Mitochondrial complex I deficiency
+hsa:4535,H01347,MELAS syndrome
+hsa:4535,H01365,Leber hereditary optic neuropathy and dystonia
+hsa:7173,H00251,Thyroid dyshormonogenesis
+hsa:846,H00239,Bartter syndrome
+hsa:846,H00245,Calcium sensing receptor (CASR) related disease
+hsa:846,H00246,Primary hyperparathyroidism
+hsa:846,H00808,Idiopathic generalized epilepsies
+hsa:846,H01558,Parathyroid carcinoma
+hsa:846,H02026,Familial hypocalciuric hypercalcemia
+hsa:846,H02030,Neonatal hyperparathyroidism
+hsa:846,H03106,Autosomal dominant hypocalcemia
+hsa:7018,H01145,Atransferrinemia
+hsa:2064,H00018,Gastric cancer
+hsa:2064,H00019,Pancreatic cancer
+hsa:2064,H00022,Bladder cancer
+hsa:2064,H00026,Endometrial cancer
+hsa:2064,H00027,Ovarian cancer
+hsa:2064,H00028,Choriocarcinoma
+hsa:2064,H00030,Cervical cancer
+hsa:2064,H00031,Breast cancer
+hsa:2064,H00042,Glioma
+hsa:2064,H00046,Cholangiocarcinoma
+hsa:2064,H01508,Salivary gland cancer
+hsa:2064,H01554,Fallopian tube cancer
+hsa:2064,H03064,Familial visceral neuropathy
+hsa:4713,H00473,Mitochondrial complex I deficiency
+hsa:8854,H01241,Congenital diaphragmatic hernia
+hsa:3683,H00842,Epidermodysplasia verruciformis
+hsa:1103,H00770,Congenital myasthenic syndrome
+hsa:1909,H02126,Mandibulofacial dysostosis with alopecia
+hsa:2556,H02889,X-linked epilepsy-2 with or without impaired intellectual development and dysmorphic features
+hsa:51079,H00473,Mitochondrial complex I deficiency
+hsa:213,H00248,Analbuminemia
+hsa:213,H02893,Euthyroid hyperthyroxinemia
+hsa:762,H00527,Retinitis pigmentosa
+hsa:5860,H00167,Phenylketonuria
+hsa:126328,H00473,Mitochondrial complex I deficiency
+hsa:5422,H00658,X-linked syndromic intellectual developmental disorder
+hsa:5422,H02484,X-linked reticulate pigmentary disorder with systemic manifestations
+hsa:4695,H00473,Mitochondrial complex I deficiency
+hsa:4538,H00068,Leber hereditary optic atrophy
+hsa:4538,H00473,Mitochondrial complex I deficiency
+hsa:4538,H01355,Kearns-Sayre syndrome
+hsa:4538,H01365,Leber hereditary optic neuropathy and dystonia
+hsa:3248,H00457,Primary hypertrophic osteoarthropathy
+hsa:3248,H01246,Isolated congenital nail clubbing
+hsa:3778,H00808,Idiopathic generalized epilepsies
+hsa:3778,H01258,Generalized epilepsy and paroxysmal dyskinesia
+hsa:5241,H00031,Breast cancer
+hsa:3156,H00593,Limb-girdle muscular dystrophy
+hsa:788,H00525,Disorders of mitochondrial fatty-acid oxidation
+hsa:788,H01400,Secondary hyperammonemia
+hsa:788,H01983,Carnitine-acylcarnitine translocase deficiency
+hsa:788,H02596,Disorders of carnitine transport and the carnitine cycle
+hsa:4540,H00068,Leber hereditary optic atrophy
+hsa:4540,H00473,Mitochondrial complex I deficiency
+hsa:4540,H01347,MELAS syndrome
+hsa:4540,H01355,Kearns-Sayre syndrome
+hsa:4540,H01356,Myoclonic Epilepsy and Ragged-Red Fiber Disease
+hsa:1814,H01577,Essential tremor
+hsa:1814,H01649,Schizophrenia
+hsa:220,H01027,Microphthalmia
+hsa:6716,H00608,"46,XY disorder of sex development due to testosterone secretion defect"
+hsa:4190,H00606,Early infantile epileptic encephalopathy
+hsa:4715,H00473,Mitochondrial complex I deficiency
+hsa:64849,H02754,Acute reversible leukoencephalopathy with increased urinary alpha-ketoglutarate
+hsa:7054,H02557,Dopa-responsive dystonia
+hsa:4522,H00262,"Neural tube defects, folate-sensitive"
+hsa:4522,H02761,Combined immunodeficiency and megaloblastic anemia with or without hyperhomocysteinemia
+hsa:1646,H00607,"46,XY gonadal dysgenesis"
+hsa:2692,H00254,Growth hormone deficiency
+hsa:2692,H02035,Isolated growth hormone deficiency
+hsa:31,H02711,Acetyl-CoA carboxylase-alpha deficiency
+hsa:3043,H00228,Thalassemia
+hsa:3043,H00229,Sickle cell disease
+hsa:3043,H00235,Methemoglobinemia
+hsa:3043,H00236,Congenital polycythemia
+hsa:3043,H00361,Malaria
+hsa:3043,H02868,Heinz body anemia
+hsa:10846,H01570,Autosomal dominant striatal degeneration
+hsa:10846,H02388,Infantile-onset limb and orofacial dyskinesia
+hsa:673,H00014,Non-small cell lung cancer
+hsa:673,H00020,Colorectal cancer
+hsa:673,H00032,Thyroid cancer
+hsa:673,H00038,Melanoma
+hsa:673,H00523,Noonan syndrome and related disorders
+hsa:673,H01512,Langerhans cell histiocytosis
+hsa:673,H01738,Noonan syndrome
+hsa:673,H01745,Cardiofaciocutaneous syndrome
+hsa:673,H01984,Leopard syndrome
+hsa:673,H02425,Erdheim-Chester disease
+hsa:2890,H00768,Autosomal recessive intellectual developmental disorder
+hsa:2890,H00773,Autosomal dominant intellectual developmental disorder
+hsa:4313,H00025,Penile cancer
+hsa:4313,H00028,Choriocarcinoma
+hsa:4313,H00472,Torg syndrome
+hsa:3758,H00239,Bartter syndrome
+hsa:6531,H02676,Infantile-onset parkinsonism-dystonia
+hsa:2936,H00668,Anemia due to disorders of glutathione metabolism
+hsa:2936,H02999,Congenital nonspherocytic hemolytic anemia
+hsa:2057,H00236,Congenital polycythemia
+hsa:4536,H00068,Leber hereditary optic atrophy
+hsa:4536,H00473,Mitochondrial complex I deficiency
+hsa:5321,H02504,"Gastrointestinal ulceration, recurrent, with dysfunctional platelets"
+hsa:9517,H00265,Hereditary sensory and autonomic neuropathy
+hsa:5914,H02542,Acute promyelocytic leukemia
+hsa:91,H00019,Pancreatic cancer
+hsa:4306,H00243,Renal tubular acidosis type 4
+hsa:4306,H00603,Hypertension exacerbated in pregnancy
+hsa:4306,H01633,High blood pressure
+hsa:4306,H02310,Renal tubular acidosis
+hsa:6566,H01248,Monocarboxylate transporter 1 deficiency
+hsa:6566,H01267,Familial hyperinsulinemic hypoglycemia
+hsa:3784,H00720,Long QT syndrome
+hsa:3784,H00725,Short QT syndrome
+hsa:3784,H00731,Atrial fibrillation
+hsa:3784,H02091,Jervell and Lange-Nielsen syndrome
+hsa:4714,H00473,Mitochondrial complex I deficiency
+hsa:5406,H02330,Pancreatic lipase deficiency
+hsa:7067,H00250,Congenital nongoitrous hypothyroidism (CHNG)
+hsa:781,H00606,Early infantile epileptic encephalopathy
+hsa:6898,H00165,Tyrosinemia
+hsa:154,H00079,Asthma
+hsa:154,H02106,Genetic obesity
+hsa:8647,H00624,Progressive familial intrahepatic cholestasis
+hsa:8647,H02192,Benign recurrent intrahepatic cholestasis
+hsa:7124,H00079,Asthma
+hsa:7124,H00080,Systemic lupus erythematosus
+hsa:7124,H00083,Allograft rejection
+hsa:7124,H00084,Graft-versus-host disease
+hsa:7124,H00361,Malaria
+hsa:7124,H02525,Disorders of innate immunity
+hsa:3767,H00409,Type 2 diabetes mellitus
+hsa:3767,H00410,Maturity onset diabetes of the young (MODY)
+hsa:3767,H00512,Permanent neonatal diabetes mellitus
+hsa:3767,H00513,Transient neonatal diabetes mellitus
+hsa:3767,H01267,Familial hyperinsulinemic hypoglycemia
+hsa:79001,H00995,Combined deficiency of vitamin K-dependent clotting factors
+hsa:79001,H01205,Coumarin resistance
+hsa:587,H02546,Hypervalinemia and hyperleucine-isoleucinemia
+hsa:4720,H00473,Mitochondrial complex I deficiency
+hsa:4720,H02952,Autosomal recessive Leber-like hereditary optic neuropathy
+hsa:1584,H00216,Congenital adrenal hyperplasia
+hsa:1584,H00602,Glucocorticoid-remediable aldosteronism (GRA)
+hsa:1584,H01603,Primary aldosteronism
+hsa:1584,H01633,High blood pressure
+hsa:476,H00264,Charcot-Marie-Tooth disease
+hsa:476,H01210,Hypomagnesemia
+hsa:476,H01603,Primary aldosteronism
+hsa:4548,H00183,Homocystinuria
+hsa:4548,H00262,"Neural tube defects, folate-sensitive"
+hsa:4548,H01285,Methylcobalamin deficiency type G
+hsa:3162,H01714,Chronic obstructive pulmonary disease (COPD)
+hsa:3162,H02929,Heme oxygenase-1 deficiency
+hsa:1135,H00807,Nocturnal frontal lobe epilepsy
+hsa:6261,H00699,Central core disease
+hsa:6261,H01310,Multi-minicore disease
+hsa:6261,H01810,Congenital myopathy
+hsa:6261,H02646,Malignant hyperthermia
+hsa:3035,H00264,Charcot-Marie-Tooth disease
+hsa:3035,H00779,Usher syndrome
+hsa:2742,H00658,X-linked syndromic intellectual developmental disorder
+hsa:2263,H00018,Gastric cancer
+hsa:2263,H00458,Syndromic craniosynostoses
+hsa:2263,H00642,Lacrimo-auriculo-dento-digital syndrome
+hsa:2263,H01753,Antley-Bixler syndrome
+hsa:2263,H01754,Crouzon syndrome
+hsa:2263,H01755,Apert syndrome
+hsa:2263,H01756,Pfeiffer syndrome
+hsa:2263,H01988,Jackson-Weiss syndrome
+hsa:2263,H01989,Beare-Stevenson syndrome
+hsa:2263,H01991,Saethre-Chotzen syndrome
+hsa:2263,H02629,Bent bone dysplasia syndrome
+hsa:2263,H02932,"Scaphocephaly, maxillary retrusion, and impaired intellectual development"
+hsa:6532,H01450,Obsessive-compulsive disorder
+hsa:6532,H01662,Generalized anxiety disorder
+hsa:6548,H01891,Autosomal recessive spinocerebellar ataxias
+hsa:5053,H00167,Phenylketonuria
+hsa:55967,H00473,Mitochondrial complex I deficiency
+hsa:6583,H00630,Rheumatoid arthritis
+hsa:6915,H01235,Bleeding disorder platelet-type
+hsa:2903,H01514,Landau-Kleffner syndrome
+hsa:2903,H01827,"Rolandic epilepsy, mental retardation, and speech dyspraxia"
+hsa:3614,H00527,Retinitis pigmentosa
+hsa:3614,H00837,Leber congenital amaurosis
+hsa:1181,H00808,Idiopathic generalized epilepsies
+hsa:1181,H01603,Primary aldosteronism
+hsa:1181,H02216,Juvenile absence epilepsy
+hsa:1181,H02217,Juvenile myoclonic epilepsy
+hsa:1181,H03111,Leukoencephalopathy with ataxia
+hsa:1956,H00014,Non-small cell lung cancer
+hsa:1956,H00016,Oral cancer
+hsa:1956,H00017,Esophageal cancer
+hsa:1956,H00022,Bladder cancer
+hsa:1956,H00028,Choriocarcinoma
+hsa:1956,H00030,Cervical cancer
+hsa:1956,H00031,Breast cancer
+hsa:1956,H00042,Glioma
+hsa:1956,H00055,Laryngeal cancer
+hsa:1956,H01508,Salivary gland cancer
+hsa:1956,H01559,Oropharyngeal cancer
+hsa:1956,H02467,Neonatal inflammatory skin and bowel disease
+hsa:51520,H01367,Infantile liver failure
+hsa:2224,H01933,Porokeratosis
+hsa:8879,H01657,Nephrotic syndrome
+hsa:7421,H00342,Tuberculosis
+hsa:7421,H01143,Vitamin D-dependent rickets
+hsa:4191,H00606,Early infantile epileptic encephalopathy
+hsa:3736,H00749,Episodic ataxias
+hsa:4363,H00604,"Deafness, autosomal dominant"
+hsa:2100,H00599,Ovarian dysgenesis
+hsa:2908,H01702,Glucocorticoid resistance syndrome
+hsa:2554,H00606,Early infantile epileptic encephalopathy
+hsa:2554,H00808,Idiopathic generalized epilepsies
+hsa:2554,H02215,Childhood absence epilepsy
+hsa:2554,H02217,Juvenile myoclonic epilepsy
+hsa:2950,H00024,Prostate cancer
+hsa:2876,H00668,Anemia due to disorders of glutathione metabolism
+hsa:2911,H00063,Spinocerebellar ataxia (SCA)
+hsa:2911,H01891,Autosomal recessive spinocerebellar ataxias
+hsa:2744,H00606,Early infantile epileptic encephalopathy
+hsa:2744,H02846,"Global developmental delay, progressive ataxia, and elevated glutamine"
+hsa:2744,H02847,CASGID syndrome
+hsa:2898,H00768,Autosomal recessive intellectual developmental disorder
+hsa:2898,H02894,Neurodevelopmental disorder with impaired language and ataxia and with or without seizures
+hsa:2891,H02705,Neurodevelopmental disorder with glutamatergic synapse dysfunction
+hsa:2891,H02887,Neurodevelopmental disorder with language impairment and behavioral abnormalities
+hsa:2893,H02705,Neurodevelopmental disorder with glutamatergic synapse dysfunction
+hsa:2893,H02888,Neurodevelopmental disorder with or without seizures and gait abnormalities
+hsa:2892,H00658,X-linked syndromic intellectual developmental disorder
+hsa:2917,H02705,Neurodevelopmental disorder with glutamatergic synapse dysfunction
+hsa:2917,H02886,"Neurodevelopmental disorder with seizures, hypotonia, and brain imaging abnormalities"
+hsa:6714,H00020,Colorectal cancer
+hsa:6714,H00978,Thrombocytopenia (THC)
+hsa:1969,H01202,Cataract
+hsa:3932,H00093,Combined immunodeficiency
+hsa:4158,H00033,Adrenal carcinoma
+hsa:4158,H00256,Familial glucocorticoid deficiency
+hsa:4158,H02049,Bilateral macronodular adrenal hyperplasia
+hsa:1137,H00807,Nocturnal frontal lobe epilepsy
+hsa:1141,H00807,Nocturnal frontal lobe epilepsy
+hsa:5156,H00042,Glioma
+hsa:5156,H01590,Chronic eosinophilic leukemia
+hsa:5156,H01591,Gastrotintestinal stromal tumor
+hsa:5156,H01599,Hypereosinophilic syndrome
+hsa:1436,H00028,Choriocarcinoma
+hsa:1436,H01807,Hereditary diffuse leukoencephalopathy with spheroids
+hsa:1436,H03015,"Brain abnormalities, neurodegeneration, and dysosteosclerosis"
+hsa:3480,H00015,Malignant pleural mesothelioma
+hsa:3480,H00048,Hepatocellular carcinoma
+hsa:3480,H00050,Synovial sarcoma
+hsa:3480,H01274,Growth delay due to insulin-like growth factor I resistance
+hsa:8912,H00808,Idiopathic generalized epilepsies
+hsa:8912,H01603,Primary aldosteronism
+hsa:8912,H02215,Childhood absence epilepsy
+hsa:51181,H01065,Pentosuria
+hsa:5604,H00523,Noonan syndrome and related disorders
+hsa:5604,H01512,Langerhans cell histiocytosis
+hsa:5604,H01745,Cardiofaciocutaneous syndrome
+hsa:5604,H02425,Erdheim-Chester disease
+hsa:5604,H02631,Melorheostosis
+hsa:2548,H00069,Glycogen storage disease
+hsa:2548,H01762,Muscle glycogen storage disease
+hsa:2548,H01940,Glycogen storage disease type II
+hsa:6622,H00057,Parkinson disease
+hsa:6622,H00066,Lewy body dementia (LBD)
+hsa:6622,H01600,Parkinsonian syndrome
+hsa:9734,H01884,Auriculocondylar syndrome
+hsa:6506,H00606,Early infantile epileptic encephalopathy
+hsa:6506,H01819,Early myoclonic encephalopathy
+hsa:2678,H02750,Glutathionuria
+hsa:1020,H00268,Lissencephaly
+hsa:6777,H00931,Growth hormone insensitivity with immunodeficiency
+hsa:1786,H00265,Hereditary sensory and autonomic neuropathy
+hsa:1786,H02940,"Autosomal dominant cerebellar ataxia, deafness, and narcolepsy"
+hsa:5328,H01235,Bleeding disorder platelet-type
+hsa:3785,H00606,Early infantile epileptic encephalopathy
+hsa:3785,H00806,Benign familial neonatal seizure
+hsa:9227,H00837,Leber congenital amaurosis
+hsa:5105,H02520,Phosphoenolpyruvate carboxykinase deficiency
+hsa:6697,H02597,Sepiapterin reductase deficiency
+hsa:1234,H00408,Type 1 diabetes mellitus
+hsa:1234,H00413,Hepatitis C
+hsa:1234,H01548,West Nile fever
+hsa:1234,H01563,HIV infection
+hsa:4758,H00142,Sialidosis
+hsa:4758,H00422,Glycoproteinoses
+hsa:4233,H00014,Non-small cell lung cancer
+hsa:4233,H00018,Gastric cancer
+hsa:4233,H00021,Renal cell carcinoma
+hsa:4233,H00046,Cholangiocarcinoma
+hsa:4233,H00048,Hepatocellular carcinoma
+hsa:4233,H00605,"Deafness, autosomal recessive"
+hsa:4233,H00811,Distal arthrogryposis
+hsa:4233,H01985,Desmoplastic small round cell tumor
+hsa:5837,H00069,Glycogen storage disease
+hsa:5837,H01762,Muscle glycogen storage disease
+hsa:5837,H01943,Glycogen storage disease type V
+hsa:3569,H00084,Graft-versus-host disease
+hsa:3569,H00286,Crohn disease
+hsa:3569,H00630,Rheumatoid arthritis
+hsa:3569,H01479,Castleman disease
+hsa:3569,H01672,Juvenile idiopathic arthritis
+hsa:7852,H00097,WHIM syndrome
+hsa:4312,H00028,Choriocarcinoma
+hsa:4312,H01714,Chronic obstructive pulmonary disease (COPD)
+hsa:5594,H01738,Noonan syndrome
+hsa:5444,H01457,Diabetic retinopathy
+hsa:5444,H02559,Microvascular complications of diabetes
+hsa:1508,H00932,Tropical calcific pancreatitis
+hsa:1508,H02920,Keratolytic winter erythema
+hsa:6536,H02419,Glycine encephalopathy with normal serum glycine
+hsa:1509,H00149,Neuronal ceroid lipofuscinosis
+hsa:1509,H02279,Neuronal ceroid lipofuscinosis due to Cathepsin D deficiency
+hsa:4036,H00886,Donnai-Barrow syndrome
+hsa:3458,H00083,Allograft rejection
+hsa:3458,H00084,Graft-versus-host disease
+hsa:3458,H00342,Tuberculosis
+hsa:3458,H00413,Hepatitis C
+hsa:3458,H01132,Aplastic anemia
+hsa:3458,H01563,HIV infection
+hsa:3458,H01725,Primary immunodeficiency disease
+hsa:387129,H02849,Familial natural short sleep
+hsa:2053,H00155,Familial hypercholesterolemia
+hsa:1950,H00020,Colorectal cancer
+hsa:1950,H01210,Hypomagnesemia
+hsa:5295,H00085,Agammaglobulinemias
+hsa:5295,H01370,SHORT syndrome
+hsa:5295,H01387,Activated PI3K-delta syndrome
+hsa:1977,H02111,Autism
+hsa:1806,H00193,Dihydropyrimidine dehydrogenase deficiency
+hsa:6611,H00597,Snyder-Robinson syndrome
+hsa:4322,H00479,Metaphyseal dysplasias
+hsa:4322,H02187,Spondyloepimetaphyseal dysplasia
+hsa:6609,H00137,Niemann-Pick disease type A/B
+hsa:6609,H00423,Sphingolipidosis
+hsa:6609,H00424,Defects in the degradation of sphingomyelin
+hsa:6352,H01563,HIV infection
+hsa:2629,H00066,Lewy body dementia (LBD)
+hsa:2629,H00126,Gaucher disease
+hsa:2629,H00423,Sphingolipidosis
+hsa:7040,H00083,Allograft rejection
+hsa:7040,H00084,Graft-versus-host disease
+hsa:7040,H00218,Cystic fibrosis
+hsa:7040,H00434,Camurati-Engelmann disease
+hsa:7040,H02669,"Inflammatory bowel disease, immunodeficiency, and encephalopathy"
+hsa:1499,H00018,Gastric cancer
+hsa:1499,H00020,Colorectal cancer
+hsa:1499,H00026,Endometrial cancer
+hsa:1499,H00027,Ovarian cancer
+hsa:1499,H00032,Thyroid cancer
+hsa:1499,H00048,Hepatocellular carcinoma
+hsa:1499,H00589,Familial exudative vitreoretinopathy
+hsa:1499,H00773,Autosomal dominant intellectual developmental disorder
+hsa:1499,H00947,Pilomatricoma
+hsa:1499,H01667,Medulloblastoma
+hsa:1499,H02301,Nephroblastoma
+hsa:1499,H02302,Hepatoblastoma
+hsa:7172,H00964,Poor metabolism of thiopurines
+hsa:6790,H00020,Colorectal cancer
+hsa:4882,H00470,"Acromesomelic dysplasia, Maroteaux type"
+hsa:4882,H02543,Acromesomelic dysplasia
+hsa:4882,H02679,Miura-type epiphyseal chondrodysplasia
+hsa:4882,H02681,Short stature with nonspecific skeletal abnormalities
+hsa:4193,H00025,Penile cancer
+hsa:4193,H00028,Choriocarcinoma
+hsa:4193,H00036,Osteosarcoma
+hsa:4193,H00037,Rhabdomyosarcoma
+hsa:4193,H00042,Glioma
+hsa:4193,H01513,Retinoblastoma
+hsa:4193,H01667,Medulloblastoma
+hsa:4193,H03090,Lessel-Kubisch syndrome
+hsa:10599,H00208,Hyperbilirubinemia
+hsa:10599,H02057,Rotor syndrome
+hsa:54205,H00978,Thrombocytopenia (THC)
+hsa:155,H02106,Genetic obesity
+hsa:3827,H01006,Hereditary angioedema
+hsa:3827,H03056,High molecular weight kininogen deficiency
+hsa:2160,H00938,Factor XI deficiency
+hsa:595,H00006,Hairy cell leukemia
+hsa:595,H00010,Multiple myeloma
+hsa:595,H00016,Oral cancer
+hsa:595,H00017,Esophageal cancer
+hsa:595,H00020,Colorectal cancer
+hsa:595,H00031,Breast cancer
+hsa:595,H00055,Laryngeal cancer
+hsa:595,H00559,von Hippel-Lindau syndrome
+hsa:595,H01464,Mantle cell lymphoma
+hsa:3558,H00084,Graft-versus-host disease
+hsa:3558,H00408,Type 1 diabetes mellitus
+hsa:3763,H02236,Keppen-Lubinsky syndrome
+hsa:5243,H01227,Inflammatory bowel disease (IBD)
+hsa:5243,H01529,Avascular necrosis of femoral head
+hsa:5243,H02831,Acute transient encephalopathy
+hsa:2235,H00201,Erythropoietic porphyria
+hsa:2235,H01763,Porphyria
+hsa:4914,H00032,Thyroid cancer
+hsa:4914,H00043,Neuroblastoma
+hsa:4914,H00265,Hereditary sensory and autonomic neuropathy
+hsa:4914,H01836,Congenital pain insensitivity with anhidrosis
+hsa:6514,H00069,Glycogen storage disease
+hsa:6514,H01947,Fanconi-Bickel syndrome
+hsa:6347,H00342,Tuberculosis
+hsa:6347,H01563,HIV infection
+hsa:6347,H02563,Neural tube defects
+hsa:6505,H00911,Dicarboxylic aminoaciduria
+hsa:6505,H01649,Schizophrenia
+hsa:2645,H00409,Type 2 diabetes mellitus
+hsa:2645,H00410,Maturity onset diabetes of the young (MODY)
+hsa:2645,H00512,Permanent neonatal diabetes mellitus
+hsa:2645,H01267,Familial hyperinsulinemic hypoglycemia
+hsa:6513,H00232,Hereditary stomatocytosis
+hsa:6513,H00808,Idiopathic generalized epilepsies
+hsa:6513,H00831,Primary dystonia
+hsa:6513,H00836,GLUT1 deficiency syndrome
+hsa:6513,H02002,Cryohydrocytosis
+hsa:183,H00575,Renal tubular dysgenesis
+hsa:183,H01633,High blood pressure
+hsa:9429,H01532,Gout
+hsa:1244,H00208,Hyperbilirubinemia
+hsa:1244,H02056,Dubin-Johnson syndrome
+hsa:5781,H00523,Noonan syndrome and related disorders
+hsa:5781,H01018,Metachondromatosis
+hsa:5781,H01738,Noonan syndrome
+hsa:5781,H01984,Leopard syndrome
+hsa:5781,H02410,Myelodysplastic/myeloproliferative neoplasms
+hsa:5781,H02541,Juvenile myelomonocytic leukemia
+hsa:4353,H02025,Myeloperoxidase deficiency
+hsa:3265,H00022,Bladder cancer
+hsa:3265,H00025,Penile cancer
+hsa:3265,H00030,Cervical cancer
+hsa:3265,H00032,Thyroid cancer
+hsa:3265,H00040,Squamous cell carcinoma
+hsa:3265,H00523,Noonan syndrome and related disorders
+hsa:3265,H01470,Giant cell tumor of bone
+hsa:3265,H01555,Merkel cell carcinoma
+hsa:3265,H01592,Medullary thyroid cancer
+hsa:3265,H01666,Angiosarcoma
+hsa:3265,H01747,Costello syndrome
+hsa:3265,H02627,Epidermal nevus
+hsa:3265,H02628,Schimmelpenning-Feuerstein-Mims syndrome
+hsa:3265,H02874,Congenital melanocytic nevus syndrome
+hsa:8398,H00057,Parkinson disease
+hsa:8398,H00833,Neurodegeneration with brain iron accumulation
+hsa:3383,H00083,Allograft rejection
+hsa:3383,H00361,Malaria
+hsa:4790,H00088,Common variable immunodeficiency
+hsa:2539,H00361,Malaria
+hsa:2539,H00668,Anemia due to disorders of glutathione metabolism
+hsa:2539,H01375,Glucose 6-phosphate dehydrogenase deficiency
+hsa:2539,H02999,Congenital nonspherocytic hemolytic anemia
+hsa:4803,H00265,Hereditary sensory and autonomic neuropathy
+hsa:4907,H00824,Calcification of joints and arteries
+hsa:5602,H01813,Lennox-Gastaut syndrome
+hsa:5621,H00061,Prion disease
+hsa:5621,H01243,Huntington disease-like syndrome
+hsa:3098,H00264,Charcot-Marie-Tooth disease
+hsa:3098,H00527,Retinitis pigmentosa
+hsa:3098,H00664,Anemia due to disorders of glycolytic enzymes
+hsa:3098,H02470,Neurodevelopmental disorder with structural brain abnormalities
+hsa:3098,H02999,Congenital nonspherocytic hemolytic anemia
+hsa:5879,H00773,Autosomal dominant intellectual developmental disorder
+hsa:1545,H01159,Anterior segment dysgenesis
+hsa:1545,H01203,Primary congenital glaucoma
+hsa:6507,H00749,Episodic ataxias
+hsa:4314,H01742,Coronary artery disease
+hsa:4056,H02284,Leukotriene C4 synthase deficiency
+hsa:3082,H00048,Hepatocellular carcinoma
+hsa:3082,H00605,"Deafness, autosomal recessive"
+hsa:8989,H01391,Familial episodic pain syndrome
+hsa:4507,H02735,Diaphyseal medullary stenosis with malignant fibrous histiocytoma
+hsa:7132,H00912,Tumor necrosis factor receptor-associated periodic syndrome
+hsa:7132,H01490,Multiple sclerosis
+hsa:6335,H00265,Hereditary sensory and autonomic neuropathy
+hsa:6335,H00771,Inherited erythromelalgia
+hsa:6335,H00772,Paroxysmal extreme pain disorder
+hsa:6335,H00774,Congenital insensitivity to pain
+hsa:1725,H02459,Syndromic neurodevelopmental disorder
+hsa:3074,H00124,GM2 gangliosidoses
+hsa:3074,H00423,Sphingolipidosis
+hsa:3074,H00426,Gangliosidosis
+hsa:3074,H02017,Sandhoff disease
+hsa:3551,H00093,Combined immunodeficiency
+hsa:3690,H00083,Allograft rejection
+hsa:3690,H00226,Glanzmann thrombasthenia
+hsa:3690,H01235,Bleeding disorder platelet-type
+hsa:3690,H01730,Myocardial infarction
+hsa:3690,H01740,Macrothrombocytopenia
+hsa:3690,H02979,Fetomaternal alloimmune thrombocytopenia
+hsa:331,H00107,Other well-defined immunodeficiency syndromes
+hsa:331,H01969,X-linked lymphoproliferative syndrome
+hsa:7097,H00342,Tuberculosis
+hsa:7097,H00344,Leprosy
+hsa:208,H00027,Ovarian cancer
+hsa:208,H00409,Type 2 diabetes mellitus
+hsa:208,H00420,Familial partial lipodystrophy
+hsa:208,H01909,Hypoinsulinemic hypoglycemia with hemihypertrophy
+hsa:1528,H00235,Methemoglobinemia
+hsa:5660,H00057,Parkinson disease
+hsa:5660,H00126,Gaucher disease
+hsa:5660,H00127,Metachromatic leukodystrophy
+hsa:5660,H00135,Krabbe disease
+hsa:5660,H00423,Sphingolipidosis
+hsa:5660,H01239,Combined SAP deficiency
+hsa:6476,H00115,Congenital sucrase-isomaltase deficiency
+hsa:2335,H01260,Glomerulopathy with fibronectin deposits
+hsa:2335,H02185,Spondylometaphyseal dysplasia
+hsa:283,H00058,Amyotrophic lateral sclerosis (ALS)
+hsa:387,H02456,Ectodermal dysplasia
+hsa:1080,H00218,Cystic fibrosis
+hsa:1080,H00933,Hereditary pancreatitis
+hsa:1080,H01033,Congenital bilateral absence of vas deferens
+hsa:412,H00134,X-linked ichthyosis
+hsa:1854,H02529,Bone marrow failure syndrome
+hsa:847,H00203,Acatalasemia
+hsa:1457,H02854,Okur-Chung neurodevelopmental syndrome
+hsa:28960,H01878,Al-Raqad syndrome
+hsa:1841,H02808,Childhood-onset neurodegeneration with progressive microcephaly
+hsa:471,H00966,AICA-ribosiduria
+hsa:3417,H00042,Glioma
+hsa:3417,H01892,Peripheral T cell lymphoma
+hsa:3417,H02410,Myelodysplastic/myeloproliferative neoplasms
+hsa:203,H00674,Anemia due to disorders of nucleotide metabolism
+hsa:203,H02999,Congenital nonspherocytic hemolytic anemia
+hsa:6820,H00734,Autosomal recessive congenital ichthyosis
+hsa:7053,H01796,Uncombable hair syndrome
+hsa:695,H00085,Agammaglobulinemias
+hsa:695,H00254,Growth hormone deficiency
+hsa:695,H02035,Isolated growth hormone deficiency
+hsa:5144,H02211,Acrodysostosis
+hsa:7535,H00093,Combined immunodeficiency
+hsa:7535,H02540,Infantile-onset multisystem autoimmune disease
+hsa:5294,H00093,Combined immunodeficiency
+hsa:6850,H02526,Disorders of adaptive immunity
+hsa:7846,H01881,Complex cortical dysplasia with other brain malformations
+hsa:3702,H00107,Other well-defined immunodeficiency syndromes
+hsa:3702,H01970,Lymphoproliferative syndrome
+hsa:51807,H01740,Macrothrombocytopenia
+hsa:10383,H00837,Leber congenital amaurosis
+hsa:84790,H01897,Oocyte/zygote/embryo maturation arrest
+hsa:7277,H01351,Spastic ataxia
+hsa:7277,H01810,Congenital myopathy
+hsa:7277,H01897,Oocyte/zygote/embryo maturation arrest
+hsa:7277,H02342,Frontotemporal dementia and amyotrophic lateral sclerosis
+hsa:10382,H00679,Hypomyelinating leukodystrophy
+hsa:10382,H00831,Primary dystonia
+hsa:11253,H00768,Autosomal recessive intellectual developmental disorder
+hsa:10381,H00838,Congenital fibrosis of the extraocular muscles
+hsa:10381,H01881,Complex cortical dysplasia with other brain malformations
+hsa:3055,H02660,Autoinflammation with pulmonary and cutaneous vasculitis
+hsa:4047,H00786,Hypotrichosis
+hsa:4047,H01202,Cataract
+hsa:4047,H02303,Alopecia-mental retardation syndrome
+hsa:3094,H02390,Autosomal recessive neuromyotonia and axonal neuropathy
+hsa:8722,H00149,Neuronal ceroid lipofuscinosis
+hsa:8722,H02276,Kufs disease
+hsa:2582,H00070,Galactosemia
+hsa:2582,H00978,Thrombocytopenia (THC)
+hsa:2582,H02010,Galactose epimerase deficiency
+hsa:716,H00102,Classic complement pathway component defects
+hsa:716,H02240,Ehlers-Danlos syndrome periodontal type
+hsa:55869,H00631,Cornelia de Lange syndrome
+hsa:7389,H00201,Erythropoietic porphyria
+hsa:7389,H00202,Hepatic porphyria
+hsa:7389,H01763,Porphyria
+hsa:771,H01302,Hyperchlorhidrosis isolated (HCHLH)
+hsa:6768,H00734,Autosomal recessive congenital ichthyosis
+hsa:6768,H00739,Ichthyosis with hypotrichosis
+hsa:226,H00069,Glycogen storage disease
+hsa:226,H01762,Muscle glycogen storage disease
+hsa:226,H01952,Glycogen storage disease type XII
+hsa:191,H00184,Hypermethioninemia
+hsa:2272,H00013,Small cell lung cancer
+hsa:2272,H00014,Non-small cell lung cancer
+hsa:629,H00104,Alternative complement pathway component defects
+hsa:629,H00821,Age-related macular degeneration
+hsa:629,H01434,Atypical hemolytic uremic syndrome
+hsa:5644,H00933,Hereditary pancreatitis
+hsa:1612,H00022,Bladder cancer
+hsa:9971,H00624,Progressive familial intrahepatic cholestasis
+hsa:1675,H00104,Alternative complement pathway component defects
+hsa:3832,H01876,"Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation"
+hsa:4282,H00630,Rheumatoid arthritis
+hsa:4282,H01672,Juvenile idiopathic arthritis
+hsa:7048,H00017,Esophageal cancer
+hsa:7048,H00020,Colorectal cancer
+hsa:7048,H00048,Hepatocellular carcinoma
+hsa:7048,H00800,Loeys-Dietz syndrome
+hsa:7048,H00801,Familial thoracic aortic aneurysm and dissection
+hsa:7048,H02565,Hereditary nonpolyposis colorectal cancer
+hsa:6916,H00490,Diaphyseal dysplasia with anemia
+hsa:2639,H00178,Glutaric acidemia
+hsa:6326,H00606,Early infantile epileptic encephalopathy
+hsa:6326,H00749,Episodic ataxias
+hsa:6326,H02362,Benign familial infantile seizure
+hsa:6328,H00606,Early infantile epileptic encephalopathy
+hsa:6328,H02214,Familial focal epilepsy with variable foci
+hsa:6329,H00215,Periodic paralysis
+hsa:6329,H00743,Paramyotonia congenita
+hsa:6329,H00744,Potassium-aggravated myotonia
+hsa:6329,H00745,Hyperkalemic periodic paralysis
+hsa:6329,H00746,Hypokalemic periodic paralysis
+hsa:6329,H00770,Congenital myasthenic syndrome
+hsa:6329,H01780,Non-dystrophic myotonia
+hsa:6329,H01810,Congenital myopathy
+hsa:6334,H00606,Early infantile epileptic encephalopathy
+hsa:6334,H02362,Benign familial infantile seizure
+hsa:6334,H02789,Familial myoclonus
+hsa:6334,H02980,Cognitive impairment with or without cerebellar ataxia
+hsa:5138,H02463,Syndromic intellectual developmental disorder
+hsa:2104,H03104,Congenital nonprogressive movement disorder with ataxia and eye movement abnormalities
+hsa:1312,H01649,Schizophrenia
+hsa:1588,H00794,Aromatase excess syndrome
+hsa:1588,H02020,Aromatase deficiency
+hsa:715,H02240,Ehlers-Danlos syndrome periodontal type
+hsa:2260,H00031,Breast cancer
+hsa:2260,H00255,Hypogonadotropic hypogonadism
+hsa:2260,H00443,Osteoglophonic dysplasia
+hsa:2260,H00458,Syndromic craniosynostoses
+hsa:2260,H01207,Trigonocephaly
+hsa:2260,H01756,Pfeiffer syndrome
+hsa:2260,H01850,Hartsfield syndrome
+hsa:2260,H01988,Jackson-Weiss syndrome
+hsa:2261,H00010,Multiple myeloma
+hsa:2261,H00020,Colorectal cancer
+hsa:2261,H00022,Bladder cancer
+hsa:2261,H00023,Testicular cancer
+hsa:2261,H00030,Cervical cancer
+hsa:2261,H00458,Syndromic craniosynostoses
+hsa:2261,H00505,FGFR3-related short limb skeletal dysplasia
+hsa:2261,H00642,Lacrimo-auriculo-dento-digital syndrome
+hsa:2261,H00997,CATSHL syndrome
+hsa:2261,H01749,Achondroplasia
+hsa:2261,H01750,Thanatophoric dysplasia
+hsa:2261,H01754,Crouzon syndrome
+hsa:2261,H01990,Muenke syndrome
+hsa:2261,H02068,Hypochondroplasia
+hsa:2261,H02069,SADDAN
+hsa:2261,H02627,Epidermal nevus
+hsa:1644,H01161,Aromatic L-amino acid decarboxylase deficiency
+hsa:590,H02432,Butyrylcholinesterase deficiency
+hsa:5337,H02375,Cardiac valvular dysplasia
+hsa:1890,H00469,Mitochondrial DNA depletion syndrome
+hsa:1890,H01390,Mitochondrial neurogastrointestinal encephalomyopathy
+hsa:4128,H00548,Brunner syndrome
+hsa:7498,H00192,Xanthinuria
+hsa:1021,H00269,Primary microcephaly
+hsa:100,H00092,T-B-Severe combined immunodeficiency
+hsa:100,H02309,Adenosine deaminase deficiency
+hsa:1019,H00030,Cervical cancer
+hsa:1019,H00038,Melanoma
+hsa:1019,H00042,Glioma
+hsa:1019,H00269,Primary microcephaly
+hsa:54583,H00236,Congenital polycythemia
+hsa:3762,H00720,Long QT syndrome
+hsa:3762,H01603,Primary aldosteronism
+hsa:54681,H02463,Syndromic intellectual developmental disorder
+hsa:1024,H02463,Syndromic intellectual developmental disorder
+hsa:10606,H03014,Phosphoribosylaminoimidazole carboxylase deficiency
+hsa:774,H02859,Neurodevelopmental disorder with seizures and nonepileptic hyperkinetic movements
+hsa:790,H00606,Early infantile epileptic encephalopathy
+hsa:2752,H00606,Early infantile epileptic encephalopathy
+hsa:2752,H00923,Congenital systemic glutamine deficiency
+hsa:2752,H01400,Secondary hyperammonemia
+hsa:8974,H02041,Myopia

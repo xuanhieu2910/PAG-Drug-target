@@ -1,9 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a734600a-935b-4ea8-b374-b7b6d5f114f0" name="Changes" comment="implement layers DeepADR">
+    <list default="true" id="a734600a-935b-4ea8-b374-b7b6d5f114f0" name="Changes" comment="Crawl datasets">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/db-forest-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convert_ncbi_gene_to_disease_to_hsa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/DRUG_SMILES.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/PubChem_substance_Data_Source__DrugBank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/UniProt_ids.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/kegg_disease.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/kegg_drug_target.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/kegg_element.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/kegg_network.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/kegg_pathway.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/kegg_properties.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/unit_protein_id_kegg_gene_BABABABAB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/raw/unit_protein_id_kegg_gene_DONE.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genes_to_disease_hsa.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_disease.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_human_phenotypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpo_terms.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mondo_human_diseases.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mondo_human_gene_disease.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mondo_human_mapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mondo_human_phenotype.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mondo_human_phenotype_percent.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ncbi_kegg_gene_mapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projection_disease_to_mondo_hp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projection_genes_human_mondo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projection_mondo_human_gene_disease.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projection_mondo_human_phenotype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projection_mondo_human_phenotype_percentage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projection_ncbigene_kegg_gene.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/ADR_DP_Networks/data/raw/DP/hp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/ADR_DP_Networks/data/raw/DP/hp.obo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/ADR_DP_Networks/data/raw/DP/phenotype.hpoa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/ADR_DP_Networks/data/raw/Disease/mondo.obo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/ADR_DP_Networks/data/raw/Disease/mondo.sssom.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/ADR_DP_Networks/data/raw/Gene_disease/genes_to_disease.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/adr_annotations/Supplementary Data 9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/molecular/PubChemAnnotations_DrugsFDA_FDA-Approved-Drugs-Compound.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/data/raw/molecular/PubChemAnnotations_DrugsFDA_Human-Drugs-Compound.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/DeepADR/references/molformer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/references/DeepADR/models/attention_cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/references/DeepADR/models/attention_cnn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +111,8 @@
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "hieu",
-    "last_opened_file_path": "D:/Research/PAG-DrugTarget",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Research/PAG-DrugTarget/references/ADR_DP_Networks/data/raw/Gene_disease",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
@@ -68,9 +124,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Research\PAG-DrugTarget\references\ADR_DP_Networks\data\raw\Gene_disease" />
+      <recent name="D:\Research\PAG-DrugTarget\references\ADR_DP_Networks\data\raw\DP" />
+      <recent name="D:\Research\PAG-DrugTarget\references\ADR_DP_Networks\data\raw\Disease" />
+      <recent name="D:\Research\PAG-DrugTarget\datasets\raw" />
       <recent name="D:\Research\PAG-DrugTarget" />
-      <recent name="D:\Research\PAG-DrugTarget\references\DeepADR\data\raw\molecular" />
-      <recent name="D:\Research\PAG-DrugTarget\references\DeepADR\data\raw\adr_annotations" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Research\PAG-DrugTarget\references\DeepADR\references" />
@@ -100,7 +158,10 @@
       <workItem from="1789721663331" duration="4291000" />
       <workItem from="1791519380792" duration="183000" />
       <workItem from="1791519600699" duration="7950000" />
-      <workItem from="1791772069667" duration="31988000" />
+      <workItem from="1791772069667" duration="39567000" />
+      <workItem from="1792375760673" duration="7266000" />
+      <workItem from="1792657458707" duration="8527000" />
+      <workItem from="1792727506424" duration="10375000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <option name="closed" value="true" />
@@ -118,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789203442968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Crawl datasets">
+      <option name="closed" value="true" />
+      <created>1791887052747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791887052747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
     <MESSAGE value="implement layers DeepADR" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement layers DeepADR" />
+    <MESSAGE value="Crawl datasets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crawl datasets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
